@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "packs": [
+    {
+      "id": "2026-10-alt-cunningham",
+      "title": {
+        "fr": "Alt Cunningham · Mother of Daemons (#161)",
+        "en": "Alt Cunningham · Mother of Daemons (#161)"
+      },
+      "file": "https://github.com/PommeSauce0/cybercardex-data/releases/download/2026-10-alt-cunningham/2026-10-alt-cunningham.zip",
+      "size": 300648,
+      "sha256": "9f3c0bc759beef2b5aad9aeb96cf29d291c93b4e23ef760d27d4e4d3ba2466aa",
+      "minApp": 30000,
+      "printings": [
+        "7b20d318-5d0c-41fd-8a50-2b53b944e9bc",
+        "3a2a23fa-a0d7-46c6-9a99-a131b0a987ed"
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-13T01:38:13.819Z"
+}
