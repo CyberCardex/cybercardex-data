@@ -11,11 +11,15 @@
       "size": 300648,
       "sha256": "9f3c0bc759beef2b5aad9aeb96cf29d291c93b4e23ef760d27d4e4d3ba2466aa",
       "minApp": 30000,
+      "cards": 1,
+      "sets": [
+        "Welcome to Night City Retail"
+      ],
       "printings": [
         "7b20d318-5d0c-41fd-8a50-2b53b944e9bc",
         "3a2a23fa-a0d7-46c6-9a99-a131b0a987ed"
       ]
     }
   ],
-  "updatedAt": "2026-10-13T01:38:13.819Z"
+  "updatedAt": "2026-10-13T02:11:51.749Z"
 }
