@@ -1,25 +1,52 @@
 {
-  "format": 1,
-  "packs": [
+  "format": 2,
+  "latestApp": 30000,
+  "notebooks": [
     {
-      "id": "2026-10-alt-cunningham",
-      "title": {
-        "fr": "Alt Cunningham · Mother of Daemons (#161)",
-        "en": "Alt Cunningham · Mother of Daemons (#161)"
-      },
-      "file": "https://github.com/PommeSauce0/cybercardex-data/releases/download/2026-10-alt-cunningham/2026-10-alt-cunningham.zip",
-      "size": 300648,
-      "sha256": "9f3c0bc759beef2b5aad9aeb96cf29d291c93b4e23ef760d27d4e4d3ba2466aa",
+      "base": "9349b2d23210f745",
+      "revision": 1,
       "minApp": 30000,
-      "cards": 1,
-      "sets": [
-        "Welcome to Night City Retail"
-      ],
+      "title": {
+        "fr": "Nouveautés WNC et Judge Promos",
+        "en": "WNC additions and Judge Promos"
+      },
+      "file": "https://github.com/PommeSauce0/cybercardex-data/releases/download/9349b2d23210f745-r1/9349b2d23210f745-r1.zip",
+      "size": 1008990,
+      "sha256": "993e6a27311013e1f97d57797e98ea7d4abcb52945122efe54397a25d867e830",
+      "unpacked": 1004100,
+      "files": 23,
       "printings": [
-        "7b20d318-5d0c-41fd-8a50-2b53b944e9bc",
-        "3a2a23fa-a0d7-46c6-9a99-a131b0a987ed"
+        "3723dc4c-52e1-4091-80c6-38c4175f7145",
+        "dd73b839-6199-4f09-bb81-8d6237e72d20",
+        "4337408e-5b98-4860-88f1-5d8ce63cf136",
+        "3837e490-0121-402e-8a5a-6a01a98c1842",
+        "41e87b8f-9d0a-4955-a9ec-d1f2fd49f532",
+        "e1c5b85a-696a-4048-8273-07e907fe05fc",
+        "b16f270b-6ea1-41d2-8489-077c0d4eec21",
+        "b58d604c-76c5-4928-9406-17f44cc4b187",
+        "534faf6c-78ff-4256-8c1b-a77438b7f979",
+        "fb9ce825-c8cd-41a5-83cf-9372c16e4172",
+        "6d3d7780-b1e1-4c7a-a085-6de0b94ac9e8"
+      ],
+      "cardIds": [
+        "dexter-deshawn-off-the-grid",
+        "dexter-deshawn-off-the-grid",
+        "panam-palmer-nomad-cavalry",
+        "panam-palmer-nomad-cavalry",
+        "johnny-silverhand-never-stop-fighting",
+        "johnny-silverhand-never-stop-fighting",
+        "dexter-deshawn-off-the-grid",
+        "panam-palmer-nomad-cavalry",
+        "secondhand-bombus",
+        "maxtac-squadron",
+        "delamain-rideshare-ai"
+      ],
+      "sets": [
+        "Welcome to Night City Retail",
+        "Edgerunner Open S1 Event",
+        "Judge Promos WNC"
       ]
     }
   ],
-  "updatedAt": "2026-10-13T02:11:51.749Z"
+  "updatedAt": "2026-10-18T19:29:15.247Z"
 }
