@@ -48,20 +48,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-18T23:31:12.618Z",
-  "messages": [
-    {
-      "id": "o",
-      "from": "2026-10-19",
-      "to": "2026-10-19",
-      "title": {
-        "fr": "Test",
-        "en": "Test"
-      },
-      "text": {
-        "fr": "Joyeux Noel à tous, passez de bonne fête et ouvrez des boosters en masses",
-        "en": "Happy Halloween !"
-      }
-    }
-  ]
+  "updatedAt": "2026-10-18T23:35:24.369Z"
 }
