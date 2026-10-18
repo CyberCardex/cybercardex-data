@@ -1,0 +1,60 @@
+name: Prix Cardmarket
+
+# Chaque nuit : prix du jour (prix/sync-cardmarket.mjs) publiés sur la branche « prix », lue par l'app.
+# Déménagé du dépôt de la 1.1 (PommeSauce0/CyberCardex, branche data) le 19/10/2026.
+
+on:
+  schedule:
+    - cron: '30 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prix
+
+jobs:
+  prix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Actions épinglées par empreinte (SHA).
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 24
+
+      - name: Prix publiés la veille
+        run: |
+          git fetch --depth=1 origin prix
+          git show FETCH_HEAD:cardmarket.json > "$RUNNER_TEMP/cardmarket.json"
+          cp "$RUNNER_TEMP/cardmarket.json" "$RUNNER_TEMP/before.json"
+          echo "PARENT=$(git rev-parse FETCH_HEAD)" >> "$GITHUB_ENV"
+
+      - name: Prix du jour (avec vérifications)
+        run: node prix/sync-cardmarket.mjs --out "$RUNNER_TEMP/cardmarket.json"
+
+      - name: Publier sur la branche prix
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          if cmp -s "$RUNNER_TEMP/before.json" "$RUNNER_TEMP/cardmarket.json"; then
+            echo "Prix inchangés : rien à publier."
+            exit 0
+          fi
+          # On repart des fichiers déjà sur prix et on ne remplace que cardmarket.json.
+          export GIT_INDEX_FILE="$RUNNER_TEMP/prix-index"
+          git read-tree "$PARENT"
+          blob=$(git hash-object -w "$RUNNER_TEMP/cardmarket.json")
+          git update-index --add --cacheinfo "100644,$blob,cardmarket.json"
+          tree=$(git write-tree)
+          date=$(node -p "require(process.argv[1]).updatedAt.slice(0, 10)" "$RUNNER_TEMP/cardmarket.json")
+          commit=$(git commit-tree "$tree" -p "$PARENT" -m "Prix Cardmarket du $date")
+          git push origin "$commit:refs/heads/prix"

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "alpha",
+    "code": "ALPHA",
+    "name": "Alpha",
+    "edition": "",
+    "releaseYear": 2026,
+    "releaseType": "set"
+  },
+  {
+    "id": "welcome-to-night-city-beta",
+    "code": "WNC",
+    "name": "Welcome to Night City",
+    "edition": "BETA",
+    "releaseYear": 2026,
+    "releaseType": "set"
+  },
+  {
+    "id": "welcome-to-night-city-retail",
+    "code": "WNC",
+    "name": "Welcome to Night City",
+    "edition": "Retail",
+    "releaseYear": 2026,
+    "releaseType": "set"
+  },
+  {
+    "id": "arasaka-demo-deck",
+    "code": "AD",
+    "name": "Arasaka Demo Deck",
+    "edition": "Demo",
+    "releaseYear": 2026,
+    "releaseType": "demo"
+  },
+  {
+    "id": "embracing-power-beta-starter-deck",
+    "code": "EP",
+    "name": "Embracing Power",
+    "edition": "Beta Starter Deck",
+    "releaseYear": 2026,
+    "releaseType": "starter"
+  },
+  {
+    "id": "embracing-power-retail-starter-deck",
+    "code": "EP",
+    "name": "Embracing Power",
+    "edition": "Retail Starter Deck",
+    "releaseYear": 2026,
+    "releaseType": "starter"
+  },
+  {
+    "id": "merc-demo-deck",
+    "code": "MD",
+    "name": "Merc Demo Deck",
+    "edition": "Demo",
+    "releaseYear": 2026,
+    "releaseType": "demo"
+  },
+  {
+    "id": "night-city-showdown-s1",
+    "code": "NCSS",
+    "name": "Night City Showdown S1",
+    "edition": "Event",
+    "releaseYear": 2026,
+    "releaseType": "event"
+  },
+  {
+    "id": "the-heist-beta-starter-deck",
+    "code": "TH",
+    "name": "The Heist",
+    "edition": "Beta Starter Deck",
+    "releaseYear": 2026,
+    "releaseType": "starter"
+  },
+  {
+    "id": "the-heist-retail-starter-deck",
+    "code": "TH",
+    "name": "The Heist",
+    "edition": "Retail Starter Deck",
+    "releaseYear": 2026,
+    "releaseType": "starter"
+  },
+  {
+    "id": "box-toppers-beta",
+    "code": "BT",
+    "name": "Box Toppers",
+    "edition": "BETA",
+    "releaseYear": 2026,
+    "releaseType": "box-topper"
+  },
+  {
+    "id": "box-toppers-retail",
+    "code": "BT",
+    "name": "Box Toppers",
+    "edition": "Retail",
+    "releaseYear": 2026,
+    "releaseType": "box-topper"
+  },
+  {
+    "id": "edgerunner-open-s-1",
+    "code": "EOS1",
+    "name": "Edgerunner Open S1",
+    "edition": "Event",
+    "releaseYear": 2026,
+    "releaseType": "event"
+  },
+  {
+    "id": "night-city-brawl-s-1",
+    "code": "NCBS1",
+    "name": "Night City Brawl S1",
+    "edition": "Event",
+    "releaseYear": 2026,
+    "releaseType": "event"
+  },
+  {
+    "id": "pre-release-beta",
+    "code": "CP",
+    "name": "Pre-Release Beta",
+    "edition": "Pre-Release",
+    "releaseYear": 2026,
+    "releaseType": "prerelease"
+  },
+  {
+    "id": "pre-release-retail",
+    "code": "CP",
+    "name": "Pre-Release Retail",
+    "edition": "Pre-Release",
+    "releaseYear": 2026,
+    "releaseType": "prerelease"
+  },
+  {
+    "id": "set-1-promos",
+    "code": "S1P",
+    "name": "Set 1 Promos",
+    "edition": "Promo",
+    "releaseYear": 2026,
+    "releaseType": "promo"
+  },
+  {
+    "id": "judge-promos",
+    "code": "JDG",
+    "name": "Judge Promos",
+    "edition": "WNC",
+    "releaseYear": 2026,
+    "releaseType": "promo"
+  }
+]

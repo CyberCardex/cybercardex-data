@@ -1,0 +1,2226 @@
+[
+  {
+    "id": "v-streetkid",
+    "name": "V",
+    "subtitle": "Streetkid",
+    "color": "Red",
+    "cardType": "Legend",
+    "cost": 5,
+    "power": 6,
+    "ram": 2,
+    "rulesText": "{Call} Trash 3. Then, add 1 BRAINDANCE Program from your trash to your hand.\n{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)",
+    "classifications": [
+      "Merc"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "royce-psycho-on-the-edge",
+    "name": "ROYCE",
+    "subtitle": "Psycho on the Edge",
+    "color": "Red",
+    "cardType": "Legend",
+    "cost": 6,
+    "power": 6,
+    "ram": 2,
+    "rulesText": "{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)\nDuring your turn, this Legend has +2 power for each of its equipped Gear.",
+    "classifications": [
+      "Maelstrom",
+      "Ganger"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "adam-smasher-ender-of-legends",
+    "name": "ADAM SMASHER",
+    "subtitle": "Ender of Legends",
+    "color": "Red",
+    "cardType": "Legend",
+    "cost": 9,
+    "power": 9,
+    "ram": 2,
+    "rulesText": "{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)\n{Play} Defeat a rival Unit.",
+    "classifications": [
+      "Arasaka",
+      "Merc"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "dexter-deshawn-off-the-grid",
+    "name": "DEXTER DESHAWN",
+    "subtitle": "Off the Grid",
+    "color": "Red",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Call} Choose one effect.\nGive a friendly Unit +2 power this turn. // Draw 1.\n{Spend}: Increase a Gig by up to 2.",
+    "classifications": [
+      "Fixer"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "johnny-silverhand-rocking-renegade",
+    "name": "JOHNNY SILVERHAND",
+    "subtitle": "Rocking Renegade",
+    "color": "Red",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "2 €$, {Spend} A friendly Unit can attack spent rival Units the turn it's played. If it's a ROCKER Unit, also give it +2 power this turn. This effect costs -1 €$ for each friendly Gig with 8+ value.",
+    "classifications": [
+      "Merc",
+      "Rocker",
+      "Samurai"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "rebecca-having-a-moment",
+    "name": "REBECCA",
+    "subtitle": "Having a Moment",
+    "color": "Red",
+    "cardType": "Legend",
+    "eddiable": false
+  },
+  {
+    "id": "yorinobu-arasaka-embracing-destruction",
+    "name": "YORINOBU ARASAKA",
+    "subtitle": "Embracing Destruction",
+    "color": "Red",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "The first time a friendly ARASAKA Unit attacks each turn, draw 1. Then, if you have less than 20 ☆ (Street Cred), discard 1.",
+    "classifications": [
+      "Arasaka",
+      "Corpo"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "japantown-jonin",
+    "name": "JAPANTOWN JONIN",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 2,
+    "power": 0,
+    "ram": 2,
+    "rulesText": "{Play} Give a friendly Unit +2 power this turn.\n(Units with power 0 don't steal Gigs.)",
+    "classifications": [
+      "Tyger Claws"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "ruthless-lowlife",
+    "name": "RUTHLESS LOWLIFE",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 2,
+    "power": 4,
+    "ram": 1,
+    "rulesText": "This Unit can only attack rival Units. (It can't attack Gig areas.)",
+    "classifications": [
+      "Ganger",
+      "Maelstrom"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "la-llorona-ghost-of-the-past",
+    "name": "LA LLORONA",
+    "subtitle": "Ghost of the Past",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 3,
+    "ram": 1,
+    "rulesText": "{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)\nWhen this Unit uses {Blocker}, increase a Gig by up to 3.",
+    "classifications": [
+      "Ganger",
+      "Valentino"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "swordwise-huscle",
+    "name": "SWORDWISE HUSCLE",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 3,
+    "ram": 2,
+    "rulesText": "{Attack} If this Unit has power 5+, draw 1.",
+    "classifications": [
+      "Merc"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "valentino-guerrera",
+    "name": "VALENTINO GUERRERA",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 4,
+    "ram": 2,
+    "rulesText": "If you have more ☆ (Street Cred) than a Rival, this Unit can attack ready Units with {Blocker}.",
+    "classifications": [
+      "Ganger",
+      "Valentino"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "6th-street-recruits",
+    "name": "6TH STREET RECRUITS",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 6,
+    "ram": 1,
+    "rulesText": "When a friendly Unit steals a d6, increase a Gig by up to 6.",
+    "classifications": [
+      "6th Street",
+      "Ganger"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "kerry-eurodyne-the-last-rockerboy",
+    "name": "KERRY EURODYNE",
+    "subtitle": "The Last Rockerboy",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 5,
+    "ram": 1,
+    "rulesText": "{Spend} If you control a Gig with 8+ value, draw 2.",
+    "classifications": [
+      "Rocker",
+      "Samurai"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "meredith-stout-stone-cold-corpo",
+    "name": "MEREDITH STOUT",
+    "subtitle": "Stone Cold Corpo",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 5,
+    "ram": 1,
+    "rulesText": "{Blocker}\nThis Unit has +2 power while fighting a Legend.\nWhen a Rival adjusts or swaps 1 or more friendly Gigs, you may add a card from your trash to your hand.",
+    "classifications": [
+      "Corpo",
+      "Militech"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "chrome-fang",
+    "name": "CHROME FANG",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 6,
+    "ram": 1,
+    "rulesText": "{Play} Until your next turn, rival Units can't steal friendly Gigs with value higher than their power.",
+    "classifications": [
+      "Ganger",
+      "Netrunner",
+      "Tyger Claws"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "el-sombrero-n-la-venganza-lenta",
+    "name": "EL SOMBRERÓN",
+    "subtitle": "La Venganza Lenta",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 4,
+    "ram": 4,
+    "rulesText": "{Attack} You may pay 2 €$. If you do, this Unit gains power equal to a friendly max Gig this turn.",
+    "classifications": [
+      "Ganger",
+      "Valentino"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "royce-don-t-call-me-simon",
+    "name": "ROYCE",
+    "subtitle": "Don't Call Me Simon",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 4,
+    "ram": 2,
+    "rulesText": "{Play} Defeat a rival Unit with power 2 or less. If you have more ☆ (Street Cred) than a Rival, defeat a rival Unit with power 3 or less instead.",
+    "classifications": [
+      "Ganger",
+      "Maelstrom"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "screw-lovelorn-fool",
+    "name": "SCREW",
+    "subtitle": "Lovelorn Fool",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 7,
+    "ram": 2,
+    "rulesText": "{Defeated} Add another Unit from your trash to your hand.",
+    "classifications": [
+      "Ganger",
+      "Maelstrom"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "v-roamer-of-the-badlands",
+    "name": "V",
+    "subtitle": "Roamer of the Badlands",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 6,
+    "ram": 2,
+    "rulesText": "When this Unit steals a Gig, increase it by up to 5.\nAt the end of your turn, if you control 2 or more Gigs with 8+ value, draw 1.",
+    "classifications": [
+      "Merc",
+      "Nomad"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "animals-wrecker",
+    "name": "ANIMALS WRECKER",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 6,
+    "power": 10,
+    "ram": 3,
+    "rulesText": "[Flavour Text] Takes a lot of juice to break bones like they do.",
+    "classifications": [
+      "Animal",
+      "Ganger"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "johnny-silverhand-never-stop-fighting",
+    "name": "JOHNNY SILVERHAND",
+    "subtitle": "Never Stop Fighting",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 6,
+    "power": 8,
+    "ram": 2,
+    "rulesText": "The first time this Unit wins a fight each turn, ready it.\nThis Unit wins all fights against CORPO Units.",
+    "classifications": [
+      "Merc",
+      "Rocker",
+      "Samurai"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "minotaur",
+    "name": "MINOTAUR",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 7,
+    "power": 9,
+    "ram": 2,
+    "rulesText": "{Play} If you have more ☆ (Street Cred) than a Rival, defeat a rival Unit with power 5 or less.",
+    "classifications": [
+      "Arasaka",
+      "Drone",
+      "Militech"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "octant",
+    "name": "OCTANT",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 7,
+    "power": 8,
+    "ram": 4,
+    "rulesText": "Play this Unit for -1 €$ for each friendly Gig with 8+ value, to a minimum of 1 €$.",
+    "classifications": [
+      "Drone",
+      "Militech",
+      "Zetatech"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "yorinobu-arasaka-steel-dragon",
+    "name": "YORINOBU ARASAKA",
+    "subtitle": "Steel Dragon",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 7,
+    "power": 9,
+    "ram": 3,
+    "rulesText": "{Play} You may play a Unit with cost 4 or less from your hand or trash for free. It can attack rival Units this turn.\nThe first time an ARASAKA Unit is defeated each turn, draw 1.",
+    "classifications": [
+      "Arasaka",
+      "Corpo"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "mantis-blades",
+    "name": "MANTIS BLADES",
+    "color": "Red",
+    "cardType": "Gear",
+    "cost": 1,
+    "power": 2,
+    "ram": 1,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\n\"One cut, one kill.\"",
+    "classifications": [
+      "Cyberware"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "arasaka-emergency-radioport",
+    "name": "ARASAKA EMERGENCY RADIOPORT",
+    "color": "Red",
+    "cardType": "Gear",
+    "cost": 2,
+    "power": 2,
+    "ram": 2,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\nWhen this Unit or Legend is spent, you may look at a friendly face-down Legend. If that Legend is ARASAKA or has {Go Solo}, you may Call it for free. (You may only Call a Legend once per turn.)",
+    "classifications": [
+      "Arasaka",
+      "Cyberware"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "satori-sword-of-saburo",
+    "name": "SATORI",
+    "subtitle": "Sword of Saburo",
+    "color": "Red",
+    "cardType": "Gear",
+    "cost": 2,
+    "power": 2,
+    "ram": 1,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\nWhen this Unit wins a fight against a rival Unit, draw 1.",
+    "classifications": [
+      "Arasaka",
+      "Weapon"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "deadman-transmitter",
+    "name": "DEADMAN TRANSMITTER",
+    "color": "Red",
+    "cardType": "Gear",
+    "cost": 3,
+    "power": 1,
+    "ram": 3,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\nIf this Unit would be defeated, defeat its \"DEADMAN TRANSMITTER\" instead.",
+    "classifications": [
+      "Cyberware",
+      "Trauma Team"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "all-is-lost",
+    "name": "ALL IS LOST",
+    "color": "Red",
+    "cardType": "Program",
+    "cost": 1,
+    "ram": 2,
+    "rulesText": "Trash 3. Add a Unit from among them to your hand.",
+    "classifications": [
+      "Zetatech"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "detonate",
+    "name": "DETONATE",
+    "color": "Red",
+    "cardType": "Program",
+    "cost": 1,
+    "ram": 2,
+    "rulesText": "{Quick} Defeat a rival Gear with power 2 or less.",
+    "classifications": [
+      "Quickhack"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "industrial-assembly",
+    "name": "INDUSTRIAL ASSEMBLY",
+    "color": "Red",
+    "cardType": "Program",
+    "cost": 1,
+    "ram": 1,
+    "rulesText": "Increase a Gig by up to 4. If you control a Gig with 8+ value, draw 1.",
+    "classifications": [
+      "Arasaka",
+      "Braindance"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "appetite-for-destruction",
+    "name": "APPETITE FOR DESTRUCTION",
+    "color": "Red",
+    "cardType": "Program",
+    "cost": 3,
+    "ram": 4,
+    "rulesText": "The next time a friendly Unit wins a fight by 3+ power this turn, it also steals a Gig.",
+    "classifications": [
+      "Ganger"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "bonnie-and-clyde",
+    "name": "BONNIE AND CLYDE",
+    "color": "Red",
+    "cardType": "Program",
+    "cost": 3,
+    "ram": 3,
+    "rulesText": "Defeat a rival Unit with power 4 or less. You may defeat 2 instead if a Rival controls at least 2 Gigs more than you.",
+    "classifications": [
+      "Braindance"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "over-the-edge",
+    "name": "OVER THE EDGE",
+    "color": "Red",
+    "cardType": "Program",
+    "cost": 3,
+    "ram": 2,
+    "rulesText": "Defeat a Unit with power equal to or less than the value of a friendly d20.",
+    "classifications": [
+      "Merc"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "gunpoint-diplomacy",
+    "name": "GUNPOINT DIPLOMACY",
+    "color": "Red",
+    "cardType": "Program",
+    "cost": 4,
+    "ram": 3,
+    "rulesText": "Give a friendly Unit these effects. If you have less ☆ (Street Cred) than a Rival, they instead choose one effect for you.\nThe next time this Unit attacks this turn, it may attack ready Units. // Give this Unit +3 power this turn.",
+    "classifications": [
+      "Ganger",
+      "Plan"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "shattered-memories",
+    "name": "SHATTERED MEMORIES",
+    "color": "Red",
+    "cardType": "Program",
+    "cost": 4,
+    "ram": 2,
+    "rulesText": "Each player discards their hand and may draw 5.\nIf the total number of discarded cards equals the value of a friendly Gig, draw 2.",
+    "classifications": [
+      "Braindance"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "carnage-at-the-colosseum",
+    "name": "CARNAGE AT THE COLOSSEUM",
+    "color": "Red",
+    "cardType": "Program",
+    "cost": 6,
+    "ram": 3,
+    "rulesText": "Play this Program for -1 €$ for each friendly Gig with 8+ value, to a minimum of 1 €$.\nDefeat a rival Unit with less power than a friendly Unit.",
+    "classifications": [
+      "Braindance",
+      "Extreme"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "rogue-amendiares-preem-solo",
+    "name": "ROGUE AMENDIARES",
+    "subtitle": "Preem Solo",
+    "color": "Yellow",
+    "cardType": "Legend",
+    "cost": 7,
+    "power": 7,
+    "ram": 2,
+    "rulesText": "{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)\nWhen a friendly Legend steals a Gig, if its value is even, draw 1. If its value is odd, a Rival discards 1.",
+    "classifications": [
+      "Merc"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "dum-dum-maelstrom-triggerman",
+    "name": "DUM DUM",
+    "subtitle": "Maelstrom Triggerman",
+    "color": "Yellow",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Call} You may defeat a friendly Gear. If you do, draw 2. Otherwise, draw 1.\n{Quick} 1 €$, {Spend} Give a friendly Unit +1 power this turn for each of its equipped Gear.",
+    "classifications": [
+      "Ganger",
+      "Maelstrom"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "kerry-eurodyne-axe-attitude-audience",
+    "name": "KERRY EURODYNE",
+    "subtitle": "Axe, Attitude, Audience",
+    "color": "Yellow",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "When you roll in a Gig from your fixer area, you may ignore the result and reroll it once.\nWhen you roll a min or max value on a Gig, draw 1. If it's a d20, draw 3 instead.",
+    "classifications": [
+      "Rocker",
+      "Samurai"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "muamar-reyes-el-capita-n",
+    "name": "MUAMAR REYES",
+    "subtitle": "El Capitán",
+    "color": "Yellow",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Call} Choose one effect.\nA friendly Unit can't be defeated in a fight this turn. // Draw 1.\n{Spend} Adjust a Gig by 1.",
+    "classifications": [
+      "Fixer"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "river-ward-detective-on-the-hunt",
+    "name": "RIVER WARD",
+    "subtitle": "Detective on the Hunt",
+    "color": "Yellow",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Quick} {Spend} Play a Gear with cost 2 or less from your hand for free.\nWhen a friendly equipped Unit is defeated, search the top 2 cards of your deck and trash 1.",
+    "classifications": [
+      "NCPD"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "viktor-vektor-sit-down-and-relax",
+    "name": "VIKTOR VEKTOR",
+    "subtitle": "Sit Down and Relax",
+    "color": "Yellow",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Call} Search the top 5 cards of your deck. Reveal up to 2 Gears with cost 2 or less and add them to your hand. Bottom-deck the rest in a random order.",
+    "classifications": [
+      "Ripperdoc"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "secondhand-bombus",
+    "name": "SECONDHAND BOMBUS",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 2,
+    "power": 0,
+    "ram": 2,
+    "rulesText": "{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)\n(Units with power 0 don't steal Gigs.)",
+    "classifications": [
+      "Drone",
+      "Zetatech"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "sketchy-ripper",
+    "name": "SKETCHY RIPPER",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 2,
+    "power": 0,
+    "ram": 2,
+    "rulesText": "{Attack} Search the top 3 cards of your deck. Reveal a Gear and add it to your hand. Bottom-deck the rest.\n(Units with power 0 don't steal Gigs.)",
+    "classifications": [
+      "Ganger",
+      "Ripperdoc",
+      "Scavenger"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "augmented-negotiators",
+    "name": "AUGMENTED NEGOTIATORS",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 2,
+    "ram": 1,
+    "rulesText": "{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)\nWhen this Unit uses {Blocker}, a Rival discards 1.",
+    "classifications": [
+      "Arasaka",
+      "Corpo"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "dexter-deshawn-one-last-chance",
+    "name": "DEXTER DESHAWN",
+    "subtitle": "One Last Chance",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 4,
+    "ram": 2,
+    "rulesText": "{Play} {Attack} Adjust a Gig by up to 1.\n{Defeated} If your ☆ (Street Cred) differs from a Rival's by 10+, draw 2.",
+    "classifications": [
+      "Fixer"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "maelstrom-goons",
+    "name": "MAELSTROM GOONS",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 3,
+    "ram": 2,
+    "rulesText": "When this Unit steals a Gig, if it's equipped, a Rival discards 1.",
+    "classifications": [
+      "Ganger",
+      "Maelstrom"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "viktor-vektor-you-might-feel-a-little-pinch",
+    "name": "VIKTOR VEKTOR",
+    "subtitle": "You Might Feel a Little Pinch",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 3,
+    "ram": 2,
+    "rulesText": "{Play} Play a CYBERWARE Gear with cost 2 or less from your trash for free. Equip it only to another friendly Unit.",
+    "classifications": [
+      "Ripperdoc"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "gilded-mato-n",
+    "name": "GILDED MATÓN",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 3,
+    "ram": 2,
+    "rulesText": "{Play} You may defeat a friendly Gear. If you do, defeat a rival Unit with cost 3 or less.",
+    "classifications": [
+      "Ganger",
+      "Valentino"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "hanako-arasaka-in-a-gilded-cage",
+    "name": "HANAKO ARASAKA",
+    "subtitle": "In a Gilded Cage",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 1,
+    "ram": 2,
+    "rulesText": "{Play} Search the top 4 cards of your deck. Reveal any number of cards with cost equal to any friendly Gig values and add them to your hand. Bottom-deck the rest.",
+    "classifications": [
+      "Arasaka",
+      "Corpo",
+      "Netrunner"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "offduty-malfini",
+    "name": "OFFDUTY MALFINI",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 5,
+    "ram": 2,
+    "rulesText": "{Play} Spend this Unit and a rival Unit.",
+    "classifications": [
+      "Ganger",
+      "Voodoo Boys"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "t-bug-amateur-philosopher",
+    "name": "T-BUG",
+    "subtitle": "Amateur Philosopher",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 4,
+    "ram": 2,
+    "rulesText": "{Defeated} Look at all friendly face-down Legends. Then, you may Call a Legend for free. (You can only Call a Legend once per turn.)",
+    "classifications": [
+      "Merc",
+      "Netrunner"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "caliber-totentanz-s-top-dog",
+    "name": "CALIBER",
+    "subtitle": "Totentanz's Top Dog",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 5,
+    "ram": 2,
+    "rulesText": "{Play} Defeat a rival Unit with cost 2 or less.\n{Defeated} A Rival discards 1. If the card's cost equals the value of a friendly Gig, that Rival discards 1 more.",
+    "classifications": [
+      "Ganger",
+      "Maelstrom"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "maxtac-suppression-team",
+    "name": "MAXTAC SUPPRESSION TEAM",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 7,
+    "ram": 1,
+    "rulesText": "Rival Units can't attack the turn they're played.",
+    "classifications": [
+      "NCPD"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "rockn-rockerboy",
+    "name": "ROCKN' ROCKERBOY",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 8,
+    "ram": 1,
+    "rulesText": "[Flavor] Scream your throat raw for something. Anything.",
+    "classifications": [
+      "Rocker"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "viktor-vektor-drop-your-illusions",
+    "name": "VIKTOR VEKTOR",
+    "subtitle": "Drop Your Illusions",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 5,
+    "ram": 2,
+    "rulesText": "Play your first CYBERWARE Gear each turn for -3 €$, to a minimum of 1 €$.",
+    "classifications": [
+      "Ripperdoc"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "heywood-ripperdoc",
+    "name": "HEYWOOD RIPPERDOC",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 6,
+    "power": 8,
+    "ram": 1,
+    "rulesText": "{Play} You may defeat a Gear. If its cost equals the value of a friendly Gig, draw 1.",
+    "classifications": [
+      "Ripperdoc"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "jackie-welles-ride-or-die-choom",
+    "name": "JACKIE WELLES",
+    "subtitle": "Ride or Die Choom",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 6,
+    "power": 8,
+    "ram": 2,
+    "rulesText": "{Attack} Give this Unit +2 power this turn for each friendly Gig with an even value.\n{Defeated} Draw 1 for each friendly Gig with an odd value.",
+    "classifications": [
+      "Merc",
+      "Valentino"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "trauma-team-operatives",
+    "name": "TRAUMA TEAM OPERATIVES",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 6,
+    "power": 7,
+    "ram": 2,
+    "rulesText": "Play this Unit for -1 €$ for each Unit in your trash, to a minimum of 1 €$.",
+    "classifications": [
+      "Medtech",
+      "Trauma Team"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "alt-cunningham-mother-of-daemons",
+    "name": "ALT CUNNINGHAM",
+    "subtitle": "Mother of Daemons",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 7,
+    "power": 8,
+    "ram": 3,
+    "rulesText": "When a friendly equipped Unit or Legend is spent, draw 1.\nWhen a rival Unit would steal a Gig, you may discard 1 with cost equal to that Gig's value. If you do, the Gig isn't stolen.",
+    "classifications": [
+      "Merc",
+      "Netrunner"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "adam-smasher-metal-over-meat",
+    "name": "ADAM SMASHER",
+    "subtitle": "Metal Over Meat",
+    "color": "Yellow",
+    "cardType": "Unit",
+    "cost": 9,
+    "power": 15,
+    "ram": 6,
+    "rulesText": "{Play} Defeat all other Units.",
+    "classifications": [
+      "Arasaka",
+      "Merc"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "kiroshi-optics",
+    "name": "KIROSHI OPTICS",
+    "color": "Yellow",
+    "cardType": "Gear",
+    "cost": 1,
+    "power": 1,
+    "ram": 1,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\n{Attack} Look at a friendly face-down Legend. (Don't reveal it.)",
+    "classifications": [
+      "Cyberware"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "mandibular-upgrade",
+    "name": "MANDIBULAR UPGRADE",
+    "color": "Yellow",
+    "cardType": "Gear",
+    "cost": 1,
+    "power": 0,
+    "ram": 2,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\n{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)",
+    "classifications": [
+      "Cyberware"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "adrenaline-converter",
+    "name": "ADRENALINE CONVERTER",
+    "color": "Yellow",
+    "cardType": "Gear",
+    "cost": 2,
+    "power": 3,
+    "ram": 4,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\nIf a Rival controls at least 2 more Gigs than you, this Unit has {Adrenaline}. (This Unit can attack the turn it's played.)",
+    "classifications": [
+      "Cyberware",
+      "Medtech"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "zetatech-faceplate",
+    "name": "ZETATECH FACEPLATE",
+    "color": "Yellow",
+    "cardType": "Gear",
+    "cost": 2,
+    "power": 2,
+    "ram": 2,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\nWhen this Unit or Legend is spent, adjust a Gig by up to 1. Then, if you control 3 or more Gigs with different values, draw 1.",
+    "classifications": [
+      "Cyberware",
+      "Zetatech"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "gorilla-arms",
+    "name": "GORILLA ARMS",
+    "color": "Yellow",
+    "cardType": "Gear",
+    "cost": 4,
+    "power": 3,
+    "ram": 3,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\nThe first time this Unit steals 1 or more Gigs each turn, steal a rival Gig with a value not shared by a friendly Gig.",
+    "classifications": [
+      "Cyberware"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "the-relic-experimental-biochip",
+    "name": "THE RELIC",
+    "subtitle": "Experimental Biochip",
+    "color": "Yellow",
+    "cardType": "Gear",
+    "cost": 5,
+    "power": 3,
+    "ram": 4,
+    "rulesText": "{Defeated} Play another Unit with cost 9 or less from your trash for free. Then, bottom-deck this Unit.",
+    "classifications": [
+      "Arasaka",
+      "Cyberware"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "afterparty-at-lizzie-s",
+    "name": "AFTERPARTY AT LIZZIE'S",
+    "color": "Yellow",
+    "cardType": "Program",
+    "cost": 1,
+    "ram": 1,
+    "rulesText": "Adjust a Gig by up to 1. If you control 2 or more Gigs with different values, draw 1.",
+    "classifications": [
+      "Braindance",
+      "Mox"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "safety-override",
+    "name": "SAFETY OVERRIDE",
+    "color": "Yellow",
+    "cardType": "Program",
+    "cost": 2,
+    "ram": 3,
+    "rulesText": "{Quick} The next time a friendly Unit loses a fight this turn, defeat the opposing rival Unit.",
+    "classifications": [
+      "Quickhack"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "the-heist",
+    "name": "THE HEIST",
+    "color": "Yellow",
+    "cardType": "Program",
+    "cost": 2,
+    "ram": 2,
+    "rulesText": "Trash 4. Add a Gear from among them to your hand. If that Gear's cost equals the value of a friendly Gig, you may play it for free instead.",
+    "classifications": [
+      "Merc"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "cyberpsychosis",
+    "name": "CYBERPSYCHOSIS",
+    "color": "Yellow",
+    "cardType": "Program",
+    "cost": 3,
+    "ram": 2,
+    "rulesText": "{Quick} Give an equipped Unit +3 power this turn for each of its equipped Gears. If that Unit steals or fights, defeat it at the end of this turn.",
+    "classifications": [
+      "Quickhack"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "live-with-the-aftermath",
+    "name": "LIVE WITH THE AFTERMATH",
+    "color": "Yellow",
+    "cardType": "Program",
+    "cost": 3,
+    "ram": 3,
+    "rulesText": "Each player defeats one of their Units.",
+    "classifications": [
+      "Plan"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "bootleg-black-sapphire-show",
+    "name": "BOOTLEG BLACK SAPPHIRE SHOW",
+    "color": "Yellow",
+    "cardType": "Program",
+    "cost": 5,
+    "ram": 4,
+    "rulesText": "Sell the top card of your deck.\nIf you control a Gig with an even value and a Gig with an odd value, draw 2.",
+    "classifications": [
+      "Braindance"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "goro-takemura-hands-unclean",
+    "name": "GORO TAKEMURA",
+    "subtitle": "Hands Unclean",
+    "color": "Green",
+    "cardType": "Legend",
+    "cost": 5,
+    "power": 7,
+    "ram": 2,
+    "rulesText": "{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)\n{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)",
+    "classifications": [
+      "Arasaka",
+      "Corpo"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "jackie-welles-mama-s-favorite",
+    "name": "JACKIE WELLES",
+    "subtitle": "Mama's Favorite",
+    "color": "Green",
+    "cardType": "Legend",
+    "cost": 6,
+    "power": 8,
+    "ram": 2,
+    "rulesText": "{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. If it leaves the field, remove it from the game.)\nIf a friendly Unit would be defeated, you may pay 1 €$ to defeat this Legend instead. (Remove it from the game.)",
+    "classifications": [
+      "Merc"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "goro-takemura-vengeful-bodyguard",
+    "name": "GORO TAKEMURA",
+    "subtitle": "Vengeful Bodyguard",
+    "color": "Green",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Quick} 1 €$, {Spend} Give a friendly Unit with cost 4 or less {Blocker} this turn. If you control a value-pair of Gigs, also give it +1 power this turn.\nWhen a friendly Unit uses {Blocker}, you may discard 1. If you do, draw 1.",
+    "classifications": [
+      "Arasaka",
+      "Corpo"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "hanako-arasaka-daughter-of-the-emperor",
+    "name": "HANAKO ARASAKA",
+    "subtitle": "Daughter of the Emperor",
+    "color": "Green",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Spend} Swap a friendly Gig with a rival Gig.\nAt the start of your turn, draw 1 for each friendly value-pair of Gigs.",
+    "classifications": [
+      "Arasaka",
+      "Corpo",
+      "Netrunner"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "padre-man-of-the-cross",
+    "name": "PADRE",
+    "subtitle": "Man of the Cross",
+    "color": "Green",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Call} Choose one effect.\nSpend a rival Unit. // Draw 1.\n{Spend} Set a player's Gig to the same value as another player's Gig.",
+    "classifications": [
+      "Fixer",
+      "Ganger",
+      "Valentino"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "panam-palmer-nomad-cavalry",
+    "name": "PANAM PALMER",
+    "subtitle": "Nomad Cavalry",
+    "color": "Green",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "2 €$, {Spend} Move a Gear from this Legend to an unequipped friendly Unit. If you do, ready that Unit.\nAt the end of your turn, if 5 or more friendly Units and/or Legends are equipped, ready them.",
+    "classifications": [
+      "Aldecaldo",
+      "Merc",
+      "Nomad"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "saburo-arasaka-stubborn-patriarch",
+    "name": "SABURO ARASAKA",
+    "subtitle": "Stubborn Patriarch",
+    "color": "Green",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "Friendly ARASAKA Units have +1 power while attacking.\n(Units steal an extra Gig for every 10 power.)",
+    "classifications": [
+      "Arasaka",
+      "Corpo"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "corpo-security",
+    "name": "CORPO SECURITY",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 2,
+    "power": 2,
+    "ram": 1,
+    "rulesText": "This Unit can't attack.\n{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)",
+    "classifications": [
+      "Corpo"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "tyger-s-whisper",
+    "name": "TYGER'S WHISPER",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 2,
+    "power": 0,
+    "ram": 1,
+    "rulesText": "{Play} You may Call a Legend for free. (You can only Call a Legend once per turn.)\n(Units with power 0 don't steal Gigs.)",
+    "classifications": [
+      "Fixer",
+      "Tyger Claws"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "emergency-atlus",
+    "name": "EMERGENCY ATLUS",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 4,
+    "ram": 1,
+    "rulesText": "\"Grab the policyholder, leave the rest for the city meatwagon.\"",
+    "classifications": [
+      "Trauma Team",
+      "Vehicle",
+      "Zetatech"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "field-operator",
+    "name": "FIELD OPERATOR",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 2,
+    "ram": 2,
+    "rulesText": "{Play} If your ☆ (Street Cred) is an even number, draw 1.",
+    "classifications": [
+      "Arasaka",
+      "Corpo",
+      "Techie"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "maxtac-squadron",
+    "name": "MAXTAC SQUADRON",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 4,
+    "ram": 3,
+    "rulesText": "At the end of your turn, if this Unit is spent, ready a friendly face-up Legend.",
+    "classifications": [
+      "NCPD"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "valentino-street-racer",
+    "name": "VALENTINO STREET RACER",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 3,
+    "ram": 2,
+    "rulesText": "{Play} Give another friendly Unit with cost 5 or less {Adrenaline} this turn. (A Unit with Adrenaline can attack the turn it's played.)",
+    "classifications": [
+      "Valentino",
+      "Vehicle"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "goro-takemura-losing-his-way",
+    "name": "GORO TAKEMURA",
+    "subtitle": "Losing His Way",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 4,
+    "ram": 3,
+    "rulesText": "{Attack} If all friendly Legends are face-up, this Unit has +5 power this turn.",
+    "classifications": [
+      "Arasaka",
+      "Corpo"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "maelstrom-zealots",
+    "name": "MAELSTROM ZEALOTS",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 0,
+    "ram": 1,
+    "rulesText": "When this Unit loses a fight, defeat the opposing rival Unit.\n(Units with power 0 don't steal Gigs.)",
+    "classifications": [
+      "Ganger",
+      "Maelstrom"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "pacifica-netrunner",
+    "name": "PACIFICA NETRUNNER",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 1,
+    "ram": 2,
+    "rulesText": "{Play} If your ☆ (Street Cred) is an even number, a rival Unit can't ready until your next turn.",
+    "classifications": [
+      "Netrunner"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "pepe-najarro-working-doubles",
+    "name": "PEPE NAJARRO",
+    "subtitle": "Working Doubles",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 6,
+    "ram": 2,
+    "rulesText": "{Attack} If you control a value-pair of Gigs, ready up to 2 MERC Legends in your Legends area.",
+    "classifications": [
+      "Valentino"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "maxtac-av",
+    "name": "MAXTAC AV",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 8,
+    "ram": 2,
+    "rulesText": "{Play} You may swap a friendly Gig with a rival Gig.",
+    "classifications": [
+      "NCPD",
+      "Vehicle"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "riding-nomad",
+    "name": "RIDING NOMAD",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 4,
+    "ram": 4,
+    "rulesText": "{Adrenaline} (This Unit can attack the turn it's played.)",
+    "classifications": [
+      "Nomad"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "wraith-marauders",
+    "name": "WRAITH MARAUDERS",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 4,
+    "ram": 2,
+    "rulesText": "When this Unit steals a Gig, ready another friendly Unit with power equal to the Gig's value.",
+    "classifications": [
+      "Ganger",
+      "Nomad",
+      "Raffen Shiv"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "nadia-fighting-through-grief",
+    "name": "NADIA",
+    "subtitle": "Fighting Through Grief",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 6,
+    "power": 8,
+    "ram": 2,
+    "rulesText": "If a Rival controls more Gigs than you, this Unit can attack their Gig area the turn it's played.",
+    "classifications": [
+      "Medtech",
+      "Trauma Team"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "panam-palmer-strength-through-family",
+    "name": "PANAM PALMER",
+    "subtitle": "Strength Through Family",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 6,
+    "power": 6,
+    "ram": 4,
+    "rulesText": "During your turn, you may Call a Legend for free.\n{Attack} Discard 1. If you do, draw 1 for each friendly face-up Legend.",
+    "classifications": [
+      "Aldecaldo",
+      "Merc",
+      "Nomad"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "maxtac-heavy",
+    "name": "MAXTAC HEAVY",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 7,
+    "power": 8,
+    "ram": 3,
+    "rulesText": "Play this Unit for -1 €$ for each of a Rival’s Units, to a minimum of 1 €$.",
+    "classifications": [
+      "NCPD"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "sandayu-oda-hanako-s-guardian",
+    "name": "SANDAYU ODA",
+    "subtitle": "Hanako's Guardian",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 7,
+    "power": 8,
+    "ram": 2,
+    "rulesText": "{Play} Spend a rival Unit for each friendly value-pair of Gigs.\nThis Unit can attack rival Units the turn it's played.",
+    "classifications": [
+      "Arasaka",
+      "Corpo"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "saul-bright-stormrider",
+    "name": "SAUL BRIGHT",
+    "subtitle": "Stormrider",
+    "color": "Green",
+    "cardType": "Unit",
+    "cost": 8,
+    "power": 14,
+    "ram": 2,
+    "rulesText": "Other friendly Units have +2 power while attacking.\nAt the end of your turn, ready up to 3 friendly Units.",
+    "classifications": [
+      "Aldecaldo",
+      "Nomad"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "riot-shield",
+    "name": "RIOT SHIELD",
+    "color": "Green",
+    "cardType": "Gear",
+    "cost": 2,
+    "power": 1,
+    "ram": 2,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\n{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)\nRivals must pay +2 €$ to use {Go Solo}.",
+    "classifications": [
+      "Weapon"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "sandevistan",
+    "name": "SANDEVISTAN",
+    "color": "Green",
+    "cardType": "Gear",
+    "cost": 3,
+    "power": 2,
+    "ram": 3,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\nAt the end of your turn, ready this Unit or Legend.",
+    "classifications": [
+      "Cyberware"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "overwatch-panam-s-gift",
+    "name": "OVERWATCH",
+    "subtitle": "Panam's Gift",
+    "color": "Green",
+    "cardType": "Gear",
+    "cost": 4,
+    "power": 4,
+    "ram": 4,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\n{Quick} 1 €$, {Spend} Discard 1. Defeat a spent rival Unit with cost equal to or less than the discarded card's cost.",
+    "classifications": [
+      "Weapon"
+    ],
+    "eddiable": true,
+    "errata": true
+  },
+  {
+    "id": "zetatech-berserk",
+    "name": "ZETATECH BERSERK",
+    "color": "Green",
+    "cardType": "Gear",
+    "cost": 6,
+    "power": 3,
+    "ram": 2,
+    "rulesText": "Play this Gear for -1 €$ for each friendly face-up Legend, to a minimum of 1 €$.",
+    "classifications": [
+      "Cyberware",
+      "Zetatech"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "peace-offering",
+    "name": "PEACE OFFERING",
+    "color": "Green",
+    "cardType": "Program",
+    "cost": 1,
+    "ram": 1,
+    "rulesText": "You may set a Gig's value to the value of another Gig. Then, if you control a value-pair, draw 1.",
+    "classifications": [
+      "Braindance"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "synapse-burnout",
+    "name": "SYNAPSE BURNOUT",
+    "color": "Green",
+    "cardType": "Program",
+    "cost": 1,
+    "ram": 1,
+    "rulesText": "{Quick} A friendly Unit has +1 power for each friendly face-up Legend while fighting rival Units this turn.",
+    "classifications": [
+      "Quickhack"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "corporate-surveillance",
+    "name": "CORPORATE SURVEILLANCE",
+    "color": "Green",
+    "cardType": "Program",
+    "cost": 2,
+    "ram": 1,
+    "rulesText": "Spend a rival Unit with cost 4 or less.",
+    "classifications": [
+      "Corpo"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "fool-on-the-hill",
+    "name": "FOOL ON THE HILL",
+    "color": "Green",
+    "cardType": "Program",
+    "cost": 2,
+    "ram": 3,
+    "rulesText": "Reveal the top 2 cards of your deck. A Rival chooses whether you add them to your hand or trash them. If you trash them, draw 2.",
+    "classifications": [
+      "Merc"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "take-control",
+    "name": "TAKE CONTROL",
+    "color": "Green",
+    "cardType": "Program",
+    "cost": 2,
+    "ram": 2,
+    "rulesText": "{Quick} A rival Unit steals 1 fewer Gig this turn. If that Unit is an AI, DRONE, or VEHICLE, draw 1.",
+    "classifications": [
+      "Quickhack"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "memory-relapse",
+    "name": "MEMORY RELAPSE",
+    "color": "Green",
+    "cardType": "Program",
+    "cost": 4,
+    "ram": 2,
+    "rulesText": "Spend a rival Unit. It can't ready until your next turn. If your ☆ (Street Cred) is an even number, draw 1.",
+    "classifications": [
+      "Braindance"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "we-gotta-live-together",
+    "name": "WE GOTTA LIVE TOGETHER",
+    "color": "Green",
+    "cardType": "Program",
+    "cost": 5,
+    "ram": 2,
+    "rulesText": "If a Rival controls at least 2 more Gigs than you, play this Program for 3 €$.\nPlay up to 2 Units with cost 3 or less from your trash for free.",
+    "classifications": [
+      "Aldecaldo",
+      "Nomad"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "wild-in-the-streets",
+    "name": "WILD IN THE STREETS",
+    "color": "Green",
+    "cardType": "Program",
+    "cost": 5,
+    "ram": 4,
+    "rulesText": "Defeat a spent Unit.",
+    "classifications": [
+      "Ganger"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "don-t-fear-the-reaper",
+    "name": "(DON'T FEAR) THE REAPER",
+    "color": "Green",
+    "cardType": "Program",
+    "cost": 7,
+    "ram": 3,
+    "rulesText": "Spend all rival Units. Then, defeat a spent Unit.",
+    "classifications": [
+      "Samurai"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "sasha-yakovleva-won-t-let-you-down",
+    "name": "SASHA YAKOVLEVA",
+    "subtitle": "Won't Let You Down",
+    "color": "Blue",
+    "cardType": "Legend",
+    "cost": 5,
+    "power": 0,
+    "ram": 2,
+    "rulesText": "{Go Solo}\n{Attack} Reveal the top card of your deck and add it to your hand. This Unit gains power equal to that card's cost this turn.\n{Defeated} A Rival discards 1.",
+    "classifications": [
+      "Maine's Crew",
+      "Merc",
+      "Netrunner"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "v-corporate-exile",
+    "name": "V",
+    "subtitle": "Corporate Exile",
+    "color": "Blue",
+    "cardType": "Legend",
+    "cost": 5,
+    "power": 8,
+    "ram": 2,
+    "rulesText": "{Go Solo} (Pay this Legend's cost to play it as a ready Unit. It can attack this turn. When it leaves the field, remove it from the game.)",
+    "classifications": [
+      "Corpo",
+      "Merc"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "alt-cunningham-soulkiller-architect",
+    "name": "ALT CUNNINGHAM",
+    "subtitle": "Soulkiller Architect",
+    "color": "Blue",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Spend} Your next Program this turn plays for -1 €$ for each friendly min Gig, to a minimum of 1 €$.\n1 €$, {Spend} Play a Program from your trash. Bottom-deck it after you play it. (You still pay its cost.)",
+    "classifications": [
+      "Merc",
+      "Netrunner"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "evelyn-parker-beautiful-enigma",
+    "name": "EVELYN PARKER",
+    "subtitle": "Beautiful Enigma",
+    "color": "Blue",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "When a friendly CORPO or GANGER Unit steals 1 or more Gigs, ready 1 Eddie.\n1 €$, {Spend} A rival Unit must attack next turn if it can.",
+    "classifications": [
+      "Doll"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "jackie-welles-pour-one-out-for-me",
+    "name": "JACKIE WELLES",
+    "subtitle": "Pour One Out For Me",
+    "color": "Blue",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "The first time you play a Blue Unit or Blue Gear each turn, you may decrease a friendly Gig by up to 2. If it becomes a min Gig, draw 1.",
+    "classifications": [
+      "Merc"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "judy-a-lvarez-braindance-maestro",
+    "name": "JUDY ÁLVAREZ",
+    "subtitle": "Braindance Maestro",
+    "color": "Blue",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "When you play a BRAINDANCE Program, give a friendly Unit +1 power this turn.\n{Spend} Trash the top card of your deck. If it's a Program, you may add it to your hand.",
+    "classifications": [
+      "Ganger",
+      "Mox",
+      "Techie"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "wakako-okada-peace-and-harmony",
+    "name": "WAKAKO OKADA",
+    "subtitle": "Peace and Harmony",
+    "color": "Blue",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Call} Choose one effect.\nGive a rival Unit -2 power this turn. // Draw 1.\n{Spend}: Decrease a Gig by up to 2.",
+    "classifications": [
+      "Fixer",
+      "Tyger Claws"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "evelyn-parker-scheming-siren",
+    "name": "EVELYN PARKER",
+    "subtitle": "Scheming Siren",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 2,
+    "power": 0,
+    "ram": 3,
+    "rulesText": "{Attack} Draw 1. Then, if you have more ☆ (Street Cred) than a Rival, discard 1.\n(Units with power 0 don't steal Gigs.)",
+    "classifications": [
+      "Doll"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "jacked-in-voodoo-boy",
+    "name": "JACKED-IN VOODOO BOY",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 2,
+    "power": 2,
+    "ram": 2,
+    "rulesText": "This Unit can't attack unless you played a Program this turn.",
+    "classifications": [
+      "Netrunner",
+      "Voodoo Boys"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "delamain-rideshare-ai",
+    "name": "DELAMAIN",
+    "subtitle": "Rideshare AI",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 0,
+    "ram": 3,
+    "rulesText": "{Play} Draw 2.\n(Units with power 0 don't steal Gigs.)",
+    "classifications": [
+      "AI"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "misty-olszewski-mender-of-broken-spirits",
+    "name": "MISTY OLSZEWSKI",
+    "subtitle": "Mender of Broken Spirits",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 0,
+    "ram": 2,
+    "rulesText": "This Unit can't attack.\nAt the end of your turn, choose a card type. Then, reveal the top card of your deck. If it's the chosen type, add it to your hand and ready 1 Eddie. Otherwise, trash it.\n(Unit, Gear, and Program are card types.)",
+    "classifications": [
+      "Mystic"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "mox-inciters",
+    "name": "MOX INCITERS",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 3,
+    "power": 2,
+    "ram": 2,
+    "rulesText": "{Play} A rival Unit must attack next turn if it can.\n{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)",
+    "classifications": [
+      "Ganger",
+      "Mox"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "delamain-cab",
+    "name": "DELAMAIN CAB",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 4,
+    "ram": 2,
+    "rulesText": "At the end of your turn, if this Unit stole a Gig this turn, ready 1 Eddie.",
+    "classifications": [
+      "Vehicle"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "hacked-corpo",
+    "name": "HACKED CORPO",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 3,
+    "ram": 1,
+    "rulesText": "{Play} Trash 3. Add a Program from among them to your hand.",
+    "classifications": [
+      "AI",
+      "Corpo"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "psycho-squad",
+    "name": "PSYCHO SQUAD",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 6,
+    "ram": 1,
+    "rulesText": "[Flavour] Their protocol stops at “shoot first.”",
+    "classifications": [
+      "NCPD"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "rita-wheeler-no-stupid-questions",
+    "name": "RITA WHEELER",
+    "subtitle": "No Stupid Questions",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 4,
+    "ram": 2,
+    "rulesText": "{Blocker} (You may spend this Unit to redirect a rival Unit's attack to it instead.)\nThe first time this Unit is spent each turn, draw 1, then discard 1.",
+    "classifications": [
+      "Ganger",
+      "Mox"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "westbrook-netrunner",
+    "name": "WESTBROOK NETRUNNER",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 4,
+    "power": 5,
+    "ram": 2,
+    "rulesText": "{Play} Until your next turn, rival Legends can't steal friendly Gigs with value less than their power.",
+    "classifications": [
+      "Netrunner"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "lizzy-wizzy-delicate-weapon",
+    "name": "LIZZY WIZZY",
+    "subtitle": "Delicate Weapon",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 2,
+    "ram": 2,
+    "rulesText": "{Play} You may play a Program with cost 3 or less from your hand or trash for free. Bottom-deck it after you play it.\n{Blocker}",
+    "classifications": [
+      "Rocker"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "maman-brigitte-spirit-of-death",
+    "name": "MAMAN BRIGITTE",
+    "subtitle": "Spirit of Death",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 3,
+    "ram": 4,
+    "rulesText": "{Play} You may discard 2 Programs. If you do, bottom-deck a rival unequipped Unit.",
+    "classifications": [
+      "Mystic",
+      "Netrunner",
+      "Voodoo Boys"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "modded-muramasa",
+    "name": "MODDED MURAMASA",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 4,
+    "ram": 2,
+    "rulesText": "At the end of your turn, if you have less ☆ (Street Cred) than a Rival, ready this Unit.",
+    "classifications": [
+      "Vehicle"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "mt0d12-flathead",
+    "name": "MT0D12 FLATHEAD",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 7,
+    "ram": 3,
+    "rulesText": "If you have less ☆ (Street Cred) than a Rival, this Unit can't be blocked.",
+    "classifications": [
+      "Drone",
+      "Militech"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "rogue-amendiares-queen-of-the-afterlife",
+    "name": "ROGUE AMENDIARES",
+    "subtitle": "Queen of the Afterlife",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 5,
+    "power": 4,
+    "ram": 2,
+    "rulesText": "The first time another friendly Unit steals a Gig with value less than its power each turn, ready 2 Eddies.\n{Quick} 2 €$,  {Spend} A rival Unit loses power equal to this Unit's power this turn.",
+    "classifications": [
+      "Fixer",
+      "Merc"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "judy-a-lvarez-nothing-to-doubt",
+    "name": "JUDY ÁLVAREZ",
+    "subtitle": "Nothing to Doubt",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 6,
+    "power": 6,
+    "ram": 5,
+    "rulesText": "1 €$, {Spend} Reveal the top card of your deck. You may play it for free. Otherwise, add it to your hand.",
+    "classifications": [
+      "Ganger",
+      "Mox",
+      "Techie"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "modded-kusanagi",
+    "name": "MODDED KUSANAGI",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 6,
+    "power": 8,
+    "ram": 2,
+    "rulesText": "{Adrenaline} (This Unit can attack the turn it's played.)\nAt the end of your turn, return this Unit to its owner's hand.",
+    "classifications": [
+      "Tyger Claws",
+      "Vehicle"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "placide-voodoo-sentinel",
+    "name": "PLACIDE",
+    "subtitle": "Voodoo Sentinel",
+    "color": "Blue",
+    "cardType": "Unit",
+    "cost": 8,
+    "power": 10,
+    "ram": 2,
+    "rulesText": "{Play} {Attack} You may discard 1 Program. If you do, bottom-deck a rival Unit.",
+    "classifications": [
+      "Ganger",
+      "Netrunner",
+      "Voodoo Boys"
+    ],
+    "eddiable": false
+  },
+  {
+    "id": "tetratronic-rippler",
+    "name": "TETRATRONIC RIPPLER",
+    "color": "Blue",
+    "cardType": "Gear",
+    "cost": 1,
+    "power": 1,
+    "ram": 2,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\nWhen this Unit or Legend is spent, search the top card of your deck. You may trash it. (Otherwise, keep it on the top of your deck.)",
+    "classifications": [
+      "Cyberware"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "dying-night-v-s-pistol",
+    "name": "DYING NIGHT",
+    "subtitle": "V's Pistol",
+    "color": "Blue",
+    "cardType": "Gear",
+    "cost": 2,
+    "power": 2,
+    "ram": 2,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\n{Attack} Decrease a Gig by up to 2. At the end of your turn, if this Unit is named \"V\", ready 2 Eddies.",
+    "classifications": [
+      "Merc",
+      "Weapon"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "netwatch-netdriver",
+    "name": "NETWATCH NETDRIVER",
+    "color": "Blue",
+    "cardType": "Gear",
+    "cost": 3,
+    "power": 2,
+    "ram": 2,
+    "rulesText": "(Equip to a friendly Unit or face-up Legend.)\nWhen this Unit or Legend is spent, draw 1.",
+    "classifications": [
+      "Cyberware",
+      "Netrunner",
+      "Netwatch"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "floor-it",
+    "name": "FLOOR IT",
+    "color": "Blue",
+    "cardType": "Program",
+    "cost": 1,
+    "ram": 1,
+    "rulesText": "{Quick} Give a rival Unit -1 power this turn. Draw 1.",
+    "classifications": [
+      "Merc",
+      "Quickhack"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "trust-no-one",
+    "name": "TRUST NO ONE",
+    "color": "Blue",
+    "cardType": "Program",
+    "cost": 1,
+    "ram": 1,
+    "rulesText": "Decrease a Gig by up to 3. Then, if you control a min Gig, draw 1.",
+    "classifications": [
+      "Braindance"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "reboot-optics",
+    "name": "REBOOT OPTICS",
+    "color": "Blue",
+    "cardType": "Program",
+    "cost": 2,
+    "ram": 2,
+    "rulesText": "{Quick} The next time a rival Unit fights this turn, it doesn't defeat the opposing friendly Unit.",
+    "classifications": [
+      "Quickhack"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "three-mouths-one-desire",
+    "name": "THREE MOUTHS, ONE DESIRE",
+    "color": "Blue",
+    "cardType": "Program",
+    "cost": 2,
+    "ram": 3,
+    "rulesText": "Search the top 3 cards of your deck. Add 1 to your hand. You may add 1 more for each friendly min Gig. Bottom-deck the rest.",
+    "classifications": [
+      "Braindance",
+      "Doll"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "chrome-reverie",
+    "name": "CHROME REVERIE",
+    "color": "Blue",
+    "cardType": "Program",
+    "cost": 3,
+    "ram": 1,
+    "rulesText": "A rival Unit can't attack until your next turn. If you control a min Gig, you may Call a Legend for free. (You can only Call a Legend once per turn.)",
+    "classifications": [
+      "Braindance"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "nocturne-op55-n1",
+    "name": "NOCTURNE OP55 N1",
+    "color": "Blue",
+    "cardType": "Program",
+    "cost": 3,
+    "ram": 2,
+    "rulesText": "If your fixer area is empty, play this Program for 1 €$. Choose one effect.\nDraw 2. // A Unit can't attack until your next turn. // A friendly Legend may use {Go Solo} for -2 €$ this turn, to a minimum of 1 €$.",
+    "classifications": [
+      "Arasaka",
+      "Plan"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "pyramid-song",
+    "name": "PYRAMID SONG",
+    "color": "Blue",
+    "cardType": "Program",
+    "cost": 3,
+    "ram": 3,
+    "rulesText": "Choose one effect. If a friendly d4 is a min Gig, choose both instead.\nGive a rival Unit -4 power this turn. // Bottom-deck a rival Unit with power 0.",
+    "classifications": [
+      "Braindance"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "unlikely-bond",
+    "name": "UNLIKELY BOND",
+    "color": "Blue",
+    "cardType": "Program",
+    "cost": 4,
+    "ram": 2,
+    "rulesText": "Bottom-deck a ready friendly Unit. If you do, bottom-deck a spent rival Unit.",
+    "classifications": [
+      "Maelstrom",
+      "Mox"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "les-e-le-mens",
+    "name": "LES ÉLÉMENS",
+    "color": "Blue",
+    "cardType": "Program",
+    "cost": 5,
+    "ram": 4,
+    "rulesText": "Bottom-deck a Rival's lowest-power Unit. (If there are multiple, choose 1.)",
+    "classifications": [
+      "Corpo"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "towerfall",
+    "name": "TOWERFALL",
+    "color": "Blue",
+    "cardType": "Program",
+    "cost": 6,
+    "ram": 4,
+    "rulesText": "Choose one effect. If you have less ☆ (Street Cred) than a Rival, choose both instead.\nGive all rival Units -5 power this turn. // Bottom-deck all rival Units with power 0.",
+    "classifications": [
+      "Braindance"
+    ],
+    "eddiable": true
+  },
+  {
+    "id": "armored-minotaur",
+    "name": "ARMORED MINOTAUR",
+    "color": "Red",
+    "cardType": "Unit",
+    "cost": 6,
+    "power": 9,
+    "ram": 4,
+    "rulesText": "{Play} If you have 12+ ☆ (Street Cred), defeat a rival Unit with power 5 or less.",
+    "classifications": [
+      "Arasaka",
+      "Militech",
+      "Drone"
+    ],
+    "eddiable": false
+  }
+]
