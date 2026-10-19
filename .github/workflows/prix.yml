@@ -1,6 +1,9 @@
-name: Prix Cardmarket
+name: Prix Cardmarket et TCGplayer
 
-# Chaque nuit : prix du jour (prix/sync-cardmarket.mjs) publiés sur la branche « prix », lue par l'app.
+# Chaque nuit : prix du jour publiés sur la branche « prix », lue par l'app.
+#   cardmarket.json : prix/sync-cardmarket.mjs (guide de prix public de Cardmarket, en euros) ;
+#   tcgplayer.json  : prix/sync-tcgplayer.mjs (TCGCSV, copie publique des données de TCGplayer, en dollars), ajouté le 20/10/2026.
+# Une source en panne n'empêche pas l'autre d'être publiée (la tâche finit quand même en échec pour prévenir).
 # Déménagé du dépôt de la 1.1 (PommeSauce0/CyberCardex, branche data) le 19/10/2026.
 
 on:
@@ -31,12 +34,22 @@ jobs:
       - name: Prix publiés la veille
         run: |
           git fetch --depth=1 origin prix
-          git show FETCH_HEAD:cardmarket.json > "$RUNNER_TEMP/cardmarket.json"
-          cp "$RUNNER_TEMP/cardmarket.json" "$RUNNER_TEMP/before.json"
+          for f in cardmarket tcgplayer; do
+            # tcgplayer.json n'existe pas avant la première publication : on part de rien.
+            git show "FETCH_HEAD:$f.json" > "$RUNNER_TEMP/$f.json" 2>/dev/null || rm -f "$RUNNER_TEMP/$f.json"
+            cp "$RUNNER_TEMP/$f.json" "$RUNNER_TEMP/$f.before.json" 2>/dev/null || true
+          done
           echo "PARENT=$(git rev-parse FETCH_HEAD)" >> "$GITHUB_ENV"
 
-      - name: Prix du jour (avec vérifications)
+      - name: Prix Cardmarket du jour (avec vérifications)
+        id: cardmarket
+        continue-on-error: true
         run: node prix/sync-cardmarket.mjs --out "$RUNNER_TEMP/cardmarket.json"
+
+      - name: Prix TCGplayer du jour (avec vérifications)
+        id: tcgplayer
+        continue-on-error: true
+        run: node prix/sync-tcgplayer.mjs --out "$RUNNER_TEMP/tcgplayer.json"
 
       - name: Publier sur la branche prix
         env:
@@ -45,16 +58,28 @@ jobs:
           GIT_COMMITTER_NAME: github-actions[bot]
           GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
         run: |
-          if cmp -s "$RUNNER_TEMP/before.json" "$RUNNER_TEMP/cardmarket.json"; then
-            echo "Prix inchangés : rien à publier."
-            exit 0
-          fi
-          # On repart des fichiers déjà sur prix et on ne remplace que cardmarket.json.
+          # On repart des fichiers déjà sur prix et on ne remplace que les prix qui ont changé.
           export GIT_INDEX_FILE="$RUNNER_TEMP/prix-index"
           git read-tree "$PARENT"
-          blob=$(git hash-object -w "$RUNNER_TEMP/cardmarket.json")
-          git update-index --add --cacheinfo "100644,$blob,cardmarket.json"
-          tree=$(git write-tree)
-          date=$(node -p "require(process.argv[1]).updatedAt.slice(0, 10)" "$RUNNER_TEMP/cardmarket.json")
-          commit=$(git commit-tree "$tree" -p "$PARENT" -m "Prix Cardmarket du $date")
-          git push origin "$commit:refs/heads/prix"
+          changed=""
+          for f in cardmarket tcgplayer; do
+            [ -f "$RUNNER_TEMP/$f.json" ] || continue
+            cmp -s "$RUNNER_TEMP/$f.before.json" "$RUNNER_TEMP/$f.json" && continue
+            blob=$(git hash-object -w "$RUNNER_TEMP/$f.json")
+            git update-index --add --cacheinfo "100644,$blob,$f.json"
+            date=$(node -p "require(process.argv[1]).updatedAt.slice(0, 10)" "$RUNNER_TEMP/$f.json")
+            changed="$changed $f du $date"
+          done
+          if [ -z "$changed" ]; then
+            echo "Prix inchangés : rien à publier."
+          else
+            tree=$(git write-tree)
+            commit=$(git commit-tree "$tree" -p "$PARENT" -m "Prix :$changed")
+            git push origin "$commit:refs/heads/prix"
+          fi
+
+      - name: Prévenir si une source a échoué
+        if: steps.cardmarket.outcome == 'failure' || steps.tcgplayer.outcome == 'failure'
+        run: |
+          echo "Cardmarket : ${{ steps.cardmarket.outcome }} ; TCGplayer : ${{ steps.tcgplayer.outcome }}"
+          exit 1
