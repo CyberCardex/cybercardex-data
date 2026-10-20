@@ -1,6 +1,6 @@
 {
   "base": "9349b2d23210f745",
-  "revision": 1,
+  "revision": 2,
   "variantOrder": [
     "edgerunner-open-s-1-030-pandart-studio",
     "edgerunner-open-s-1-046-pandart-studio",
@@ -9,7 +9,8 @@
     "judge-promos-003-ukasz-wiktorzak",
     "welcome-to-night-city-retail-142-pandart-studio",
     "welcome-to-night-city-retail-154-pandart-studio",
-    "welcome-to-night-city-retail-159-atomhawk"
+    "welcome-to-night-city-retail-159-atomhawk",
+    "welcome-to-night-city-retail-164-mooncolony"
   ],
   "printings": [
     {
@@ -111,6 +112,40 @@
       "artist": "ATOMHAWK",
       "localizedName": "Johnny Silverhand — N'abandonne Jamais Le Combat",
       "printedRulesText": "La première fois que cette Unité gagne un combat chaque tour, préparez-la.\nCette Unité gagne tous les combats contre des Unités CORPO.",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "6ceb8ace-8b73-4b12-ba75-ee867b936e5c",
+      "sourceId": "6ceb8ace-8b73-4b12-ba75-ee867b936e5c",
+      "sourceUrl": "https://cyberpunktcg.com/cards/sandayu-oda-hanako-s-guardian?printing=6ceb8ace-8b73-4b12-ba75-ee867b936e5c",
+      "cardId": "sandayu-oda-hanako-s-guardian",
+      "setId": "welcome-to-night-city-retail",
+      "variantKey": "welcome-to-night-city-retail-164-mooncolony",
+      "number": "164",
+      "rarity": "Iconic Rare",
+      "language": "EN",
+      "finish": "Foil",
+      "imageUrl": "/cards/welcome-to-night-city-retail/6ceb8ace-8b73-4b12-ba75-ee867b936e5c.webp",
+      "artist": "MOONCOLONY",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "ec17ec9d-88dd-416d-92a5-7eb8c5076603",
+      "sourceId": "ec17ec9d-88dd-416d-92a5-7eb8c5076603",
+      "sourceUrl": "https://cyberpunktcg.com/cards/sandayu-oda-hanako-s-guardian?printing=ec17ec9d-88dd-416d-92a5-7eb8c5076603",
+      "cardId": "sandayu-oda-hanako-s-guardian",
+      "setId": "welcome-to-night-city-retail",
+      "variantKey": "welcome-to-night-city-retail-164-mooncolony",
+      "number": "164",
+      "rarity": "Iconic Rare",
+      "language": "FR",
+      "finish": "Foil",
+      "imageUrl": "/cards/welcome-to-night-city-retail/ec17ec9d-88dd-416d-92a5-7eb8c5076603.webp",
+      "artist": "MOONCOLONY",
+      "localizedName": "Sandayu Oda — Garde d'Hanako",
+      "printedRulesText": "{Play} Épuisez une Unité rivale pour chaque paire de Gigs alliés de même valeur.\nCette Unité peut attaquer les Unités rivales le tour où elle est jouée.",
       "status": "active",
       "treatments": []
     },

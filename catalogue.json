@@ -4,17 +4,17 @@
   "notebooks": [
     {
       "base": "9349b2d23210f745",
-      "revision": 1,
+      "revision": 2,
       "minApp": 30000,
       "title": {
-        "fr": "Nouveautés WNC et Judge Promos",
-        "en": "WNC additions and Judge Promos"
+        "fr": "Nouveautés WNC, Judge Promos et Sandayu Oda",
+        "en": "WNC additions, Judge Promos and Sandayu Oda"
       },
-      "file": "https://github.com/PommeSauce0/cybercardex-data/releases/download/9349b2d23210f745-r1/9349b2d23210f745-r1.zip",
-      "size": 1008990,
-      "sha256": "993e6a27311013e1f97d57797e98ea7d4abcb52945122efe54397a25d867e830",
-      "unpacked": 1004100,
-      "files": 23,
+      "file": "https://github.com/CyberCardex/cybercardex-data/releases/download/9349b2d23210f745-r2/9349b2d23210f745-r2.zip",
+      "size": 1264422,
+      "sha256": "09622962252c9490836edf120c5c27d04ed3b3d6d455cdc0f2555156c3625a27",
+      "unpacked": 1258616,
+      "files": 27,
       "printings": [
         "3723dc4c-52e1-4091-80c6-38c4175f7145",
         "dd73b839-6199-4f09-bb81-8d6237e72d20",
@@ -22,6 +22,8 @@
         "3837e490-0121-402e-8a5a-6a01a98c1842",
         "41e87b8f-9d0a-4955-a9ec-d1f2fd49f532",
         "e1c5b85a-696a-4048-8273-07e907fe05fc",
+        "6ceb8ace-8b73-4b12-ba75-ee867b936e5c",
+        "ec17ec9d-88dd-416d-92a5-7eb8c5076603",
         "b16f270b-6ea1-41d2-8489-077c0d4eec21",
         "b58d604c-76c5-4928-9406-17f44cc4b187",
         "534faf6c-78ff-4256-8c1b-a77438b7f979",
@@ -35,6 +37,8 @@
         "panam-palmer-nomad-cavalry",
         "johnny-silverhand-never-stop-fighting",
         "johnny-silverhand-never-stop-fighting",
+        "sandayu-oda-hanako-s-guardian",
+        "sandayu-oda-hanako-s-guardian",
         "dexter-deshawn-off-the-grid",
         "panam-palmer-nomad-cavalry",
         "secondhand-bombus",
@@ -48,9 +52,9 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-19T01:17:02.755Z",
   "withdrawnMessages": [
     "o",
     "test-2026-10-19"
-  ]
+  ],
+  "updatedAt": "2026-10-20T16:46:24.065Z"
 }
