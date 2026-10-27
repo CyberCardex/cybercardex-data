@@ -56,5 +56,21 @@
     "o",
     "test-2026-10-19"
   ],
-  "updatedAt": "2026-10-20T16:46:24.065Z"
+  "updatedAt": "2026-10-27T01:59:16.274Z",
+  "messages": [
+    {
+      "id": "la-3-0-est-la-2026-10-27",
+      "from": "2026-10-27",
+      "to": "2026-11-02",
+      "title": {
+        "fr": "La 3.0 est là !",
+        "en": "Version 3.0 is here!"
+      },
+      "text": {
+        "fr": "Bienvenue dans la nouvelle version de CyberCardex : catalogue, collection, decks, classeurs et scanner, tout a été refait. Un souci ? Dis-le-moi depuis Réglages → À propos. Bon tri, choomba !",
+        "en": "Welcome to the new CyberCardex: catalog, collection, decks, binders and scanner, all rebuilt. Any issue? Let me know from Settings → About. Happy sorting, choomba!"
+      },
+      "published": "2026-10-27T01:59:14.772Z"
+    }
+  ]
 }
