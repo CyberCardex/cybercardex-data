@@ -1,14 +1,15 @@
 {
-  "updatedAt": "2026-10-31T20:05:59.000Z",
+  "updatedAt": "2026-11-01T20:05:16.000Z",
   "source": "TCGplayer via TCGCSV",
   "products": {
     "f509ebd8-c8b7-4a22-8922-2d71c6df0b6f": {
       "id": 715194,
-      "lowFoil": 17.19
+      "marketFoil": 17.86,
+      "lowFoil": 17.2
     },
     "e4e17d32-3ec4-4c74-927c-fd0911b86e72": {
       "id": 715195,
-      "lowFoil": 33.5
+      "lowFoil": 32.24
     },
     "77e482f2-6090-47e9-9d03-be28417cb1cb": {
       "id": 715196,
@@ -93,7 +94,7 @@
     "71a35836-e604-4d98-ab56-58bfb4581033": {
       "id": 715251,
       "marketFoil": 209.04,
-      "lowFoil": 297.01
+      "lowFoil": 290
     },
     "f625d2ac-3007-48f4-82b3-b521fc11a172": {
       "id": 715255
@@ -163,11 +164,11 @@
     },
     "e96d3167-5115-4c82-9b35-546cba0aaead": {
       "id": 715005,
-      "lowFoil": 5
+      "lowFoil": 2.36
     },
     "1a7081e4-9b58-4b8a-85ae-56b5e3cea502": {
       "id": 715005,
-      "lowFoil": 5
+      "lowFoil": 2.36
     },
     "756f3e53-9ff3-4c01-9f33-bb27a1cd5957": {
       "id": 715006,
@@ -179,12 +180,12 @@
     },
     "a9c1137e-2e33-4293-9dcc-9351c9a0bbee": {
       "id": 715007,
-      "marketFoil": 20,
+      "marketFoil": 20.17,
       "lowFoil": 20
     },
     "e8a372eb-313d-43a0-a972-cf742a97baef": {
       "id": 715007,
-      "marketFoil": 20,
+      "marketFoil": 20.17,
       "lowFoil": 20
     },
     "d23e322f-ad60-431d-b33e-1e8a813248ff": {
@@ -229,12 +230,12 @@
     },
     "cb23a651-dd1d-48f8-aca3-8d33fef79fdd": {
       "id": 715013,
-      "marketFoil": 5,
+      "marketFoil": 5.74,
       "lowFoil": 5
     },
     "6717efc6-00fa-4c74-b3d5-c1cbb81b63a3": {
       "id": 715013,
-      "marketFoil": 5,
+      "marketFoil": 5.74,
       "lowFoil": 5
     },
     "7514dd38-6e2d-43dd-9715-6b3a32615382": {
@@ -289,11 +290,11 @@
     },
     "4b5dc479-0db1-46dd-859f-e7dc34d50f03": {
       "id": 715020,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "db3842de-7a48-4214-a82e-f2541065fbd9": {
       "id": 715020,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "36128749-4cb1-440d-b4de-4fd463cc2f5c": {
       "id": 715021,
@@ -395,19 +396,21 @@
     },
     "2b1b6268-193f-4b9e-a63c-0cbc200d6db7": {
       "id": 715033,
-      "lowFoil": 1
+      "marketFoil": 0.99,
+      "lowFoil": 0.99
     },
     "69a2e4bb-12e4-4a06-b9a2-cc9ceff1e22b": {
       "id": 715033,
-      "lowFoil": 1
+      "marketFoil": 0.99,
+      "lowFoil": 0.99
     },
     "94180516-28a6-4f5c-b79e-de38a95ed47b": {
       "id": 715034,
-      "lowFoil": 5
+      "lowFoil": 2.88
     },
     "f66740f6-c23d-482f-a6fb-91565bd5b3db": {
       "id": 715034,
-      "lowFoil": 5
+      "lowFoil": 2.88
     },
     "9c18b6ae-765d-4244-8de4-e382c4767de1": {
       "id": 715035,
@@ -427,11 +430,11 @@
     },
     "7d174619-2183-4058-a89a-082c6b7b5a5c": {
       "id": 715037,
-      "low": 1
+      "low": 0.99
     },
     "83b6ce06-f1a6-4825-843c-accf94bca797": {
       "id": 715037,
-      "low": 1
+      "low": 0.99
     },
     "876dfa5c-6df4-4930-b284-f2c466e6b90c": {
       "id": 715038,
@@ -451,11 +454,11 @@
     },
     "7751b719-978b-44b1-a82f-b2881d3a416e": {
       "id": 715040,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "6d318bc3-d6dd-4ad7-baa9-5ffb2431343f": {
       "id": 715040,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "846b55b4-5e12-44b6-a204-53bd8c862888": {
       "id": 715041,
@@ -476,12 +479,12 @@
     "0f6e52f0-511f-4ae9-a380-5e718b26e58a": {
       "id": 715043,
       "marketFoil": 1,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "f90ac948-1be9-48eb-bfe5-3e881bc82472": {
       "id": 715043,
       "marketFoil": 1,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "efc5dfdd-f393-4bbe-a7bc-ac959ba1e6bc": {
       "id": 715044,
@@ -502,12 +505,12 @@
     "2c4a77e8-0fda-4ec1-9519-1d15e0f172b3": {
       "id": 715046,
       "marketFoil": 1,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "ddd811ff-4965-455b-92c8-31f8eff14c28": {
       "id": 715046,
       "marketFoil": 1,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "7386d22f-1065-4043-a6c4-9cee6256fe8a": {
       "id": 715047,
@@ -543,19 +546,21 @@
     },
     "9f61ebda-53fd-4b23-8383-d0e0bd32b847": {
       "id": 715051,
-      "lowFoil": 1
+      "marketFoil": 0.99,
+      "lowFoil": 0.99
     },
     "c9b1f0cd-1156-4010-a98c-74c01aba4097": {
       "id": 715051,
-      "lowFoil": 1
+      "marketFoil": 0.99,
+      "lowFoil": 0.99
     },
     "12d44604-ad7b-4e82-b517-9edb0be44427": {
       "id": 715052,
-      "lowFoil": 9.99
+      "lowFoil": 9.97
     },
     "cde99261-b242-4a30-acd3-74081653154a": {
       "id": 715052,
-      "lowFoil": 9.99
+      "lowFoil": 9.97
     },
     "30619097-d9d7-42fe-bf4c-cd4ae822792d": {
       "id": 715053,
@@ -566,31 +571,29 @@
       "low": 1
     },
     "14ab188f-2ce3-4790-8823-5a352371ff1f": {
-      "id": 715054,
-      "marketFoil": 15,
-      "lowFoil": 15
+      "id": 715054
     },
     "5fcbe583-4a7e-4024-b6ad-e52a147d2c52": {
-      "id": 715054,
-      "marketFoil": 15,
-      "lowFoil": 15
+      "id": 715054
     },
     "a8a7d286-0c66-4f01-aca7-45570474d9e4": {
       "id": 715055,
-      "lowFoil": 23
+      "marketFoil": 23,
+      "lowFoil": 24.5
     },
     "7f03795b-029a-4347-a685-d67dcd879a93": {
       "id": 715055,
-      "lowFoil": 23
+      "marketFoil": 23,
+      "lowFoil": 24.5
     },
     "8d0ad645-ac9a-4ecb-93d0-4c2061a4c477": {
       "id": 715056,
-      "marketFoil": 5,
+      "marketFoil": 5.49,
       "lowFoil": 5
     },
     "4ea89508-1831-4e21-b4b0-b61771722686": {
       "id": 715056,
-      "marketFoil": 5,
+      "marketFoil": 5.49,
       "lowFoil": 5
     },
     "dcfe8370-9abf-4395-b50b-efea505609ba": {
@@ -651,11 +654,11 @@
     },
     "7072a2d2-ec4f-4575-909e-15a107dfef79": {
       "id": 715064,
-      "lowFoil": 0.45
+      "lowFoil": 0.44
     },
     "a787bd95-41a4-4bff-b4a1-0d3474f21769": {
       "id": 715064,
-      "lowFoil": 0.45
+      "lowFoil": 0.44
     },
     "e14bdd12-1214-4104-bfdd-ae023c21527c": {
       "id": 715065,
@@ -750,12 +753,12 @@
     "17252514-02ba-4d0d-a9cc-3590cee528af": {
       "id": 715076,
       "marketFoil": 1,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "6a9cf4ed-b228-448e-a507-d40846a5a987": {
       "id": 715076,
       "marketFoil": 1,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "50e8101a-3d0e-45ea-9444-22007f7f9cb0": {
       "id": 715077,
@@ -799,21 +802,23 @@
     },
     "07f119d6-8fb2-4b23-9862-818a7e941010": {
       "id": 715082,
+      "market": 1,
       "low": 1
     },
     "5ab4befe-a812-43ce-b2ff-0f4fea00be96": {
       "id": 715082,
+      "market": 1,
       "low": 1
     },
     "70c7f11e-e41d-44f2-b5cd-e8568915d6ac": {
       "id": 715083,
       "marketFoil": 1,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "1563fec7-3eaa-41af-be1f-514f4e86d692": {
       "id": 715083,
       "marketFoil": 1,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "089df0e6-0000-4e6c-b6d3-d9119466b624": {
       "id": 715084,
@@ -841,12 +846,12 @@
     },
     "336131d1-3bc8-4b39-b893-5fce9be8ce7f": {
       "id": 715087,
-      "marketFoil": 5,
+      "marketFoil": 5.49,
       "lowFoil": 5
     },
     "809a9921-cc08-4fa8-a3b5-9559cdb82a07": {
       "id": 715087,
-      "marketFoil": 5,
+      "marketFoil": 5.49,
       "lowFoil": 5
     },
     "b43f5006-7388-4189-81ff-343b5428305b": {
@@ -860,22 +865,22 @@
     "c7f0583f-2493-4e1f-9967-977bc0c6fa15": {
       "id": 715089,
       "marketFoil": 1,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "dae6ee14-750c-4ccf-b5c5-adba5e5585e8": {
       "id": 715089,
       "marketFoil": 1,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "6e4ee31b-82d1-421c-b658-ba3f79520365": {
       "id": 715090,
-      "marketFoil": 1,
-      "lowFoil": 1
+      "marketFoil": 0.99,
+      "lowFoil": 0.99
     },
     "7e20652d-4525-4c71-9fca-7e22156748e4": {
       "id": 715090,
-      "marketFoil": 1,
-      "lowFoil": 1
+      "marketFoil": 0.99,
+      "lowFoil": 0.99
     },
     "9231f9ff-1ba5-4c4f-bd78-70e0780b58e5": {
       "id": 715091,
@@ -895,10 +900,12 @@
     },
     "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c": {
       "id": 715093,
+      "market": 1,
       "low": 1
     },
     "6c3a0587-0069-47a8-845f-fab4aba7c36b": {
       "id": 715093,
+      "market": 1,
       "low": 1
     },
     "81c55c1f-362e-4ffd-8f9b-4162b298dbd5": {
@@ -919,11 +926,11 @@
     },
     "3b1d0570-bb8e-4ea5-9ec7-c698d9c9f94d": {
       "id": 715096,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "8abb91d5-cf0d-4569-ab2d-1cbb0140d537": {
       "id": 715096,
-      "lowFoil": 1
+      "lowFoil": 0.99
     },
     "fb096d3f-48eb-47c0-a065-81b39691e12f": {
       "id": 715097,
@@ -959,12 +966,12 @@
     },
     "b3895f75-e147-49b0-a6d8-6fb35b356b2e": {
       "id": 715101,
-      "marketFoil": 5.01,
+      "marketFoil": 5.5,
       "lowFoil": 5
     },
     "ca4226eb-715f-4b3b-89a6-07a3208e3a90": {
       "id": 715101,
-      "marketFoil": 5.01,
+      "marketFoil": 5.5,
       "lowFoil": 5
     },
     "07aaea5c-5aef-466e-956a-2e68930669c0": {
@@ -1005,10 +1012,12 @@
     },
     "3e2e228b-dbfb-484b-b82d-6972ff184aab": {
       "id": 715106,
+      "marketFoil": 5.98,
       "lowFoil": 5
     },
     "050e927a-f815-4aea-ac32-6d727d2b895a": {
       "id": 715106,
+      "marketFoil": 5.98,
       "lowFoil": 5
     },
     "e1b674d0-4ac7-4523-be19-809308871d49": {
@@ -1037,10 +1046,12 @@
     },
     "97de62e2-3fea-4324-8367-87d1f1d674ed": {
       "id": 715110,
+      "market": 1,
       "low": 1
     },
     "82f5644f-094d-454d-a35a-57f61de3bd14": {
       "id": 715110,
+      "market": 1,
       "low": 1
     },
     "2647f881-5a7e-4ffb-b231-6574dc531f43": {
@@ -1166,12 +1177,12 @@
     "15920617-a06f-4302-9dfb-c85d3470c7eb": {
       "id": 715126,
       "marketFoil": 5,
-      "lowFoil": 6.49
+      "lowFoil": 5.99
     },
     "7b7ad582-cc40-4d20-899e-2aaec1eddc72": {
       "id": 715126,
       "marketFoil": 5,
-      "lowFoil": 6.49
+      "lowFoil": 5.99
     },
     "0d6c1f36-628b-4631-a96d-2000f6fb054e": {
       "id": 715128,
@@ -1207,19 +1218,19 @@
     },
     "c1747b7d-de5c-43eb-a4ed-b632f1861712": {
       "id": 715132,
-      "lowFoil": 10
+      "lowFoil": 5.99
     },
     "bcef1f08-e492-48ef-9411-18608f86512c": {
       "id": 715132,
-      "lowFoil": 10
+      "lowFoil": 5.99
     },
     "3fc63c58-5954-4744-a5af-047bfc5cb159": {
       "id": 715133,
-      "lowFoil": 5
+      "lowFoil": 2.38
     },
     "1c3de235-c8a3-4d05-8f8a-7e9c12b799b2": {
       "id": 715133,
-      "lowFoil": 5
+      "lowFoil": 2.38
     },
     "c2d0e2a7-470f-4498-b6d5-5df1e3ecc3ef": {
       "id": 715134,
@@ -1247,10 +1258,12 @@
     },
     "2285cd3a-7010-4ba4-b23a-ba40aba296f9": {
       "id": 715137,
+      "marketFoil": 1,
       "lowFoil": 1
     },
     "cd6a4ee0-6bf2-443e-a9d7-5205eabaa68c": {
       "id": 715137,
+      "marketFoil": 1,
       "lowFoil": 1
     },
     "4eca7fcd-85c1-43d0-8a07-4227312ab0db": {
@@ -1383,37 +1396,37 @@
     },
     "e44580df-d78d-4b09-bb53-edb1ee32ac96": {
       "id": 715166,
-      "marketFoil": 25.98,
-      "lowFoil": 26.51
+      "marketFoil": 25.66,
+      "lowFoil": 27
     },
     "328cd3e4-4177-4d6a-86c0-00d1a5a12b38": {
       "id": 715170,
-      "marketFoil": 35.81,
+      "marketFoil": 35.69,
       "lowFoil": 35.85
     },
     "0cb4ae83-a7ca-4ca6-9c83-6c0581baae57": {
       "id": 715174,
-      "marketFoil": 11.84,
+      "marketFoil": 11.77,
       "lowFoil": 11
     },
     "15430373-fafd-479c-84d4-5737c71d0850": {
       "id": 715179,
-      "marketFoil": 14.91,
+      "marketFoil": 14.83,
       "lowFoil": 8.99
     },
     "a33c6299-f1ee-404e-9197-cad5f7e84fce": {
       "id": 715181,
-      "marketFoil": 20.35,
+      "marketFoil": 20.56,
       "lowFoil": 16
     },
     "12337d92-713c-4c7c-8a16-595a7b4717f1": {
       "id": 715185,
-      "marketFoil": 10.48,
+      "marketFoil": 10.38,
       "lowFoil": 10
     },
     "362bef23-c935-4729-a13b-dc3bc646d9b3": {
       "id": 714119,
-      "marketFoil": 5.36,
+      "marketFoil": 5.08,
       "lowFoil": 2
     },
     "1e80ecfb-a3f2-421d-ac71-c05547366fb6": {
@@ -1468,12 +1481,12 @@
     },
     "25b09451-8cc8-4581-898d-3b5ee6ff6b14": {
       "id": 714130,
-      "marketFoil": 5.25,
+      "marketFoil": 5.08,
       "lowFoil": 2
     },
     "54136fbd-ce97-4d23-a8e8-f876e3e64819": {
       "id": 714131,
-      "marketFoil": 5.32,
+      "marketFoil": 5,
       "lowFoil": 2
     },
     "07cad5ea-45c4-404b-99b8-8f53c280a4fb": {
@@ -1513,62 +1526,62 @@
     },
     "10ca370b-deb7-4c58-a9f9-faf4f9708f6d": {
       "id": 717125,
-      "marketFoil": 14.11,
+      "marketFoil": 14.19,
       "lowFoil": 13.5
     },
     "cbbe5954-ce33-47aa-83c1-bdda4c7b907f": {
       "id": 717126,
-      "marketFoil": 8.32,
+      "marketFoil": 8.5,
       "lowFoil": 7
     },
     "c44fbb15-edf6-466c-95d4-2e718fb100e5": {
       "id": 717127,
-      "marketFoil": 10.2,
+      "marketFoil": 10.08,
       "lowFoil": 7
     },
     "f6e85d48-0d0b-4cfa-9cdf-1b66f8104328": {
       "id": 717231,
-      "marketFoil": 8.22,
+      "marketFoil": 8.04,
       "lowFoil": 7.29
     },
     "254975e9-0381-4a1c-96c7-19186a855e48": {
       "id": 717232,
-      "marketFoil": 9.82,
+      "marketFoil": 9.71,
       "lowFoil": 9.02
     },
     "ff7b01fc-d9fd-4ae7-b141-01f514dee280": {
       "id": 717233,
-      "marketFoil": 6.57,
-      "lowFoil": 5.44
+      "marketFoil": 6.47,
+      "lowFoil": 5.45
     },
     "5620aa1a-94e9-43c4-b89e-fea304e4257c": {
       "id": 717235,
-      "marketFoil": 16.96,
+      "marketFoil": 16.84,
       "lowFoil": 15.77
     },
     "c7c6c4fa-eb19-43d6-904c-129cf062a8aa": {
       "id": 717236,
-      "marketFoil": 10.47,
-      "lowFoil": 9
+      "marketFoil": 10.39,
+      "lowFoil": 9.2
     },
     "32d12432-acad-4a11-b8eb-1dd8fb2297f3": {
       "id": 717237,
-      "marketFoil": 13.1,
+      "marketFoil": 13.06,
       "lowFoil": 11.99
     },
     "e902c6ed-7f60-42e1-b3e1-e3804181222f": {
       "id": 717238,
-      "marketFoil": 25.52,
+      "marketFoil": 25.69,
       "lowFoil": 25.81
     },
     "2ec85468-7593-4af5-b0d9-aecc1bc82366": {
       "id": 717239,
-      "marketFoil": 7.55,
-      "lowFoil": 3.99
+      "marketFoil": 7.6,
+      "lowFoil": 6.5
     },
     "56a13bb3-7e1d-4846-ac79-9163f33c0143": {
       "id": 714140,
-      "marketFoil": 3.13,
+      "marketFoil": 3.21,
       "lowFoil": 1
     },
     "f9c512f2-a41f-4114-9500-cee3f8d8cc35": {
@@ -1608,7 +1621,7 @@
     },
     "e38dee5b-9f4a-4323-a18f-aff42256b158": {
       "id": 714148,
-      "market": 0.77,
+      "market": 0.74,
       "low": 0.15
     },
     "a8dcad7d-7b45-427d-8123-3140b30ac612": {
@@ -1618,13 +1631,13 @@
     },
     "a0ef9536-ad3b-47f6-8c2a-171aa3b8b181": {
       "id": 714150,
-      "marketFoil": 14.55,
+      "marketFoil": 14.41,
       "lowFoil": 13
     },
     "a6511c82-3a16-41b3-a39a-5194897c8648": {
       "id": 714151,
-      "marketFoil": 5.69,
-      "lowFoil": 4.5
+      "marketFoil": 5.57,
+      "lowFoil": 4.25
     },
     "a6bc4a11-ed78-49dc-999b-68b7fe50aefd": {
       "id": 714152,
@@ -1668,22 +1681,22 @@
     },
     "4d75c13e-bde2-409b-8bcc-516e054f28f5": {
       "id": 714162,
-      "marketFoil": 0.8,
+      "marketFoil": 0.91,
       "lowFoil": 0.49
     },
     "f4ff466c-22ad-4c50-9f4c-29933e51f739": {
       "id": 714163,
-      "marketFoil": 0.33,
+      "marketFoil": 0.3,
       "lowFoil": 0.15
     },
     "1159e69c-614f-4a8e-be76-d69ee734bd22": {
       "id": 714164,
-      "marketFoil": 23.66,
-      "lowFoil": 23.71
+      "marketFoil": 23.76,
+      "lowFoil": 23.72
     },
     "0e4966a2-e5cf-4acd-905a-750e9c4cefff": {
       "id": 714165,
-      "marketFoil": 0.35,
+      "marketFoil": 0.37,
       "lowFoil": 0.2
     },
     "79119e83-b50b-4a79-8a6c-f496d9ed7ef6": {
@@ -1693,7 +1706,7 @@
     },
     "e6dbfd52-85c5-4fd4-a77c-ca829e827d8a": {
       "id": 714167,
-      "marketFoil": 0.34,
+      "marketFoil": 0.36,
       "lowFoil": 0.2
     },
     "14e20948-a74b-4a27-a156-d34d8cfb98cc": {
@@ -1703,7 +1716,7 @@
     },
     "81364914-7121-43fc-9610-f2f9736866d1": {
       "id": 714169,
-      "market": 0.11,
+      "market": 0.1,
       "low": 0.03
     },
     "d6dd0114-fdd5-452a-b752-3e58a2e137f5": {
@@ -1713,7 +1726,7 @@
     },
     "c180e174-f1b6-4b9c-b2c8-db0551ae49d2": {
       "id": 714171,
-      "marketFoil": 0.16,
+      "marketFoil": 0.15,
       "lowFoil": 0.03
     },
     "fa9d3c0c-5634-42a1-a665-9173c045fa30": {
@@ -1723,8 +1736,8 @@
     },
     "975957a0-9c72-4a67-8260-f86c1c70bfb5": {
       "id": 714173,
-      "marketFoil": 17.34,
-      "lowFoil": 16
+      "marketFoil": 17.21,
+      "lowFoil": 15
     },
     "1a986e5a-fe97-408c-81e9-b675c64bdcf9": {
       "id": 714174,
@@ -1733,47 +1746,47 @@
     },
     "91e553d4-ac26-4135-bcd9-9fc2661d3e90": {
       "id": 714175,
-      "market": 0.12,
+      "market": 0.11,
       "low": 0.03
     },
     "96e76b12-4e53-4e2c-aca3-3fedf6f21e18": {
       "id": 714176,
-      "marketFoil": 0.34,
+      "marketFoil": 0.36,
       "lowFoil": 0.1
     },
     "3b8c035e-161d-4a84-bdc8-f76899e8244f": {
       "id": 714177,
-      "market": 0.1,
+      "market": 0.09,
       "low": 0.01
     },
     "a4276d5e-cdf1-42cb-a6c3-8722d8c7c595": {
       "id": 714178,
-      "market": 0.12,
+      "market": 0.13,
       "low": 0.03
     },
     "23cfc17c-3fab-475b-9a1a-838b98e09bb8": {
       "id": 714179,
-      "market": 0.11,
+      "market": 0.1,
       "low": 0.02
     },
     "c614fc55-c071-456f-a5c3-7274e0073b0c": {
       "id": 714180,
-      "market": 0.13,
+      "market": 0.12,
       "low": 0.03
     },
     "1b182145-b318-4b10-85e2-fdbf5afdf3c0": {
       "id": 714181,
-      "market": 0.1,
+      "market": 0.11,
       "low": 0.02
     },
     "b460b92c-c0fd-43ed-84db-8615032e47f4": {
       "id": 714182,
-      "marketFoil": 3.19,
-      "lowFoil": 2.49
+      "marketFoil": 2.96,
+      "lowFoil": 2
     },
     "8d236321-e94e-41b1-8cb9-c2a533afc112": {
       "id": 714183,
-      "market": 0.12,
+      "market": 0.11,
       "low": 0.01
     },
     "19ef8a11-606b-44f3-b20e-08800c9d6cc2": {
@@ -1783,7 +1796,7 @@
     },
     "7ff6a088-1720-45b6-a3cf-30709415df5e": {
       "id": 714185,
-      "market": 0.11,
+      "market": 0.1,
       "low": 0.03
     },
     "e53bdb8b-5b1f-4f31-ad74-a43a4925c2d1": {
@@ -1793,8 +1806,8 @@
     },
     "84278f23-7323-47d2-b639-23edd76f87ae": {
       "id": 714187,
-      "market": 0.12,
-      "low": 0.03
+      "market": 0.13,
+      "low": 0.05
     },
     "b12e1665-bf29-4b2c-b92d-865cff227a67": {
       "id": 714188,
@@ -1803,17 +1816,17 @@
     },
     "27a2fceb-5c37-4cfa-8efb-1e4618d22401": {
       "id": 714189,
-      "market": 0.12,
+      "market": 0.11,
       "low": 0.03
     },
     "d2aed299-7c88-484a-aa8a-e2e2f09bf8a8": {
       "id": 714190,
-      "market": 0.13,
+      "market": 0.12,
       "low": 0.03
     },
     "2ca6ae1f-b10c-439d-a929-cd82c3b1158c": {
       "id": 714191,
-      "market": 0.14,
+      "market": 0.15,
       "low": 0.08
     },
     "171b21b1-90d0-4d3b-a060-740c413b7bf2": {
@@ -1823,12 +1836,12 @@
     },
     "0ecf513b-64fd-4932-a004-b02b43b21e88": {
       "id": 714193,
-      "market": 0.1,
+      "market": 0.11,
       "low": 0.02
     },
     "e3d061b0-fb02-481d-8afa-f4b5bce4ed39": {
       "id": 714194,
-      "market": 0.14,
+      "market": 0.13,
       "low": 0.03
     },
     "161bfaaf-ec85-4142-8538-f5faf9181267": {
@@ -1843,27 +1856,27 @@
     },
     "80735f9a-6c20-4d24-9138-b3c0d2e6bf46": {
       "id": 714197,
-      "marketFoil": 0.14,
+      "marketFoil": 0.15,
       "lowFoil": 0.03
     },
     "33cfbdb0-a169-458a-86dc-9123697654d7": {
       "id": 714198,
-      "marketFoil": 0.29,
+      "marketFoil": 0.32,
       "lowFoil": 0.24
     },
     "0557c333-1700-439d-bb85-dfec8d578ded": {
       "id": 714199,
-      "marketFoil": 0.31,
+      "marketFoil": 0.3,
       "lowFoil": 0.11
     },
     "3d1e6590-5cdc-4605-8b61-915f21f5514d": {
       "id": 714200,
-      "marketFoil": 0.31,
-      "lowFoil": 0.18
+      "marketFoil": 0.29,
+      "lowFoil": 0.15
     },
     "b217ae88-52a6-44b3-b021-964db4534dbd": {
       "id": 714201,
-      "marketFoil": 0.42,
+      "marketFoil": 0.43,
       "lowFoil": 0.37
     },
     "dd2f97c2-5ea6-4564-8b39-4f21ad0a7885": {
@@ -1873,22 +1886,22 @@
     },
     "fdb7a7c3-350e-49ea-8a9e-8477ce6c657a": {
       "id": 714203,
-      "marketFoil": 1.85,
+      "marketFoil": 2.02,
       "lowFoil": 1.49
     },
     "3d3e0e55-fa7a-40ba-bf30-0204cca88612": {
       "id": 714204,
-      "marketFoil": 0.2,
+      "marketFoil": 0.21,
       "lowFoil": 0.05
     },
     "28973c43-529c-487e-aa05-ac99280d66c3": {
       "id": 714205,
-      "market": 0.15,
+      "market": 0.14,
       "low": 0.06
     },
     "20cd09ad-b0c6-4ffe-9036-04ff24d8fe59": {
       "id": 714206,
-      "marketFoil": 0.11,
+      "marketFoil": 0.13,
       "lowFoil": 0.04
     },
     "cbbcb49e-6c6f-436c-91cf-e9716f6a30af": {
@@ -1898,18 +1911,18 @@
     },
     "ab6fab2a-8101-4bc7-8f5d-b55adf09bc4c": {
       "id": 714208,
-      "marketFoil": 0.12,
+      "marketFoil": 0.13,
       "lowFoil": 0.05
     },
     "2a6b5b50-b007-40f4-bbdc-90f6bdc3761a": {
       "id": 714209,
-      "market": 0.12,
+      "market": 0.13,
       "low": 0.03
     },
     "93f68b18-e15c-44be-883b-8db7990646f1": {
       "id": 714210,
-      "marketFoil": 8.13,
-      "lowFoil": 6.5
+      "marketFoil": 8.02,
+      "lowFoil": 7
     },
     "42236397-716c-422c-8868-9f33dd33b089": {
       "id": 714211,
@@ -1948,27 +1961,27 @@
     },
     "df879b77-ca97-4e3d-8879-ecd73ceebf21": {
       "id": 714218,
-      "market": 0.11,
+      "market": 0.1,
       "low": 0.03
     },
     "ade4a2d5-df74-44fe-ab5f-222dc6e2ce27": {
       "id": 714219,
-      "marketFoil": 1.32,
-      "lowFoil": 1.17
+      "marketFoil": 1.33,
+      "lowFoil": 1.18
     },
     "e3005cf1-4dbc-4f4e-922b-af81d6086015": {
       "id": 714220,
-      "market": 0.12,
+      "market": 0.13,
       "low": 0.05
     },
     "ccb79cf1-fc2d-4b52-bea5-b427583bfe1b": {
       "id": 714221,
-      "market": 0.14,
+      "market": 0.13,
       "low": 0.07
     },
     "73b6b3d3-6a7f-44ed-a267-add6ae389b5a": {
       "id": 714222,
-      "market": 0.12,
+      "market": 0.15,
       "low": 0.05
     },
     "d35720e4-f307-4732-ae3d-8f47f1351549": {
@@ -1978,32 +1991,32 @@
     },
     "dc0a7e03-54b6-4334-965f-27a3d469fed6": {
       "id": 714224,
-      "market": 0.11,
+      "market": 0.1,
       "low": 0.03
     },
     "a55809aa-170d-42b4-8768-f0b873fd0dc4": {
       "id": 714225,
-      "marketFoil": 2.99,
-      "lowFoil": 2.99
+      "marketFoil": 2.78,
+      "lowFoil": 1.99
     },
     "25077971-70cc-4524-b7cf-cd8258abc28c": {
       "id": 714226,
-      "market": 0.2,
+      "market": 0.21,
       "low": 0.09
     },
     "5adb7a6a-de7b-4f00-9d5a-2cccfaf4f19d": {
       "id": 714227,
-      "market": 0.1,
+      "market": 0.09,
       "low": 0.03
     },
     "20c23b0f-187d-41d8-9670-b8e603049b3d": {
       "id": 714228,
-      "market": 0.16,
+      "market": 0.15,
       "low": 0.03
     },
     "b3329aae-77de-4c61-b400-114f51bbae5a": {
       "id": 714229,
-      "market": 0.1,
+      "market": 0.11,
       "low": 0.03
     },
     "b2d6aeff-8fa3-4151-9e67-a83188a78197": {
@@ -2013,7 +2026,7 @@
     },
     "af696a54-97bf-475b-b721-9a8bb86227a0": {
       "id": 714231,
-      "market": 0.12,
+      "market": 0.11,
       "low": 0.03
     },
     "709ec425-eda5-4621-b907-94a507a20351": {
@@ -2023,32 +2036,32 @@
     },
     "5f3c905b-0834-46a2-be33-ea46e59d4c7f": {
       "id": 714233,
-      "marketFoil": 0.24,
+      "marketFoil": 0.27,
       "lowFoil": 0.1
     },
     "1435b785-967e-48a7-8ef7-f7fecbb27aaf": {
       "id": 714234,
-      "marketFoil": 0.48,
+      "marketFoil": 0.44,
       "lowFoil": 0.28
     },
     "c1f9ae1a-841f-431f-919a-429de14be070": {
       "id": 714235,
-      "marketFoil": 0.34,
+      "marketFoil": 0.35,
       "lowFoil": 0.23
     },
     "e1f5dc01-9e96-4102-af3f-07ad31f5db15": {
       "id": 714236,
-      "marketFoil": 0.32,
+      "marketFoil": 0.33,
       "lowFoil": 0.2
     },
     "2cfe57a5-cafe-4611-90fd-c72f33250933": {
       "id": 714237,
-      "marketFoil": 0.75,
+      "marketFoil": 0.84,
       "lowFoil": 0.15
     },
     "19737e35-546d-406f-af5f-2fe6865cdd93": {
       "id": 714238,
-      "market": 0.1,
+      "market": 0.09,
       "low": 0.03
     },
     "b4a1d2af-4ee4-4ec4-8a5b-eaec9cb3211a": {
@@ -2063,7 +2076,7 @@
     },
     "ce3770f6-0fa7-41f4-af5f-eacce5846c98": {
       "id": 714241,
-      "market": 0.1,
+      "market": 0.11,
       "low": 0.03
     },
     "27c1bf13-5f6b-4421-aa76-5789a94c9c1b": {
@@ -2078,22 +2091,22 @@
     },
     "f52caed9-3415-4027-a448-2c38b045553b": {
       "id": 714244,
-      "market": 0.1,
-      "low": 0.03
+      "market": 0.09,
+      "low": 0.01
     },
     "8cb7b93c-e281-4d94-a4b0-bb0cb5d0fa16": {
       "id": 714245,
       "market": 0.13,
-      "low": 0.07
+      "low": 0.04
     },
     "5131f2e5-fe1b-4a49-b0ba-b85d04c9cd1b": {
       "id": 714246,
       "market": 0.09,
-      "low": 0.03
+      "low": 0.01
     },
     "544f8db8-02af-44e5-992e-170f51ffca37": {
       "id": 714247,
-      "marketFoil": 13.43,
+      "marketFoil": 13.5,
       "lowFoil": 12.49
     },
     "786d5ce2-bfc0-4648-9c7d-323e939a1d34": {
@@ -2104,36 +2117,36 @@
     "29b3036d-306a-485f-af6c-b08fb5b912ac": {
       "id": 714249,
       "market": 0.09,
-      "low": 0.03
+      "low": 0.01
     },
     "28cf40e2-f83a-47f4-9c4d-c0b5157e84e6": {
       "id": 714250,
-      "marketFoil": 0.25,
-      "lowFoil": 0.08
+      "marketFoil": 0.22,
+      "lowFoil": 0.05
     },
     "ce429abf-a099-48bf-a158-e32adc73b42e": {
       "id": 714251,
-      "marketFoil": 0.17,
+      "marketFoil": 0.16,
       "lowFoil": 0.04
     },
     "4b7d734b-5cc2-4c57-9bcf-7e3b5a0f1f9f": {
       "id": 714252,
-      "market": 0.08,
+      "market": 0.07,
       "low": 0.01
     },
     "c828bc68-23a3-41ef-878b-00b13ccf0cdc": {
       "id": 714253,
-      "market": 0.14,
+      "market": 0.13,
       "low": 0.03
     },
     "89c5ec5e-dcc1-4ce4-970d-28b0226272b1": {
       "id": 714254,
-      "market": 0.11,
+      "market": 0.12,
       "low": 0.03
     },
     "0f825d0d-be91-4f42-9e97-5d87488ee2fc": {
       "id": 714255,
-      "marketFoil": 2.06,
+      "marketFoil": 2.21,
       "lowFoil": 1.18
     },
     "fa711a0e-06bb-429b-a43a-89c50fb9d590": {
@@ -2143,13 +2156,13 @@
     },
     "f0de2baf-27a9-426e-89cf-68abaceec507": {
       "id": 714257,
-      "market": 0.17,
+      "market": 0.16,
       "low": 0.07
     },
     "36735ea2-1489-4e7a-810f-20dab24d503b": {
       "id": 714258,
       "market": 0.09,
-      "low": 0.03
+      "low": 0.01
     },
     "539138ff-af5a-47e3-abf0-cc772eaa8b9e": {
       "id": 714259,
@@ -2159,32 +2172,32 @@
     "1f173d96-9ca1-4298-b479-71f06ee1f558": {
       "id": 714260,
       "marketFoil": 0.22,
-      "lowFoil": 0.12
+      "lowFoil": 0.1
     },
     "04511c2f-c766-4d1a-9176-66f913789667": {
       "id": 714261,
-      "marketFoil": 0.16,
+      "marketFoil": 0.17,
       "lowFoil": 0.03
     },
     "7a8c2032-e753-43ab-9c3b-adefb4281241": {
       "id": 714262,
-      "market": 0.16,
+      "market": 0.17,
       "low": 0.08
     },
     "2cff513f-6a75-40f0-8e70-e1491d340472": {
       "id": 714263,
-      "market": 0.14,
+      "market": 0.13,
       "low": 0.07
     },
     "535cec6e-269d-4c2d-860c-5c8eff999c21": {
       "id": 714264,
-      "market": 0.15,
+      "market": 0.14,
       "low": 0.03
     },
     "a7a49ccf-4b85-4997-b08c-16e8e80d9aa8": {
       "id": 714265,
-      "market": 0.13,
-      "low": 0.05
+      "market": 0.12,
+      "low": 0.02
     },
     "3488c7f7-c797-4c3a-8d49-e5cdcf0e8d74": {
       "id": 714266,
@@ -2198,37 +2211,37 @@
     },
     "873656f0-c32a-46fb-856f-8a5ee44b8d21": {
       "id": 714268,
-      "marketFoil": 0.44,
+      "marketFoil": 0.46,
       "lowFoil": 0.1
     },
     "080b22ac-9c3d-48ee-ad4f-4e9579f22adc": {
       "id": 714269,
-      "marketFoil": 0.29,
+      "marketFoil": 0.31,
       "lowFoil": 0.14
     },
     "d74468ab-6024-4ae6-b69a-ac41f6e9cfce": {
       "id": 714270,
-      "marketFoil": 0.87,
+      "marketFoil": 0.91,
       "lowFoil": 0.25
     },
     "fa80313c-9aeb-4ae8-ad81-35b3f45fcbfe": {
       "id": 714271,
-      "marketFoil": 11.52,
+      "marketFoil": 11.36,
       "lowFoil": 10
     },
     "33ee09a3-4591-4302-9052-6dd5130861c6": {
       "id": 714272,
-      "marketFoil": 0.46,
+      "marketFoil": 0.43,
       "lowFoil": 0.23
     },
     "32f8d89a-1e4b-46b8-9323-77c297c5b5ae": {
       "id": 714273,
-      "market": 0.13,
+      "market": 0.14,
       "low": 0.03
     },
     "cddf9659-8ba5-4718-827f-5a6518e7df83": {
       "id": 714274,
-      "market": 0.11,
+      "market": 0.1,
       "low": 0.03
     },
     "c40f0461-c757-4e09-94cc-27ed31f08dd7": {
@@ -2243,13 +2256,13 @@
     },
     "f18a73a9-fa29-4351-ad96-8e7c1dd0e8a1": {
       "id": 714277,
-      "market": 0.12,
+      "market": 0.11,
       "low": 0.03
     },
     "98b18e2d-a955-43c7-880c-6233166c673a": {
       "id": 714278,
-      "marketFoil": 8.97,
-      "lowFoil": 8.32
+      "marketFoil": 8.78,
+      "lowFoil": 8
     },
     "929b5e98-ab82-4e36-bb72-a00a223ded77": {
       "id": 714279,
@@ -2268,12 +2281,12 @@
     },
     "ee22b73e-8b14-4225-9c86-428cfada892f": {
       "id": 714282,
-      "market": 0.1,
+      "market": 0.09,
       "low": 0.03
     },
     "2b247956-465f-4b39-8091-a95c90bc8b70": {
       "id": 714283,
-      "market": 0.09,
+      "market": 0.08,
       "low": 0.03
     },
     "859345fa-c791-49dc-9258-505982b5adea": {
@@ -2283,32 +2296,32 @@
     },
     "0ff059f8-90c3-47ef-ba3b-cd380f30f14e": {
       "id": 714285,
-      "marketFoil": 0.24,
+      "marketFoil": 0.27,
       "lowFoil": 0.08
     },
     "61118bbb-c1f6-4b1d-8d46-4f33f0a135b1": {
       "id": 714286,
-      "market": 0.13,
+      "market": 0.12,
       "low": 0.03
     },
     "6b5606c9-12a2-46d6-b13f-a672c6bd5f07": {
       "id": 714287,
-      "market": 0.14,
+      "market": 0.12,
       "low": 0.03
     },
     "4abedde2-f9db-4451-a2ab-fc7f594ea132": {
       "id": 714288,
-      "marketFoil": 1.52,
+      "marketFoil": 1.49,
       "lowFoil": 0.75
     },
     "1e2413a0-aa80-4883-806a-d8e9ed32bbca": {
       "id": 714289,
-      "market": 0.08,
-      "low": 0.03
+      "market": 0.07,
+      "low": 0.02
     },
     "3ceebded-0941-477f-b486-f2cb22ca653d": {
       "id": 714290,
-      "marketFoil": 0.17,
+      "marketFoil": 0.19,
       "lowFoil": 0.03
     },
     "e2a34251-d2d9-46e0-9840-ca69a358a6ae": {
@@ -2318,12 +2331,12 @@
     },
     "74eb81ab-aa0a-4b09-8cfe-94dddd70f4b1": {
       "id": 714292,
-      "market": 0.12,
+      "market": 0.09,
       "low": 0.03
     },
     "0be394e3-ce41-4f16-a95b-33ec951bf43c": {
       "id": 714293,
-      "market": 0.13,
+      "market": 0.12,
       "low": 0.05
     },
     "859c8d1d-b715-4a9a-b7cc-96ecfe135a00": {
@@ -2333,7 +2346,7 @@
     },
     "7e86c639-5225-4a91-be33-6ab86c9adfe2": {
       "id": 714295,
-      "market": 0.15,
+      "market": 0.16,
       "low": 0.1
     },
     "dfd5d1df-2b47-4ddd-9d6a-35430a892cfc": {
@@ -2343,7 +2356,7 @@
     },
     "bab79ef1-57fb-4b24-b50a-e08899699862": {
       "id": 714297,
-      "marketFoil": 0.34,
+      "marketFoil": 0.36,
       "lowFoil": 0.23
     },
     "06570cd2-25fc-4c5e-86e1-cba8000edc97": {
@@ -2353,17 +2366,17 @@
     },
     "0449bc78-983b-4681-b062-0738de3c487b": {
       "id": 714299,
-      "market": 0.19,
+      "market": 0.18,
       "low": 0.09
     },
     "25508f49-7256-47be-bc95-c420c7105c62": {
       "id": 714300,
-      "marketFoil": 9.51,
+      "marketFoil": 9.53,
       "lowFoil": 7
     },
     "f9a81013-9c64-4e48-8d1d-cd1b41b72ee0": {
       "id": 714301,
-      "market": 0.14,
+      "market": 0.13,
       "low": 0.06
     },
     "54575eba-9d21-43fe-b6df-7cd2564dd37b": {
@@ -2373,13 +2386,13 @@
     },
     "74c794ed-2ca7-4318-bcdd-8e3fe5a11f4e": {
       "id": 714303,
-      "marketFoil": 130.05,
-      "lowFoil": 140
+      "marketFoil": 132.66,
+      "lowFoil": 158.05
     },
     "9d04877f-050d-485d-9447-1bef7ee6ed40": {
       "id": 714304,
       "marketFoil": 66.13,
-      "lowFoil": 66.68
+      "lowFoil": 64
     },
     "f712b214-b109-4e69-bc74-4991905024f7": {
       "id": 714305,
@@ -2388,43 +2401,43 @@
     },
     "20debd66-ff1c-42c3-9869-928cba33ccb5": {
       "id": 714306,
-      "marketFoil": 118.69,
-      "lowFoil": 111
+      "marketFoil": 118.14,
+      "lowFoil": 110
     },
     "b3b78f89-424e-41b6-9fa9-aea256568dcc": {
       "id": 714307,
-      "marketFoil": 59.94,
-      "lowFoil": 54
+      "marketFoil": 59.19,
+      "lowFoil": 51.4
     },
     "5ade304e-8e0e-4484-944a-18d8d08caf9f": {
       "id": 714308,
-      "marketFoil": 56.67,
-      "lowFoil": 49.95
+      "marketFoil": 55.08,
+      "lowFoil": 51.99
     },
     "2e06439f-fab6-4a65-a1fc-e5f4afc84eb0": {
       "id": 714309,
-      "marketFoil": 62.94,
-      "lowFoil": 59.99
+      "marketFoil": 61.92,
+      "lowFoil": 62.2
     },
     "e59b67b3-a388-4228-94a3-84ee12e68937": {
       "id": 714310,
-      "marketFoil": 128.38,
-      "lowFoil": 128.38
+      "marketFoil": 127.8,
+      "lowFoil": 127.99
     },
     "6b75ec33-da55-46c7-a88c-f0fb89263253": {
       "id": 714311,
-      "marketFoil": 92.18,
+      "marketFoil": 92.06,
       "lowFoil": 92.99
     },
     "af82881d-9e19-46b3-a723-a2ef224687d8": {
       "id": 714312,
-      "marketFoil": 55.56,
+      "marketFoil": 54.88,
       "lowFoil": 48.91
     },
     "cc3ed2c4-6e6d-47aa-b358-152c56b24bad": {
       "id": 714313,
-      "marketFoil": 230.65,
-      "lowFoil": 218.95
+      "marketFoil": 225.99,
+      "lowFoil": 218
     },
     "aadd8dc4-bb37-4901-8200-39b8904268a8": {
       "id": 714314,
@@ -2433,8 +2446,8 @@
     },
     "abd75b6c-0205-4909-a990-237b4bed70e5": {
       "id": 714315,
-      "marketFoil": 81.2,
-      "lowFoil": 75.4
+      "marketFoil": 81.6,
+      "lowFoil": 76.4
     },
     "20c0d91e-76d5-4904-82e8-53907537aee3": {
       "id": 714316,
@@ -2443,7 +2456,7 @@
     },
     "7a6a5336-2b6c-4d8a-b1f0-595a787255ce": {
       "id": 714317,
-      "marketFoil": 246.24,
+      "marketFoil": 245.36,
       "lowFoil": 230.99
     },
     "22fe9365-6f33-4aeb-b3a4-a78ab563cbe9": {
@@ -2453,58 +2466,58 @@
     },
     "0324e335-2f17-496c-9789-59f93ed6d31e": {
       "id": 714319,
-      "marketFoil": 329.8,
-      "lowFoil": 314.65
+      "marketFoil": 327.8,
+      "lowFoil": 304.99
     },
     "16e04a94-086a-4c20-b788-88ac016ec59b": {
       "id": 714320,
-      "marketFoil": 74.43,
-      "lowFoil": 59
+      "marketFoil": 73.03,
+      "lowFoil": 57
     },
     "7b113940-7325-4304-b07a-61719b47a49c": {
       "id": 714321,
-      "marketFoil": 55.95,
+      "marketFoil": 56.21,
       "lowFoil": 58.69
     },
     "59d1ce5c-d616-45d5-9816-576f5f1509f3": {
       "id": 714322,
-      "marketFoil": 43.53,
-      "lowFoil": 42.98
+      "marketFoil": 44.84,
+      "lowFoil": 49.52
     },
     "2e2c4d9d-516d-4fb2-a6ba-bee8dede71d3": {
       "id": 714323,
-      "marketFoil": 11.98,
-      "lowFoil": 11
+      "marketFoil": 12.09,
+      "lowFoil": 10
     },
     "005dfb9e-7bdd-4cc1-ade2-08dd28ed5998": {
       "id": 714324,
-      "marketFoil": 16.91,
-      "lowFoil": 12.5
+      "marketFoil": 16.01,
+      "lowFoil": 14
     },
     "9a4fafb2-b27b-4b3e-9f57-502040898b0f": {
       "id": 714325,
-      "marketFoil": 13.58,
+      "marketFoil": 13.71,
       "lowFoil": 12
     },
     "b1db8654-6197-4e80-9555-8917dcba6dc7": {
       "id": 714326,
-      "marketFoil": 11.98,
-      "lowFoil": 11.98
+      "marketFoil": 11.86,
+      "lowFoil": 10
     },
     "775e7d6b-b9d9-48cf-a34d-00ba2b1c0a43": {
       "id": 714327,
-      "marketFoil": 18.95,
+      "marketFoil": 19.11,
       "lowFoil": 15
     },
     "807c871c-bebe-4343-9b68-1f89af5ed0da": {
       "id": 714328,
-      "marketFoil": 11.49,
+      "marketFoil": 11.43,
       "lowFoil": 10
     },
     "4d8a1ccb-6d46-45b1-839a-fd3b7fa84b72": {
       "id": 714329,
-      "marketFoil": 26.67,
-      "lowFoil": 25
+      "marketFoil": 26.41,
+      "lowFoil": 26.49
     },
     "4f8fbab4-7aad-4271-8dd6-8cdf68654c5e": {
       "id": 714330,
@@ -2518,8 +2531,8 @@
     },
     "7d71aedf-dbb6-435f-bece-e522834db122": {
       "id": 714332,
-      "marketFoil": 785.53,
-      "lowFoil": 2077.77
+      "marketFoil": 809.53,
+      "lowFoil": 1100
     },
     "2c0d6f48-0804-4d5f-83c2-f28367ce26d5": {
       "id": 714333,
