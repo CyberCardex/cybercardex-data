@@ -2868,6 +2868,7 @@
     "finish": "Foil",
     "imageUrl": "/cards/welcome-to-night-city-beta/98b18e2d-a955-43c7-880c-6233166c673a.webp",
     "artist": "ILYA KUVSHINOV",
+    "printedArtist": "ILYA KUSHINOV",
     "status": "active",
     "treatments": [
       "Beta Symbol"
@@ -3191,7 +3192,8 @@
     "language": "EN",
     "finish": "Foil",
     "imageUrl": "/cards/welcome-to-night-city-beta/dfd5d1df-2b47-4ddd-9d6a-35430a892cfc.webp",
-    "artist": "MICHAŁ DZIEKAN",
+    "artist": "DANIEL VALAISIS",
+    "printedArtist": "MICHAŁ DZIEKAN",
     "status": "active",
     "treatments": [
       "Beta Symbol"
@@ -7820,6 +7822,7 @@
     "finish": "Standard",
     "imageUrl": "/cards/welcome-to-night-city-retail/dcfe8370-9abf-4395-b50b-efea505609ba.webp",
     "artist": "ILYA KUVSHINOV",
+    "printedArtist": "ILYA KUSHINOV",
     "status": "active",
     "treatments": []
   },
@@ -7836,6 +7839,7 @@
     "finish": "Standard",
     "imageUrl": "/cards/welcome-to-night-city-retail/ebae29cb-45b3-4f85-8903-67d98da06b00.webp",
     "artist": "ILYA KUVSHINOV",
+    "printedArtist": "ILYA KUSHINOV",
     "localizedName": "Judy Álvarez — Pas l'Ombre d'un Doute",
     "printedRulesText": "1 €$, {Spend} Révélez la carte du dessus de votre deck. Vous pouvez la jouer gratuitement. Sinon, ajoutez-la à votre main.",
     "status": "active",
@@ -8431,7 +8435,8 @@
     "language": "EN",
     "finish": "Standard",
     "imageUrl": "/cards/welcome-to-night-city-retail/70c7f11e-e41d-44f2-b5cd-e8568915d6ac.webp",
-    "artist": "MICHAŁ DZIEKAN",
+    "artist": "DANIEL VALAISIS",
+    "printedArtist": "MICHAŁ DZIEKAN",
     "status": "active",
     "treatments": []
   },
@@ -8447,7 +8452,8 @@
     "language": "FR",
     "finish": "Standard",
     "imageUrl": "/cards/welcome-to-night-city-retail/1563fec7-3eaa-41af-be1f-514f4e86d692.webp",
-    "artist": "MICHAŁ DZIEKAN",
+    "artist": "DANIEL VALAISIS",
+    "printedArtist": "MICHAŁ DZIEKAN",
     "localizedName": "Nocturne OP55 N1",
     "printedRulesText": "Si votre zone Fixer est vide, jouez ce Programme pour 1 €$. Choisissez un effet.\nPiochez 2. // Une Unité ne peut pas attaquer jusqu'à votre prochain tour. // Une Légende alliée peut utiliser {Go Solo} pour -2 €$ ce tour-ci, jusqu'à un minimum de 1 €$.",
     "status": "active",
@@ -8567,7 +8573,8 @@
     "language": "EN",
     "finish": "Standard",
     "imageUrl": "/cards/welcome-to-night-city-retail/15920617-a06f-4302-9dfb-c85d3470c7eb.webp",
-    "artist": "MOONCOLONY",
+    "artist": "DARDO STUDIOS",
+    "printedArtist": "MOONCOLONY",
     "status": "active",
     "treatments": []
   },
@@ -8583,7 +8590,8 @@
     "language": "FR",
     "finish": "Standard",
     "imageUrl": "/cards/welcome-to-night-city-retail/7b7ad582-cc40-4d20-899e-2aaec1eddc72.webp",
-    "artist": "MOONCOLONY",
+    "artist": "DARDO STUDIOS",
+    "printedArtist": "MOONCOLONY",
     "localizedName": "Destruction de Tour",
     "printedRulesText": "Choisissez un effet. Si vous avez moins de ☆ (Street Cred) qu'un Rival, choisissez les deux à la place.\nDonnez -5 Power à toutes les Unités rivales ce tour-ci. // Archivez toutes les Unités rivales de Power 0.",
     "status": "active",
@@ -9236,6 +9244,40 @@
     "treatments": []
   },
   {
+    "id": "94a8e8c1-f953-4ca8-b124-99c7350663b4",
+    "sourceId": "94a8e8c1-f953-4ca8-b124-99c7350663b4",
+    "sourceUrl": "https://cyberpunktcg.com/cards/wakako-okada-peace-and-harmony?printing=94a8e8c1-f953-4ca8-b124-99c7350663b4",
+    "cardId": "wakako-okada-peace-and-harmony",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-158-tbd",
+    "number": "158",
+    "rarity": "Iconic Legend",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/94a8e8c1-f953-4ca8-b124-99c7350663b4.webp",
+    "artist": "TBD",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "d14557b2-488f-4da1-9462-4db24b9f8db1",
+    "sourceId": "d14557b2-488f-4da1-9462-4db24b9f8db1",
+    "sourceUrl": "https://cyberpunktcg.com/cards/wakako-okada-peace-and-harmony?printing=d14557b2-488f-4da1-9462-4db24b9f8db1",
+    "cardId": "wakako-okada-peace-and-harmony",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-158-pandart-studio",
+    "number": "158",
+    "rarity": "Iconic Legend",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/d14557b2-488f-4da1-9462-4db24b9f8db1.webp",
+    "artist": "PANDART STUDIO",
+    "localizedName": "Wakako Okada — Paix et Harmonie",
+    "printedRulesText": "{Call} Choisissez un effet.\nDonnez -2 Power à une Unité rivale ce tour-ci. // Piochez 1.\n{Spend} Diminuez un Gig jusqu'à -2.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "41e87b8f-9d0a-4955-a9ec-d1f2fd49f532",
     "sourceId": "41e87b8f-9d0a-4955-a9ec-d1f2fd49f532",
     "sourceUrl": "https://cyberpunktcg.com/cards/johnny-silverhand-never-stop-fighting?printing=41e87b8f-9d0a-4955-a9ec-d1f2fd49f532",
@@ -9334,6 +9376,40 @@
     "artist": "ŁUKASZ POLLER",
     "localizedName": "Alt Cunningham — Mère des Daemons",
     "printedRulesText": "Quand une Unité allié équipée ou une Légende alliée équipée est épuisée, piochez 1.\nQuand une Unité rivale devrait voler un Gig, vous pouvez défausser une carte avec un coût égal à la valeur de ce Gig. Si vous le faites, le Gig n'est pas volé.",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "1a13a5a8-c1d4-4d36-88be-7a6e3cb78c90",
+    "sourceId": "1a13a5a8-c1d4-4d36-88be-7a6e3cb78c90",
+    "sourceUrl": "https://cyberpunktcg.com/cards/hanako-arasaka-in-a-gilded-cage?printing=1a13a5a8-c1d4-4d36-88be-7a6e3cb78c90",
+    "cardId": "hanako-arasaka-in-a-gilded-cage",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-162-akram",
+    "number": "162",
+    "rarity": "Iconic Rare",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/1a13a5a8-c1d4-4d36-88be-7a6e3cb78c90.webp",
+    "artist": "AKRAM",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "fb1bc28c-21ac-4f41-855d-a0a4c63d5957",
+    "sourceId": "fb1bc28c-21ac-4f41-855d-a0a4c63d5957",
+    "sourceUrl": "https://cyberpunktcg.com/cards/hanako-arasaka-in-a-gilded-cage?printing=fb1bc28c-21ac-4f41-855d-a0a4c63d5957",
+    "cardId": "hanako-arasaka-in-a-gilded-cage",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-162-akram",
+    "number": "162",
+    "rarity": "Iconic Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/fb1bc28c-21ac-4f41-855d-a0a4c63d5957.webp",
+    "artist": "AKRAM",
+    "localizedName": "Hanako Arasaka — Mise en Cage Dorée",
+    "printedRulesText": "{Play} Regardez les 4 cartes du dessus de votre deck. Révélez n'importe quel nombre de cartes de coût égal aux valeurs des Gigs alliés et ajoutez-les à votre main. Archivez le reste.",
     "status": "active",
     "treatments": []
   },
@@ -9440,6 +9516,40 @@
     "treatments": []
   },
   {
+    "id": "9f251692-ea15-45d9-8fa3-5833453502c6",
+    "sourceId": "9f251692-ea15-45d9-8fa3-5833453502c6",
+    "sourceUrl": "https://cyberpunktcg.com/cards/rogue-amendiares-queen-of-the-afterlife?printing=9f251692-ea15-45d9-8fa3-5833453502c6",
+    "cardId": "rogue-amendiares-queen-of-the-afterlife",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-166-dardo-studios",
+    "number": "166",
+    "rarity": "Iconic Rare",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/9f251692-ea15-45d9-8fa3-5833453502c6.webp",
+    "artist": "DARDO STUDIOS",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "d97bfbb9-99ca-48bb-922a-367c79d2d689",
+    "sourceId": "d97bfbb9-99ca-48bb-922a-367c79d2d689",
+    "sourceUrl": "https://cyberpunktcg.com/cards/rogue-amendiares-queen-of-the-afterlife?printing=d97bfbb9-99ca-48bb-922a-367c79d2d689",
+    "cardId": "rogue-amendiares-queen-of-the-afterlife",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-166-dardo-studios",
+    "number": "166",
+    "rarity": "Iconic Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/d97bfbb9-99ca-48bb-922a-367c79d2d689.webp",
+    "artist": "DARDO STUDIOS",
+    "localizedName": "Rogue Amendiares — Reine de l'Afterlife",
+    "printedRulesText": "La première fois par tour qu'une autre Unité alliée vole un Gig de valeur inférieure à son Power, préparez 2 Eddies.\n{Quick} 2 €$,  {Spend} Une Unité rivale perd un Power égal au Power de cette Unité ce tour-ci.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "b4ff8d51-99e1-4d6f-b8b7-c98d59283400",
     "sourceId": "b4ff8d51-99e1-4d6f-b8b7-c98d59283400",
     "sourceUrl": "https://cyberpunktcg.com/cards/towerfall?printing=b4ff8d51-99e1-4d6f-b8b7-c98d59283400",
@@ -9470,6 +9580,142 @@
     "artist": "MOONCOLONY",
     "localizedName": "Towerfall",
     "printedRulesText": "Choisissez un effet. Si vous avez moins de ☆ (Street Cred) qu'un Rival, choisissez les deux à la place.\nDonnez -5 Power à toutes les Unités rivales ce tour-ci. // Archivez toutes les Unités rivales de Power 0.",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "cb12d8c4-64b1-4e53-898e-8fd46aeac6bf",
+    "sourceId": "cb12d8c4-64b1-4e53-898e-8fd46aeac6bf",
+    "sourceUrl": "https://cyberpunktcg.com/cards/johnny-silverhand-rocking-renegade?printing=cb12d8c4-64b1-4e53-898e-8fd46aeac6bf",
+    "cardId": "johnny-silverhand-rocking-renegade",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-168-divebound",
+    "number": "168",
+    "rarity": "Iconic Secret",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/cb12d8c4-64b1-4e53-898e-8fd46aeac6bf.webp",
+    "artist": "DIVEBOUND",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "7d1960a6-2d90-4278-937c-1e6905a3a396",
+    "sourceId": "7d1960a6-2d90-4278-937c-1e6905a3a396",
+    "sourceUrl": "https://cyberpunktcg.com/cards/johnny-silverhand-rocking-renegade?printing=7d1960a6-2d90-4278-937c-1e6905a3a396",
+    "cardId": "johnny-silverhand-rocking-renegade",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-168-divebound",
+    "number": "168",
+    "rarity": "Iconic Secret",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/7d1960a6-2d90-4278-937c-1e6905a3a396.webp",
+    "artist": "DIVEBOUND",
+    "localizedName": "Johnny Silverhand — Rock'n'Rebelle",
+    "printedRulesText": "2 €$, {Spend} Une Unité alliée peut attaquer une Unité rivale épuisée le tour où elle est jouée. Si c'est une Unité ROCKER, donnez-lui aussi +2 Power ce tour-ci. Cet effet coûte -1 €$ par Gig allié de valeur 8+.",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "307de3c6-6bbd-4e44-8dde-07f4fac45db0",
+    "sourceId": "307de3c6-6bbd-4e44-8dde-07f4fac45db0",
+    "sourceUrl": "https://cyberpunktcg.com/cards/sasha-yakovleva-won-t-let-you-down?printing=307de3c6-6bbd-4e44-8dde-07f4fac45db0",
+    "cardId": "sasha-yakovleva-won-t-let-you-down",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-169-divebound",
+    "number": "169",
+    "rarity": "Iconic Secret",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/307de3c6-6bbd-4e44-8dde-07f4fac45db0.webp",
+    "artist": "DIVEBOUND",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "e13a5895-c065-40ad-9f33-901e457e3766",
+    "sourceId": "e13a5895-c065-40ad-9f33-901e457e3766",
+    "sourceUrl": "https://cyberpunktcg.com/cards/sasha-yakovleva-won-t-let-you-down?printing=e13a5895-c065-40ad-9f33-901e457e3766",
+    "cardId": "sasha-yakovleva-won-t-let-you-down",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-169-divebound",
+    "number": "169",
+    "rarity": "Iconic Secret",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/e13a5895-c065-40ad-9f33-901e457e3766.webp",
+    "artist": "DIVEBOUND",
+    "localizedName": "Sasha Yakovleva — Tu Peux Compter Sur Moi",
+    "printedRulesText": "{Go Solo}\n{Attack} Révélez la carte du dessus de votre deck et ajoutez-la à votre main. Cette Unité gagne ce tour-ci un Power égal au coût de la carte révélée.\n{Defeated} Un Rival défausse 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "5632d773-b6c8-402d-a162-364767d3d21e",
+    "sourceId": "5632d773-b6c8-402d-a162-364767d3d21e",
+    "sourceUrl": "https://cyberpunktcg.com/cards/panam-palmer-strength-through-family?printing=5632d773-b6c8-402d-a162-364767d3d21e",
+    "cardId": "panam-palmer-strength-through-family",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-170-divebound",
+    "number": "170",
+    "rarity": "Iconic Secret",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/5632d773-b6c8-402d-a162-364767d3d21e.webp",
+    "artist": "DIVEBOUND",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "b073652b-8428-4aeb-9877-22b50a0110bc",
+    "sourceId": "b073652b-8428-4aeb-9877-22b50a0110bc",
+    "sourceUrl": "https://cyberpunktcg.com/cards/panam-palmer-strength-through-family?printing=b073652b-8428-4aeb-9877-22b50a0110bc",
+    "cardId": "panam-palmer-strength-through-family",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-170-divebound",
+    "number": "170",
+    "rarity": "Iconic Secret",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/b073652b-8428-4aeb-9877-22b50a0110bc.webp",
+    "artist": "DIVEBOUND",
+    "localizedName": "Panam Palmer — La Famille Fait la Force",
+    "printedRulesText": "Pendant votre tour, vous pouvez Call une Légende gratuitement.\n{Attack} Défaussez 1. Si vous le faites, piochez 1 par Légende alliée face visible.",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "fe26a4ff-1076-4371-8ab5-3f31d0319a3f",
+    "sourceId": "fe26a4ff-1076-4371-8ab5-3f31d0319a3f",
+    "sourceUrl": "https://cyberpunktcg.com/cards/judy-a-lvarez-nothing-to-doubt?printing=fe26a4ff-1076-4371-8ab5-3f31d0319a3f",
+    "cardId": "judy-a-lvarez-nothing-to-doubt",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-171-divebound",
+    "number": "171",
+    "rarity": "Iconic Secret",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/fe26a4ff-1076-4371-8ab5-3f31d0319a3f.webp",
+    "artist": "DIVEBOUND",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "9aceebe8-9977-4b7b-ad1d-7b75af879f1a",
+    "sourceId": "9aceebe8-9977-4b7b-ad1d-7b75af879f1a",
+    "sourceUrl": "https://cyberpunktcg.com/cards/judy-a-lvarez-nothing-to-doubt?printing=9aceebe8-9977-4b7b-ad1d-7b75af879f1a",
+    "cardId": "judy-a-lvarez-nothing-to-doubt",
+    "setId": "welcome-to-night-city-retail",
+    "variantKey": "welcome-to-night-city-retail-171-divebound",
+    "number": "171",
+    "rarity": "Iconic Secret",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/welcome-to-night-city-retail/9aceebe8-9977-4b7b-ad1d-7b75af879f1a.webp",
+    "artist": "DIVEBOUND",
+    "localizedName": "Judy Álvarez — Pas l'Ombre d'un Doute",
+    "printedRulesText": "1 €$, {Spend} Révélez la carte du dessus de votre deck. Vous pouvez la jouer gratuitement. Sinon, ajoutez-la à votre main.",
     "status": "active",
     "treatments": []
   },
@@ -10074,6 +10320,24 @@
     "treatments": []
   },
   {
+    "id": "926a067d-4148-4f04-8468-13f5d435040e",
+    "sourceId": "926a067d-4148-4f04-8468-13f5d435040e",
+    "sourceUrl": "https://cyberpunktcg.com/cards/yorinobu-arasaka-embracing-destruction?printing=926a067d-4148-4f04-8468-13f5d435040e",
+    "cardId": "yorinobu-arasaka-embracing-destruction",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-001-adia",
+    "number": "001",
+    "rarity": "Epic",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/926a067d-4148-4f04-8468-13f5d435040e.webp",
+    "artist": "ADIA",
+    "localizedName": "Yorinobu Arasaka — Adepte de la Destruction",
+    "printedRulesText": "La première fois qu'une Unité ARASAKA alliée attaque chaque tour, piochez 1. Puis, si vous avez moins de 20 ☆ (Street Cred), défaussez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "0aab2858-fa5e-42f6-997e-39797fefb669",
     "sourceId": "0aab2858-fa5e-42f6-997e-39797fefb669",
     "sourceUrl": "https://cyberpunktcg.com/cards/chrome-fang?printing=0aab2858-fa5e-42f6-997e-39797fefb669",
@@ -10086,6 +10350,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/embracing-power-retail-starter-deck/0aab2858-fa5e-42f6-997e-39797fefb669.webp",
     "artist": "BERNARD KOWALCZUK",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "8af3ebb8-0007-4d24-acd2-0edc9b0e9a34",
+    "sourceId": "8af3ebb8-0007-4d24-acd2-0edc9b0e9a34",
+    "sourceUrl": "https://cyberpunktcg.com/cards/chrome-fang?printing=8af3ebb8-0007-4d24-acd2-0edc9b0e9a34",
+    "cardId": "chrome-fang",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-002-bernard-kowalczuk",
+    "number": "002",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/8af3ebb8-0007-4d24-acd2-0edc9b0e9a34.webp",
+    "artist": "BERNARD KOWALCZUK",
+    "localizedName": "Croc Chromé",
+    "printedRulesText": "{Play} Jusqu'à votre prochain tour, les Unités rivales ne peuvent pas voler de Gigs alliés ayant une valeur supérieure à leur Power.",
     "status": "active",
     "treatments": []
   },
@@ -10106,6 +10388,24 @@
     "treatments": []
   },
   {
+    "id": "35c71811-34bb-4bdf-ad1e-eeff6a8030a6",
+    "sourceId": "35c71811-34bb-4bdf-ad1e-eeff6a8030a6",
+    "sourceUrl": "https://cyberpunktcg.com/cards/minotaur?printing=35c71811-34bb-4bdf-ad1e-eeff6a8030a6",
+    "cardId": "minotaur",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-003-cd-projekt-red",
+    "number": "003",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/35c71811-34bb-4bdf-ad1e-eeff6a8030a6.webp",
+    "artist": "CD PROJEKT RED",
+    "localizedName": "Minotaure",
+    "printedRulesText": "{Play} Si vous avez plus de ☆ (Street Cred) qu'un Rival, éliminez une Unité rivale de Power 5 ou moins.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "c4806b05-6476-4c67-95a5-fc9c4ce2aaa2",
     "sourceId": "c4806b05-6476-4c67-95a5-fc9c4ce2aaa2",
     "sourceUrl": "https://cyberpunktcg.com/cards/ruthless-lowlife?printing=c4806b05-6476-4c67-95a5-fc9c4ce2aaa2",
@@ -10118,6 +10418,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/embracing-power-retail-starter-deck/c4806b05-6476-4c67-95a5-fc9c4ce2aaa2.webp",
     "artist": "JEFFREY ALAN LOVE",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "dadab555-f412-425e-b700-e33fdfaf74e4",
+    "sourceId": "dadab555-f412-425e-b700-e33fdfaf74e4",
+    "sourceUrl": "https://cyberpunktcg.com/cards/ruthless-lowlife?printing=dadab555-f412-425e-b700-e33fdfaf74e4",
+    "cardId": "ruthless-lowlife",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-004-jeffrey-alan-love",
+    "number": "004",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/dadab555-f412-425e-b700-e33fdfaf74e4.webp",
+    "artist": "JEFFREY ALAN LOVE",
+    "localizedName": "Racaille Impitoyable",
+    "printedRulesText": "Cette Unité ne peut attaquer que des Unités rivales. (Elle ne peut pas attaquer la zone Gigs.)",
     "status": "active",
     "treatments": []
   },
@@ -10138,6 +10456,24 @@
     "treatments": []
   },
   {
+    "id": "6a6cf4b7-ebca-4ffd-8d9f-14983ab94fe4",
+    "sourceId": "6a6cf4b7-ebca-4ffd-8d9f-14983ab94fe4",
+    "sourceUrl": "https://cyberpunktcg.com/cards/swordwise-huscle?printing=6a6cf4b7-ebca-4ffd-8d9f-14983ab94fe4",
+    "cardId": "swordwise-huscle",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-005-olgierd-ciszak",
+    "number": "005",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/6a6cf4b7-ebca-4ffd-8d9f-14983ab94fe4.webp",
+    "artist": "OLGIERD CISZAK",
+    "localizedName": "Gros Bras Sabreur",
+    "printedRulesText": "{Attack} Si cette Unité est de Power 5+, piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "49c919ef-61d7-47d3-b855-1d4d7c0f783f",
     "sourceId": "49c919ef-61d7-47d3-b855-1d4d7c0f783f",
     "sourceUrl": "https://cyberpunktcg.com/cards/arasaka-emergency-radioport?printing=49c919ef-61d7-47d3-b855-1d4d7c0f783f",
@@ -10150,6 +10486,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/embracing-power-retail-starter-deck/49c919ef-61d7-47d3-b855-1d4d7c0f783f.webp",
     "artist": "ADIA",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "d54b768a-bee0-4dd0-be7d-01aa1588183f",
+    "sourceId": "d54b768a-bee0-4dd0-be7d-01aa1588183f",
+    "sourceUrl": "https://cyberpunktcg.com/cards/arasaka-emergency-radioport?printing=d54b768a-bee0-4dd0-be7d-01aa1588183f",
+    "cardId": "arasaka-emergency-radioport",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-006-adia",
+    "number": "006",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/d54b768a-bee0-4dd0-be7d-01aa1588183f.webp",
+    "artist": "ADIA",
+    "localizedName": "Radioport d'urgence d'Arasaka",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\nQuand cette Unité ou Légende est épuisée, vous pouvez regarder une Légende alliée face cachée. Si elle est ARASAKA ou a {Go Solo}, vous pouvez la Call gratuitement. (Vous ne pouvez Call une Légende qu'une fois par tour.)",
     "status": "active",
     "treatments": []
   },
@@ -10170,6 +10524,24 @@
     "treatments": []
   },
   {
+    "id": "eb57cfca-7635-451c-8d4e-30d0067acbfe",
+    "sourceId": "eb57cfca-7635-451c-8d4e-30d0067acbfe",
+    "sourceUrl": "https://cyberpunktcg.com/cards/mantis-blades?printing=eb57cfca-7635-451c-8d4e-30d0067acbfe",
+    "cardId": "mantis-blades",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-007-ricardo-padierne-silvera",
+    "number": "007",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/eb57cfca-7635-451c-8d4e-30d0067acbfe.webp",
+    "artist": "RICARDO PADIERNE SILVERA",
+    "localizedName": "Lames Mantis",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\n« Un coup de lame, un mort. »",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "0e0e7e20-eaf3-4dea-a177-cb54e01ffec6",
     "sourceId": "0e0e7e20-eaf3-4dea-a177-cb54e01ffec6",
     "sourceUrl": "https://cyberpunktcg.com/cards/satori-sword-of-saburo?printing=0e0e7e20-eaf3-4dea-a177-cb54e01ffec6",
@@ -10182,6 +10554,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/embracing-power-retail-starter-deck/0e0e7e20-eaf3-4dea-a177-cb54e01ffec6.webp",
     "artist": "IVAN SHAVRIN",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "7329d165-bd9e-41fd-aaac-38f81a629ec3",
+    "sourceId": "7329d165-bd9e-41fd-aaac-38f81a629ec3",
+    "sourceUrl": "https://cyberpunktcg.com/cards/satori-sword-of-saburo?printing=7329d165-bd9e-41fd-aaac-38f81a629ec3",
+    "cardId": "satori-sword-of-saburo",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-008-ivan-shavrin",
+    "number": "008",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/7329d165-bd9e-41fd-aaac-38f81a629ec3.webp",
+    "artist": "IVAN SHAVRIN",
+    "localizedName": "Satori — Lame De Saburo",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\nLorsque cette Unité gagne un combat contre une Unité rivale, piochez 1.",
     "status": "active",
     "treatments": []
   },
@@ -10202,6 +10592,24 @@
     "treatments": []
   },
   {
+    "id": "5eacc91e-1b36-473a-a8d9-b1dfbd3eec59",
+    "sourceId": "5eacc91e-1b36-473a-a8d9-b1dfbd3eec59",
+    "sourceUrl": "https://cyberpunktcg.com/cards/industrial-assembly?printing=5eacc91e-1b36-473a-a8d9-b1dfbd3eec59",
+    "cardId": "industrial-assembly",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-009-alexander-duder",
+    "number": "009",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/5eacc91e-1b36-473a-a8d9-b1dfbd3eec59.webp",
+    "artist": "ALEXANDER DUDER",
+    "localizedName": "Assemblage Industriel",
+    "printedRulesText": "Augmentez un Gig jusqu'à +4. Si vous contrôlez un Gig de valeur 8+, piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "9e5a152e-6105-44a4-8db0-9cbf6cda2252",
     "sourceId": "9e5a152e-6105-44a4-8db0-9cbf6cda2252",
     "sourceUrl": "https://cyberpunktcg.com/cards/over-the-edge?printing=9e5a152e-6105-44a4-8db0-9cbf6cda2252",
@@ -10214,6 +10622,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/embracing-power-retail-starter-deck/9e5a152e-6105-44a4-8db0-9cbf6cda2252.webp",
     "artist": "ROBERTO RICCI",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "2c41626a-3fd6-4510-b75b-c42c6edd8f42",
+    "sourceId": "2c41626a-3fd6-4510-b75b-c42c6edd8f42",
+    "sourceUrl": "https://cyberpunktcg.com/cards/over-the-edge?printing=2c41626a-3fd6-4510-b75b-c42c6edd8f42",
+    "cardId": "over-the-edge",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-10-roberto-ricci",
+    "number": "010",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/2c41626a-3fd6-4510-b75b-c42c6edd8f42.webp",
+    "artist": "ROBERTO RICCI",
+    "localizedName": "Au Bord du Gouffre",
+    "printedRulesText": "Éliminez une Unité de Power inférieur ou égal à la valeur d'un d20 allié.",
     "status": "active",
     "treatments": []
   },
@@ -10234,6 +10660,24 @@
     "treatments": []
   },
   {
+    "id": "a393570d-e0a3-4c87-88bb-e3d93d1c041f",
+    "sourceId": "a393570d-e0a3-4c87-88bb-e3d93d1c041f",
+    "sourceUrl": "https://cyberpunktcg.com/cards/shattered-memories?printing=a393570d-e0a3-4c87-88bb-e3d93d1c041f",
+    "cardId": "shattered-memories",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-011-max-fiumara",
+    "number": "011",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/a393570d-e0a3-4c87-88bb-e3d93d1c041f.webp",
+    "artist": "MAX FIUMARA",
+    "localizedName": "Souvenirs en Lambeaux",
+    "printedRulesText": "Chaque joueur défausse sa main et peut piocher 5.\nSi le nombre total de cartes ainsi défaussées est égal à la valeur d'un Gig allié, piochez 2.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "2ba68619-7050-44c5-b0ce-b32d48b8f40f",
     "sourceId": "2ba68619-7050-44c5-b0ce-b32d48b8f40f",
     "sourceUrl": "https://cyberpunktcg.com/cards/goro-takemura-hands-unclean?printing=2ba68619-7050-44c5-b0ce-b32d48b8f40f",
@@ -10246,6 +10690,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/embracing-power-retail-starter-deck/2ba68619-7050-44c5-b0ce-b32d48b8f40f.webp",
     "artist": "BAD MOON STUDIO",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "6f154367-d0cb-4650-9d31-d87193f32bfc",
+    "sourceId": "6f154367-d0cb-4650-9d31-d87193f32bfc",
+    "sourceUrl": "https://cyberpunktcg.com/cards/goro-takemura-hands-unclean?printing=6f154367-d0cb-4650-9d31-d87193f32bfc",
+    "cardId": "goro-takemura-hands-unclean",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-012-bad-moon-studio",
+    "number": "012",
+    "rarity": "Epic",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/6f154367-d0cb-4650-9d31-d87193f32bfc.webp",
+    "artist": "BAD MOON STUDIO",
+    "localizedName": "Goro Takemura — Les Mains Souillées",
+    "printedRulesText": "{Go Solo} (Payez le coût de cette Légende pour la jouer comme une Unité préparée. Elle peut attaquer ce tour-ci. Si elle quitte le terrain, retirez-la de la partie.)\n{Blocker} (Vous pouvez épuiser cette Unité afin de rediriger vers elle l'attaque d'une Unité rivale.)",
     "status": "active",
     "treatments": []
   },
@@ -10266,6 +10728,24 @@
     "treatments": []
   },
   {
+    "id": "c5376289-9470-4a11-9f67-def96fb5f6f5",
+    "sourceId": "c5376289-9470-4a11-9f67-def96fb5f6f5",
+    "sourceUrl": "https://cyberpunktcg.com/cards/saburo-arasaka-stubborn-patriarch?printing=c5376289-9470-4a11-9f67-def96fb5f6f5",
+    "cardId": "saburo-arasaka-stubborn-patriarch",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-013-adia",
+    "number": "013",
+    "rarity": "Epic",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/c5376289-9470-4a11-9f67-def96fb5f6f5.webp",
+    "artist": "ADIA",
+    "localizedName": "Saburo Arasaka — Patriarche Entêté",
+    "printedRulesText": "Les Unités ARASAKA alliées ont +1 Power tant qu'elles attaquent.\n(Les Unités volent un Gig supplémentaire pour chaque dizaine de Power.)",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "0ce87466-8869-484f-bd4c-5094fdfc6dbc",
     "sourceId": "0ce87466-8869-484f-bd4c-5094fdfc6dbc",
     "sourceUrl": "https://cyberpunktcg.com/cards/corpo-security?printing=0ce87466-8869-484f-bd4c-5094fdfc6dbc",
@@ -10278,6 +10758,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/embracing-power-retail-starter-deck/0ce87466-8869-484f-bd4c-5094fdfc6dbc.webp",
     "artist": "CD PROJEKT RED",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "67c0d4ad-a044-4240-8941-4a90c8d5eeef",
+    "sourceId": "67c0d4ad-a044-4240-8941-4a90c8d5eeef",
+    "sourceUrl": "https://cyberpunktcg.com/cards/corpo-security?printing=67c0d4ad-a044-4240-8941-4a90c8d5eeef",
+    "cardId": "corpo-security",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-014-cd-projekt-red",
+    "number": "014",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/67c0d4ad-a044-4240-8941-4a90c8d5eeef.webp",
+    "artist": "CD PROJEKT RED",
+    "localizedName": "Sécurité Corpo",
+    "printedRulesText": "Cette Unité ne peut pas attaquer.\n{Blocker} (Vous pouvez épuiser cette Unité pour rediriger vers elle l'attaque d'une Unité rivale.)",
     "status": "active",
     "treatments": []
   },
@@ -10298,6 +10796,24 @@
     "treatments": []
   },
   {
+    "id": "72903660-69b5-4198-9bfb-cb58e0964a27",
+    "sourceId": "72903660-69b5-4198-9bfb-cb58e0964a27",
+    "sourceUrl": "https://cyberpunktcg.com/cards/emergency-atlus?printing=72903660-69b5-4198-9bfb-cb58e0964a27",
+    "cardId": "emergency-atlus",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-015-robert-sammelin",
+    "number": "015",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/72903660-69b5-4198-9bfb-cb58e0964a27.webp",
+    "artist": "ROBERT SAMMELIN",
+    "localizedName": "Atlus d'Urgence",
+    "printedRulesText": "« Occupez-vous de l'assuré, laissez les autres aux barquettes à viande de la ville. »",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "377a3054-68e1-4843-8109-70e230592519",
     "sourceId": "377a3054-68e1-4843-8109-70e230592519",
     "sourceUrl": "https://cyberpunktcg.com/cards/field-operator?printing=377a3054-68e1-4843-8109-70e230592519",
@@ -10310,6 +10826,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/embracing-power-retail-starter-deck/377a3054-68e1-4843-8109-70e230592519.webp",
     "artist": "MICHAL IVAN",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "e1064ff5-fa7b-4f06-977a-c288a5480c4b",
+    "sourceId": "e1064ff5-fa7b-4f06-977a-c288a5480c4b",
+    "sourceUrl": "https://cyberpunktcg.com/cards/field-operator?printing=e1064ff5-fa7b-4f06-977a-c288a5480c4b",
+    "cardId": "field-operator",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-016-michal-ivan",
+    "number": "016",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/e1064ff5-fa7b-4f06-977a-c288a5480c4b.webp",
+    "artist": "MICHAL IVAN",
+    "localizedName": "Agent de Terrain",
+    "printedRulesText": "{Play} Si votre ☆ (Street Cred) est un nombre pair, piochez 1.",
     "status": "active",
     "treatments": []
   },
@@ -10330,6 +10864,24 @@
     "treatments": []
   },
   {
+    "id": "7f136179-5ad1-4990-872c-be989b77d61b",
+    "sourceId": "7f136179-5ad1-4990-872c-be989b77d61b",
+    "sourceUrl": "https://cyberpunktcg.com/cards/goro-takemura-losing-his-way?printing=7f136179-5ad1-4990-872c-be989b77d61b",
+    "cardId": "goro-takemura-losing-his-way",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-017-ilya-kuvshinov",
+    "number": "017",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/7f136179-5ad1-4990-872c-be989b77d61b.webp",
+    "artist": "ILYA KUVSHINOV",
+    "localizedName": "Goro Takemura — En Perte de Repères",
+    "printedRulesText": "{Attack} Si toutes les Légendes alliées sont face visible, cette Unité a +5 Power ce tour-ci.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "3b69e0c7-418c-4000-b6f4-f9584bc541e3",
     "sourceId": "3b69e0c7-418c-4000-b6f4-f9584bc541e3",
     "sourceUrl": "https://cyberpunktcg.com/cards/maxtac-av?printing=3b69e0c7-418c-4000-b6f4-f9584bc541e3",
@@ -10342,6 +10894,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/embracing-power-retail-starter-deck/3b69e0c7-418c-4000-b6f4-f9584bc541e3.webp",
     "artist": "OLGIERD CISZAK",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "1684accd-b2bc-4a30-92cb-cc2d6d53429f",
+    "sourceId": "1684accd-b2bc-4a30-92cb-cc2d6d53429f",
+    "sourceUrl": "https://cyberpunktcg.com/cards/maxtac-av?printing=1684accd-b2bc-4a30-92cb-cc2d6d53429f",
+    "cardId": "maxtac-av",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-018-olgierd-ciszak",
+    "number": "018",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/1684accd-b2bc-4a30-92cb-cc2d6d53429f.webp",
+    "artist": "OLGIERD CISZAK",
+    "localizedName": "Navi de la MaxTac",
+    "printedRulesText": "{Play} Vous pouvez échanger un Gig allié avec un Gig rival.",
     "status": "active",
     "treatments": []
   },
@@ -10362,6 +10932,24 @@
     "treatments": []
   },
   {
+    "id": "70d8df05-c5fc-4eaf-8e5b-c81ca96d02e3",
+    "sourceId": "70d8df05-c5fc-4eaf-8e5b-c81ca96d02e3",
+    "sourceUrl": "https://cyberpunktcg.com/cards/sandevistan?printing=70d8df05-c5fc-4eaf-8e5b-c81ca96d02e3",
+    "cardId": "sandevistan",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-019-cd-projekt-red",
+    "number": "019",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/70d8df05-c5fc-4eaf-8e5b-c81ca96d02e3.webp",
+    "artist": "CD PROJEKT RED",
+    "localizedName": "Sandevistan",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\nÀ la fin de votre tour, préparez cette Unité ou Légende.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "8a13760d-050c-4a9c-bc44-f6b5796bb9f2",
     "sourceId": "8a13760d-050c-4a9c-bc44-f6b5796bb9f2",
     "sourceUrl": "https://cyberpunktcg.com/cards/corporate-surveillance?printing=8a13760d-050c-4a9c-bc44-f6b5796bb9f2",
@@ -10374,6 +10962,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/embracing-power-retail-starter-deck/8a13760d-050c-4a9c-bc44-f6b5796bb9f2.webp",
     "artist": "JOHN LIEW",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "cc86f2ba-b196-4316-9476-7dd6ef2194d6",
+    "sourceId": "cc86f2ba-b196-4316-9476-7dd6ef2194d6",
+    "sourceUrl": "https://cyberpunktcg.com/cards/corporate-surveillance?printing=cc86f2ba-b196-4316-9476-7dd6ef2194d6",
+    "cardId": "corporate-surveillance",
+    "setId": "embracing-power-retail-starter-deck",
+    "variantKey": "embracing-power-retail-starter-deck-020-john-liew",
+    "number": "020",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/embracing-power-retail-starter-deck/cc86f2ba-b196-4316-9476-7dd6ef2194d6.webp",
+    "artist": "JOHN LIEW",
+    "localizedName": "Surveillance Corpo",
+    "printedRulesText": "Épuisez une Unité rivale de coût 4 ou moins.",
     "status": "active",
     "treatments": []
   },
@@ -10636,6 +11242,23 @@
     ]
   },
   {
+    "id": "4917aef2-61e8-4208-9ff3-f51903c09494",
+    "sourceId": "4917aef2-61e8-4208-9ff3-f51903c09494",
+    "sourceUrl": "https://cyberpunktcg.com/cards/sandevistan?printing=4917aef2-61e8-4208-9ff3-f51903c09494",
+    "cardId": "sandevistan",
+    "setId": "night-city-showdown-s1",
+    "variantKey": "night-city-showdown-s1-001-envar",
+    "number": "001",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-showdown-s1/4917aef2-61e8-4208-9ff3-f51903c09494.webp",
+    "artist": "ENVAR",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\nÀ la fin de votre tour, préparez cette Unité ou Légende.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "2a0fa3c6-f259-49ad-88a2-843713712ccd",
     "sourceId": "2a0fa3c6-f259-49ad-88a2-843713712ccd",
     "sourceUrl": "https://cyberpunktcg.com/cards/adam-smasher-metal-over-meat?printing=2a0fa3c6-f259-49ad-88a2-843713712ccd",
@@ -10654,6 +11277,23 @@
     ]
   },
   {
+    "id": "926893b9-9214-4db7-bf21-f6bfd7b59bdb",
+    "sourceId": "926893b9-9214-4db7-bf21-f6bfd7b59bdb",
+    "sourceUrl": "https://cyberpunktcg.com/cards/adam-smasher-metal-over-meat?printing=926893b9-9214-4db7-bf21-f6bfd7b59bdb",
+    "cardId": "adam-smasher-metal-over-meat",
+    "setId": "night-city-showdown-s1",
+    "variantKey": "night-city-showdown-s1-002-envar",
+    "number": "002",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-showdown-s1/926893b9-9214-4db7-bf21-f6bfd7b59bdb.webp",
+    "artist": "ENVAR",
+    "printedRulesText": "{Play} Éliminez toutes les autres Unités.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "6f8d1015-dd5d-49c4-9620-6b3b0c7ee82a",
     "sourceId": "6f8d1015-dd5d-49c4-9620-6b3b0c7ee82a",
     "sourceUrl": "https://cyberpunktcg.com/cards/sandevistan?printing=6f8d1015-dd5d-49c4-9620-6b3b0c7ee82a",
@@ -10670,6 +11310,23 @@
     "treatments": [
       "Alt Art"
     ]
+  },
+  {
+    "id": "57e0fbcf-59b2-405a-b35f-30b101e8e9a0",
+    "sourceId": "57e0fbcf-59b2-405a-b35f-30b101e8e9a0",
+    "sourceUrl": "https://cyberpunktcg.com/cards/sandevistan?printing=57e0fbcf-59b2-405a-b35f-30b101e8e9a0",
+    "cardId": "sandevistan",
+    "setId": "night-city-showdown-s1",
+    "variantKey": "night-city-showdown-s1-003-envar",
+    "number": "003",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-showdown-s1/57e0fbcf-59b2-405a-b35f-30b101e8e9a0.webp",
+    "artist": "ENVAR",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\nÀ la fin de votre tour, préparez cette Unité ou Légende.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "b2d8aa5e-0d41-4c9e-b736-9d61e8153651",
@@ -10691,6 +11348,23 @@
     ]
   },
   {
+    "id": "b0d19195-416d-456e-9d6e-e9816aaad0b1",
+    "sourceId": "b0d19195-416d-456e-9d6e-e9816aaad0b1",
+    "sourceUrl": "https://cyberpunktcg.com/cards/adam-smasher-metal-over-meat?printing=b0d19195-416d-456e-9d6e-e9816aaad0b1",
+    "cardId": "adam-smasher-metal-over-meat",
+    "setId": "night-city-showdown-s1",
+    "variantKey": "night-city-showdown-s1-004-envar",
+    "number": "004",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-showdown-s1/b0d19195-416d-456e-9d6e-e9816aaad0b1.webp",
+    "artist": "ENVAR",
+    "printedRulesText": "{Play} Éliminez toutes les autres Unités.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "36d42759-0199-47f0-835b-ee6616842e49",
     "sourceId": "36d42759-0199-47f0-835b-ee6616842e49",
     "sourceUrl": "https://cyberpunktcg.com/cards/sandevistan?printing=36d42759-0199-47f0-835b-ee6616842e49",
@@ -10708,6 +11382,23 @@
       "Alt Art",
       "Stamped"
     ]
+  },
+  {
+    "id": "4e8061a5-646b-46e5-be0d-f74af37259f1",
+    "sourceId": "4e8061a5-646b-46e5-be0d-f74af37259f1",
+    "sourceUrl": "https://cyberpunktcg.com/cards/sandevistan?printing=4e8061a5-646b-46e5-be0d-f74af37259f1",
+    "cardId": "sandevistan",
+    "setId": "night-city-showdown-s1",
+    "variantKey": "night-city-showdown-s1-005-envar",
+    "number": "005",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-showdown-s1/4e8061a5-646b-46e5-be0d-f74af37259f1.webp",
+    "artist": "ENVAR",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\nÀ la fin de votre tour, préparez cette Unité ou Légende.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "56a13bb3-7e1d-4846-ac79-9163f33c0143",
@@ -11086,6 +11777,24 @@
     "treatments": []
   },
   {
+    "id": "b243251d-b8a9-4af3-8d42-ce800c2b27b4",
+    "sourceId": "b243251d-b8a9-4af3-8d42-ce800c2b27b4",
+    "sourceUrl": "https://cyberpunktcg.com/cards/viktor-vektor-sit-down-and-relax?printing=b243251d-b8a9-4af3-8d42-ce800c2b27b4",
+    "cardId": "viktor-vektor-sit-down-and-relax",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-001-envar",
+    "number": "001",
+    "rarity": "Epic",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/b243251d-b8a9-4af3-8d42-ce800c2b27b4.webp",
+    "artist": "ENVAR",
+    "localizedName": "Viktor Vektor — Mets-toi à ton Aise",
+    "printedRulesText": "{Call} Regardez les 5 cartes du dessus de votre deck. Révélez jusqu'à 2 Gears de coût 2 ou moins et ajoutez-les à votre main. Archivez le reste aléatoirement.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "e2f38541-ecc9-41dc-ae15-164171391bff",
     "sourceId": "e2f38541-ecc9-41dc-ae15-164171391bff",
     "sourceUrl": "https://cyberpunktcg.com/cards/dexter-deshawn-one-last-chance?printing=e2f38541-ecc9-41dc-ae15-164171391bff",
@@ -11098,6 +11807,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/the-heist-retail-starter-deck/e2f38541-ecc9-41dc-ae15-164171391bff.webp",
     "artist": "MOONCOLONY",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "e3b8a9e8-5bed-4449-9738-c824db504be7",
+    "sourceId": "e3b8a9e8-5bed-4449-9738-c824db504be7",
+    "sourceUrl": "https://cyberpunktcg.com/cards/dexter-deshawn-one-last-chance?printing=e3b8a9e8-5bed-4449-9738-c824db504be7",
+    "cardId": "dexter-deshawn-one-last-chance",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-002-mooncolony",
+    "number": "002",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/e3b8a9e8-5bed-4449-9738-c824db504be7.webp",
+    "artist": "MOONCOLONY",
+    "localizedName": "Dexter DeShawn — Une Dernière Chance",
+    "printedRulesText": "{Play} {Attack} Ajustez un Gig jusqu'à +1 ou -1.\n{Defeated} Si votre ☆ (Street Cred) diffère de celle d'un Rival de 10+, piochez 2.",
     "status": "active",
     "treatments": []
   },
@@ -11118,6 +11845,24 @@
     "treatments": []
   },
   {
+    "id": "6af18183-f8ab-40c4-8724-8287619c6c5c",
+    "sourceId": "6af18183-f8ab-40c4-8724-8287619c6c5c",
+    "sourceUrl": "https://cyberpunktcg.com/cards/heywood-ripperdoc?printing=6af18183-f8ab-40c4-8724-8287619c6c5c",
+    "cardId": "heywood-ripperdoc",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-003-ukasz-poller",
+    "number": "003",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/6af18183-f8ab-40c4-8724-8287619c6c5c.webp",
+    "artist": "ŁUKASZ POLLER",
+    "localizedName": "Charcudoc d'Heywood",
+    "printedRulesText": "{Play} Vous pouvez éliminer un Gear. Si son coût est égal à la valeur d'un Gig allié, piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "1043d9b7-5dae-4fc5-852d-ec31daaaa88d",
     "sourceId": "1043d9b7-5dae-4fc5-852d-ec31daaaa88d",
     "sourceUrl": "https://cyberpunktcg.com/cards/offduty-malfini?printing=1043d9b7-5dae-4fc5-852d-ec31daaaa88d",
@@ -11130,6 +11875,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/the-heist-retail-starter-deck/1043d9b7-5dae-4fc5-852d-ec31daaaa88d.webp",
     "artist": "BERNARD KOWALCZUK",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "064e6916-f284-4886-a4d5-380c8c4c81c3",
+    "sourceId": "064e6916-f284-4886-a4d5-380c8c4c81c3",
+    "sourceUrl": "https://cyberpunktcg.com/cards/offduty-malfini?printing=064e6916-f284-4886-a4d5-380c8c4c81c3",
+    "cardId": "offduty-malfini",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-004-bernard-kowalczuk",
+    "number": "004",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/064e6916-f284-4886-a4d5-380c8c4c81c3.webp",
+    "artist": "BERNARD KOWALCZUK",
+    "localizedName": "Malfini Après le Boulot",
+    "printedRulesText": "{Play} Épuisez cette Unité et une Unité rivale.",
     "status": "active",
     "treatments": []
   },
@@ -11150,6 +11913,24 @@
     "treatments": []
   },
   {
+    "id": "cb03d048-2691-421d-9654-e20ffed0592b",
+    "sourceId": "cb03d048-2691-421d-9654-e20ffed0592b",
+    "sourceUrl": "https://cyberpunktcg.com/cards/secondhand-bombus?printing=cb03d048-2691-421d-9654-e20ffed0592b",
+    "cardId": "secondhand-bombus",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-005-luca-claretti",
+    "number": "005",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/cb03d048-2691-421d-9654-e20ffed0592b.webp",
+    "artist": "LUCA CLARETTI",
+    "localizedName": "Bombus d'Occasion",
+    "printedRulesText": "{Blocker} (Vous pouvez épuiser cette Unité pour rediriger vers elle l'attaque d'une Unité rivale.)\n(Les Unités de Power 0 ne volent pas de Gig.)",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "46ddb436-ea2f-4c7f-b9b4-7987835c9cce",
     "sourceId": "46ddb436-ea2f-4c7f-b9b4-7987835c9cce",
     "sourceUrl": "https://cyberpunktcg.com/cards/t-bug-amateur-philosopher?printing=46ddb436-ea2f-4c7f-b9b4-7987835c9cce",
@@ -11162,6 +11943,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/the-heist-retail-starter-deck/46ddb436-ea2f-4c7f-b9b4-7987835c9cce.webp",
     "artist": "ŁUKASZ POLLER",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "46d374ee-5bf1-4244-b93a-411869e26dd9",
+    "sourceId": "46d374ee-5bf1-4244-b93a-411869e26dd9",
+    "sourceUrl": "https://cyberpunktcg.com/cards/t-bug-amateur-philosopher?printing=46d374ee-5bf1-4244-b93a-411869e26dd9",
+    "cardId": "t-bug-amateur-philosopher",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-006-ukasz-poller",
+    "number": "006",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/46d374ee-5bf1-4244-b93a-411869e26dd9.webp",
+    "artist": "ŁUKASZ POLLER",
+    "localizedName": "T-Bug — Philosophe Amatrice",
+    "printedRulesText": "{Defeated} Regardez toutes les Légendes alliées face cachée. Puis, vous pouvez Call une Légende gratuitement. (Vous ne pouvez Call une Légende qu'une fois par tour.)",
     "status": "active",
     "treatments": []
   },
@@ -11182,6 +11981,24 @@
     "treatments": []
   },
   {
+    "id": "ef40fd67-27e4-45b1-b492-7c40aa29aa23",
+    "sourceId": "ef40fd67-27e4-45b1-b492-7c40aa29aa23",
+    "sourceUrl": "https://cyberpunktcg.com/cards/kiroshi-optics?printing=ef40fd67-27e4-45b1-b492-7c40aa29aa23",
+    "cardId": "kiroshi-optics",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-007-cd-projekt-red",
+    "number": "007",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/ef40fd67-27e4-45b1-b492-7c40aa29aa23.webp",
+    "artist": "CD PROJEKT RED",
+    "localizedName": "Optiques Kiroshi",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\n{Attack} Regardez une Légende alliée face cachée. (Ne la révélez pas.)",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "d13b8b15-8e31-448c-b28b-322bb498d0a7",
     "sourceId": "d13b8b15-8e31-448c-b28b-322bb498d0a7",
     "sourceUrl": "https://cyberpunktcg.com/cards/mandibular-upgrade?printing=d13b8b15-8e31-448c-b28b-322bb498d0a7",
@@ -11194,6 +12011,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/the-heist-retail-starter-deck/d13b8b15-8e31-448c-b28b-322bb498d0a7.webp",
     "artist": "LEA LEONOWICZ",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "2f9b1516-302b-4a3f-b23a-aea7d5196066",
+    "sourceId": "2f9b1516-302b-4a3f-b23a-aea7d5196066",
+    "sourceUrl": "https://cyberpunktcg.com/cards/mandibular-upgrade?printing=2f9b1516-302b-4a3f-b23a-aea7d5196066",
+    "cardId": "mandibular-upgrade",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-008-lea-leonowicz",
+    "number": "008",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/2f9b1516-302b-4a3f-b23a-aea7d5196066.webp",
+    "artist": "LEA LEONOWICZ",
+    "localizedName": "Amélioration Mandibulaire",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\n{Blocker} (Vous pouvez épuiser cette Unité pour rediriger vers elle l'attaque d'une Unité rivale.)",
     "status": "active",
     "treatments": []
   },
@@ -11214,6 +12049,24 @@
     "treatments": []
   },
   {
+    "id": "fb1687ac-3b22-4a0e-9f0d-44ef1e001c30",
+    "sourceId": "fb1687ac-3b22-4a0e-9f0d-44ef1e001c30",
+    "sourceUrl": "https://cyberpunktcg.com/cards/zetatech-faceplate?printing=fb1687ac-3b22-4a0e-9f0d-44ef1e001c30",
+    "cardId": "zetatech-faceplate",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-009-adia",
+    "number": "009",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/fb1687ac-3b22-4a0e-9f0d-44ef1e001c30.webp",
+    "artist": "ADIA",
+    "localizedName": "Plaque Faciale Zetatech",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\nQuand cette Unité ou Légende est épuisée, ajustez un Gig jusqu'à +1 ou -1. Puis, si vous contrôlez 3 Gigs ou plus avec des valeurs différentes, piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "17db8555-a470-4c5b-9a24-4fac4bf04c4c",
     "sourceId": "17db8555-a470-4c5b-9a24-4fac4bf04c4c",
     "sourceUrl": "https://cyberpunktcg.com/cards/afterparty-at-lizzie-s?printing=17db8555-a470-4c5b-9a24-4fac4bf04c4c",
@@ -11226,6 +12079,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/the-heist-retail-starter-deck/17db8555-a470-4c5b-9a24-4fac4bf04c4c.webp",
     "artist": "ALICJA UŻAROWSKA",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "c61f50b6-fc6d-4a85-9d06-4d8825593469",
+    "sourceId": "c61f50b6-fc6d-4a85-9d06-4d8825593469",
+    "sourceUrl": "https://cyberpunktcg.com/cards/afterparty-at-lizzie-s?printing=c61f50b6-fc6d-4a85-9d06-4d8825593469",
+    "cardId": "afterparty-at-lizzie-s",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-010-alicja-uzarowska",
+    "number": "010",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/c61f50b6-fc6d-4a85-9d06-4d8825593469.webp",
+    "artist": "ALICJA UŻAROWSKA",
+    "localizedName": "Afterparty at Lizzie's",
+    "printedRulesText": "Ajustez un Gig jusqu'à +1 ou -1. Si vous contrôlez 2 Gigs ou plus avec des valeurs différentes, piochez 1.",
     "status": "active",
     "treatments": []
   },
@@ -11246,6 +12117,24 @@
     "treatments": []
   },
   {
+    "id": "1d5a2d7d-a372-409c-9e29-22124525f29a",
+    "sourceId": "1d5a2d7d-a372-409c-9e29-22124525f29a",
+    "sourceUrl": "https://cyberpunktcg.com/cards/jackie-welles-pour-one-out-for-me?printing=1d5a2d7d-a372-409c-9e29-22124525f29a",
+    "cardId": "jackie-welles-pour-one-out-for-me",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-011-envar",
+    "number": "011",
+    "rarity": "Epic",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/1d5a2d7d-a372-409c-9e29-22124525f29a.webp",
+    "artist": "ENVAR",
+    "localizedName": "Jackie Welles — Sers-m'en Un",
+    "printedRulesText": "La première fois que vous jouez une Unité Bleue ou un Gear Bleu chaque tour, vous pouvez diminuer un Gig allié jusqu'à -2. S'il atteint son minimum, piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "4a5591f9-743e-4186-8deb-560971bb3f82",
     "sourceId": "4a5591f9-743e-4186-8deb-560971bb3f82",
     "sourceUrl": "https://cyberpunktcg.com/cards/v-corporate-exile?printing=4a5591f9-743e-4186-8deb-560971bb3f82",
@@ -11258,6 +12147,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/the-heist-retail-starter-deck/4a5591f9-743e-4186-8deb-560971bb3f82.webp",
     "artist": "ENVAR",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "98a296a5-1dac-4475-b401-ae3e0e18234a",
+    "sourceId": "98a296a5-1dac-4475-b401-ae3e0e18234a",
+    "sourceUrl": "https://cyberpunktcg.com/cards/v-corporate-exile?printing=98a296a5-1dac-4475-b401-ae3e0e18234a",
+    "cardId": "v-corporate-exile",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-012-envar",
+    "number": "012",
+    "rarity": "Epic",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/98a296a5-1dac-4475-b401-ae3e0e18234a.webp",
+    "artist": "ENVAR",
+    "localizedName": "V — Exilé.e Corpo",
+    "printedRulesText": "{Go Solo} (Payez le coût de cette Légende pour la jouer comme une Unité préparée. Elle peut attaquer ce tour-ci. Si elle quitte le terrain, retirez-la de la partie.)",
     "status": "active",
     "treatments": []
   },
@@ -11278,6 +12185,24 @@
     "treatments": []
   },
   {
+    "id": "66eb5361-11f4-4880-b347-ca849aa28cb8",
+    "sourceId": "66eb5361-11f4-4880-b347-ca849aa28cb8",
+    "sourceUrl": "https://cyberpunktcg.com/cards/delamain-cab?printing=66eb5361-11f4-4880-b347-ca849aa28cb8",
+    "cardId": "delamain-cab",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-013-cd-projekt-red",
+    "number": "013",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/66eb5361-11f4-4880-b347-ca849aa28cb8.webp",
+    "artist": "CD PROJEKT RED",
+    "localizedName": "Taxi Delamain",
+    "printedRulesText": "À la fin de votre tour, si cette Unité a volé au moins un Gig ce tour-ci, préparez 1 Eddie.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "4b037f20-0cb8-4dfa-bd34-3a3b8381632b",
     "sourceId": "4b037f20-0cb8-4dfa-bd34-3a3b8381632b",
     "sourceUrl": "https://cyberpunktcg.com/cards/evelyn-parker-scheming-siren?printing=4b037f20-0cb8-4dfa-bd34-3a3b8381632b",
@@ -11290,6 +12215,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/the-heist-retail-starter-deck/4b037f20-0cb8-4dfa-bd34-3a3b8381632b.webp",
     "artist": "OLGIERD CISZAK",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "431eaa98-5000-485a-8ac5-3e0c78213588",
+    "sourceId": "431eaa98-5000-485a-8ac5-3e0c78213588",
+    "sourceUrl": "https://cyberpunktcg.com/cards/evelyn-parker-scheming-siren?printing=431eaa98-5000-485a-8ac5-3e0c78213588",
+    "cardId": "evelyn-parker-scheming-siren",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-014-olgierd-ciszak",
+    "number": "014",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/431eaa98-5000-485a-8ac5-3e0c78213588.webp",
+    "artist": "OLGIERD CISZAK",
+    "localizedName": "Evelyn Parker — Une Sirène Qui Cache Son Jeu",
+    "printedRulesText": "{Attack} Piochez 1. Puis, si vous avez plus de ☆ (Street Cred) qu'un Rival, défaussez 1.\n(Les Unités de Power 0 ne volent pas de Gig.)",
     "status": "active",
     "treatments": []
   },
@@ -11310,6 +12253,24 @@
     "treatments": []
   },
   {
+    "id": "695a0906-3118-4ca5-a241-4eea0ed6f7cf",
+    "sourceId": "695a0906-3118-4ca5-a241-4eea0ed6f7cf",
+    "sourceUrl": "https://cyberpunktcg.com/cards/mt0d12-flathead?printing=695a0906-3118-4ca5-a241-4eea0ed6f7cf",
+    "cardId": "mt0d12-flathead",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-015-federico-sabbatini",
+    "number": "015",
+    "rarity": "Uncommon",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/695a0906-3118-4ca5-a241-4eea0ed6f7cf.webp",
+    "artist": "FEDERICO SABBATINI",
+    "localizedName": "Flathead MT0D12",
+    "printedRulesText": "Si vous avez moins de ☆ (Street Cred) qu'un Rival, cette Unité ne peut pas être bloquée.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "b6295362-bd30-4b91-8755-738938cf839b",
     "sourceId": "b6295362-bd30-4b91-8755-738938cf839b",
     "sourceUrl": "https://cyberpunktcg.com/cards/psycho-squad?printing=b6295362-bd30-4b91-8755-738938cf839b",
@@ -11322,6 +12283,23 @@
     "finish": "Standard",
     "imageUrl": "/cards/the-heist-retail-starter-deck/b6295362-bd30-4b91-8755-738938cf839b.webp",
     "artist": "KIERAN MCKEOWN & GIADA MARCHISIO",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "bc347fa2-8428-44a7-b6e4-2b166b66447c",
+    "sourceId": "bc347fa2-8428-44a7-b6e4-2b166b66447c",
+    "sourceUrl": "https://cyberpunktcg.com/cards/psycho-squad?printing=bc347fa2-8428-44a7-b6e4-2b166b66447c",
+    "cardId": "psycho-squad",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-016-kieran-mckeown-giada-marchisio",
+    "number": "016",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/bc347fa2-8428-44a7-b6e4-2b166b66447c.webp",
+    "artist": "KIERAN MCKEOWN & GIADA MARCHISIO",
+    "localizedName": "Team Psycho",
     "status": "active",
     "treatments": []
   },
@@ -11342,6 +12320,24 @@
     "treatments": []
   },
   {
+    "id": "a287a673-d258-4d60-bc7a-9093678fe5dd",
+    "sourceId": "a287a673-d258-4d60-bc7a-9093678fe5dd",
+    "sourceUrl": "https://cyberpunktcg.com/cards/dying-night-v-s-pistol?printing=a287a673-d258-4d60-bc7a-9093678fe5dd",
+    "cardId": "dying-night-v-s-pistol",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-017-ivan-shavrin",
+    "number": "017",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/a287a673-d258-4d60-bc7a-9093678fe5dd.webp",
+    "artist": "IVAN SHAVRIN",
+    "localizedName": "Nuit Moribonde — Le Pistolet de V",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\n{Attack} Diminuez un Gig jusqu'à -2. À la fin de votre tour, si cette Unité est nommée « V », préparez 2 Eddies.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "39747fc8-20a0-4fbb-80d7-2a869b735ac9",
     "sourceId": "39747fc8-20a0-4fbb-80d7-2a869b735ac9",
     "sourceUrl": "https://cyberpunktcg.com/cards/tetratronic-rippler?printing=39747fc8-20a0-4fbb-80d7-2a869b735ac9",
@@ -11354,6 +12350,24 @@
     "finish": "Standard",
     "imageUrl": "/cards/the-heist-retail-starter-deck/39747fc8-20a0-4fbb-80d7-2a869b735ac9.webp",
     "artist": "ADIA",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "0e3c8bcd-da77-408e-b8c6-7f384d569ac3",
+    "sourceId": "0e3c8bcd-da77-408e-b8c6-7f384d569ac3",
+    "sourceUrl": "https://cyberpunktcg.com/cards/tetratronic-rippler?printing=0e3c8bcd-da77-408e-b8c6-7f384d569ac3",
+    "cardId": "tetratronic-rippler",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-018-adia",
+    "number": "018",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/0e3c8bcd-da77-408e-b8c6-7f384d569ac3.webp",
+    "artist": "ADIA",
+    "localizedName": "Tetratronic Rippler",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\nQuand cette Unité ou Légende est épuisée, regardez la carte du dessus de votre deck. Vous pouvez la jeter. (Sinon, laissez-la au-dessus de votre deck.)",
     "status": "active",
     "treatments": []
   },
@@ -11374,6 +12388,24 @@
     "treatments": []
   },
   {
+    "id": "8efe08a5-0691-483d-817c-3aad5b73d28f",
+    "sourceId": "8efe08a5-0691-483d-817c-3aad5b73d28f",
+    "sourceUrl": "https://cyberpunktcg.com/cards/floor-it?printing=8efe08a5-0691-483d-817c-3aad5b73d28f",
+    "cardId": "floor-it",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-019-dofresh",
+    "number": "019",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/8efe08a5-0691-483d-817c-3aad5b73d28f.webp",
+    "artist": "DOFRESH",
+    "localizedName": "Pleins Gaz",
+    "printedRulesText": "{Quick} Donnez à une Unité rivale -1 Power ce tour-ci. Piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "270c2b70-35fb-4d47-b1c0-3df11141f880",
     "sourceId": "270c2b70-35fb-4d47-b1c0-3df11141f880",
     "sourceUrl": "https://cyberpunktcg.com/cards/reboot-optics?printing=270c2b70-35fb-4d47-b1c0-3df11141f880",
@@ -11390,6 +12422,24 @@
     "treatments": []
   },
   {
+    "id": "3558e145-19d6-4273-b4fd-9b0f160a3d8c",
+    "sourceId": "3558e145-19d6-4273-b4fd-9b0f160a3d8c",
+    "sourceUrl": "https://cyberpunktcg.com/cards/reboot-optics?printing=3558e145-19d6-4273-b4fd-9b0f160a3d8c",
+    "cardId": "reboot-optics",
+    "setId": "the-heist-retail-starter-deck",
+    "variantKey": "the-heist-retail-starter-deck-020-miguel-valderrama",
+    "number": "020",
+    "rarity": "Common",
+    "language": "FR",
+    "finish": "Standard",
+    "imageUrl": "/cards/the-heist-retail-starter-deck/3558e145-19d6-4273-b4fd-9b0f160a3d8c.webp",
+    "artist": "MIGUEL VALDERRAMA",
+    "localizedName": "Redémarrage d'Optiques",
+    "printedRulesText": "{Quick} La prochaine fois qu'une Unité rivale combat ce tour-ci, elle n'élimine pas l'Unité alliée opposée.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "12337d92-713c-4c7c-8a16-595a7b4717f1",
     "sourceId": "12337d92-713c-4c7c-8a16-595a7b4717f1",
     "sourceUrl": "https://cyberpunktcg.com/cards/yorinobu-arasaka-embracing-destruction?printing=12337d92-713c-4c7c-8a16-595a7b4717f1",
@@ -11402,6 +12452,7 @@
     "finish": "Foil",
     "imageUrl": "/cards/box-toppers-beta/12337d92-713c-4c7c-8a16-595a7b4717f1.webp",
     "artist": "VINCENZO RICCARDI",
+    "printedArtist": "VINCENZO RACCARDI",
     "status": "active",
     "treatments": [
       "Alt Art",
@@ -11522,6 +12573,24 @@
     ]
   },
   {
+    "id": "be95c7f4-4a0f-4a96-80d8-03db7c809f74",
+    "sourceId": "be95c7f4-4a0f-4a96-80d8-03db7c809f74",
+    "sourceUrl": "https://cyberpunktcg.com/cards/yorinobu-arasaka-embracing-destruction?printing=be95c7f4-4a0f-4a96-80d8-03db7c809f74",
+    "cardId": "yorinobu-arasaka-embracing-destruction",
+    "setId": "box-toppers-retail",
+    "variantKey": "box-toppers-retail-001-vincenzo-riccardi",
+    "number": "001",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/box-toppers-retail/be95c7f4-4a0f-4a96-80d8-03db7c809f74.webp",
+    "artist": "VINCENZO RICCARDI",
+    "localizedName": "Yorinobu Arasaka — Adepte de la Destruction",
+    "printedRulesText": "La première fois qu'une Unité ARASAKA alliée attaque chaque tour, piochez 1. Puis, si vous avez moins de 20 ☆ (Street Cred), défaussez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "c9ceb0e7-c803-45d1-8da1-8c85c3b2e7e8",
     "sourceId": "c9ceb0e7-c803-45d1-8da1-8c85c3b2e7e8",
     "sourceUrl": "https://cyberpunktcg.com/cards/viktor-vektor-sit-down-and-relax?printing=c9ceb0e7-c803-45d1-8da1-8c85c3b2e7e8",
@@ -11538,6 +12607,24 @@
     "treatments": [
       "Alt Art"
     ]
+  },
+  {
+    "id": "14eb3f3d-c53c-47ca-a222-40e3680edeea",
+    "sourceId": "14eb3f3d-c53c-47ca-a222-40e3680edeea",
+    "sourceUrl": "https://cyberpunktcg.com/cards/viktor-vektor-sit-down-and-relax?printing=14eb3f3d-c53c-47ca-a222-40e3680edeea",
+    "cardId": "viktor-vektor-sit-down-and-relax",
+    "setId": "box-toppers-retail",
+    "variantKey": "box-toppers-retail-002-ito-kirby-s-comic-art",
+    "number": "002",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/box-toppers-retail/14eb3f3d-c53c-47ca-a222-40e3680edeea.webp",
+    "artist": "ITO (KIRBY'S COMIC ART)",
+    "localizedName": "Viktor Vektor — Mets-toi à ton Aise",
+    "printedRulesText": "{Call} Regardez les 5 cartes du dessus de votre deck. Révélez jusqu'à 2 Gears de coût 2 ou moins et ajoutez-les à votre main. Archivez le reste aléatoirement.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "1b6e44dd-d6e7-46eb-a5e5-24c38eed888b",
@@ -11558,6 +12645,24 @@
     ]
   },
   {
+    "id": "e97ed28b-c4c7-4d21-a11e-057ae5cb43c1",
+    "sourceId": "e97ed28b-c4c7-4d21-a11e-057ae5cb43c1",
+    "sourceUrl": "https://cyberpunktcg.com/cards/goro-takemura-hands-unclean?printing=e97ed28b-c4c7-4d21-a11e-057ae5cb43c1",
+    "cardId": "goro-takemura-hands-unclean",
+    "setId": "box-toppers-retail",
+    "variantKey": "box-toppers-retail-003-vincenzo-riccardi",
+    "number": "003",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/box-toppers-retail/e97ed28b-c4c7-4d21-a11e-057ae5cb43c1.webp",
+    "artist": "VINCENZO RICCARDI",
+    "localizedName": "Goro Takemura — Les Mains Souillées",
+    "printedRulesText": "{Go Solo}\n{Blocker}",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "77e482f2-6090-47e9-9d03-be28417cb1cb",
     "sourceId": "77e482f2-6090-47e9-9d03-be28417cb1cb",
     "sourceUrl": "https://cyberpunktcg.com/cards/saburo-arasaka-stubborn-patriarch?printing=77e482f2-6090-47e9-9d03-be28417cb1cb",
@@ -11574,6 +12679,24 @@
     "treatments": [
       "Alt Art"
     ]
+  },
+  {
+    "id": "497dca45-581d-4507-a780-4d3f97531df1",
+    "sourceId": "497dca45-581d-4507-a780-4d3f97531df1",
+    "sourceUrl": "https://cyberpunktcg.com/cards/saburo-arasaka-stubborn-patriarch?printing=497dca45-581d-4507-a780-4d3f97531df1",
+    "cardId": "saburo-arasaka-stubborn-patriarch",
+    "setId": "box-toppers-retail",
+    "variantKey": "box-toppers-retail-004-vincenzo-riccardi",
+    "number": "004",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/box-toppers-retail/497dca45-581d-4507-a780-4d3f97531df1.webp",
+    "artist": "VINCENZO RICCARDI",
+    "localizedName": "Saburo Arasaka — Patriarche Entêté",
+    "printedRulesText": "Les Unités ARASAKA alliées ont +1 Power tant qu'elles attaquent.\n(Les Unités volent un Gig supplémentaire pour chaque dizaine de Power.)",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "e4e17d32-3ec4-4c74-927c-fd0911b86e72",
@@ -11594,6 +12717,24 @@
     ]
   },
   {
+    "id": "483be286-3715-4e5b-a9cb-6299a39ef2b5",
+    "sourceId": "483be286-3715-4e5b-a9cb-6299a39ef2b5",
+    "sourceUrl": "https://cyberpunktcg.com/cards/jackie-welles-pour-one-out-for-me?printing=483be286-3715-4e5b-a9cb-6299a39ef2b5",
+    "cardId": "jackie-welles-pour-one-out-for-me",
+    "setId": "box-toppers-retail",
+    "variantKey": "box-toppers-retail-005-ito-kirby-s-comic-art",
+    "number": "005",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/box-toppers-retail/483be286-3715-4e5b-a9cb-6299a39ef2b5.webp",
+    "artist": "ITO (KIRBY'S COMIC ART)",
+    "localizedName": "Jackie Welles — Sers-m'en Un",
+    "printedRulesText": "La première fois que vous jouez une Unité Bleue ou un Gear Bleu chaque tour, vous pouvez diminuer un Gig allié jusqu'à -2. S'il atteint son minimum, piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "f509ebd8-c8b7-4a22-8922-2d71c6df0b6f",
     "sourceId": "f509ebd8-c8b7-4a22-8922-2d71c6df0b6f",
     "sourceUrl": "https://cyberpunktcg.com/cards/v-corporate-exile?printing=f509ebd8-c8b7-4a22-8922-2d71c6df0b6f",
@@ -11610,6 +12751,24 @@
     "treatments": [
       "Alt Art"
     ]
+  },
+  {
+    "id": "fb1b4f07-a39f-461b-a7e3-92fe886f87be",
+    "sourceId": "fb1b4f07-a39f-461b-a7e3-92fe886f87be",
+    "sourceUrl": "https://cyberpunktcg.com/cards/v-corporate-exile?printing=fb1b4f07-a39f-461b-a7e3-92fe886f87be",
+    "cardId": "v-corporate-exile",
+    "setId": "box-toppers-retail",
+    "variantKey": "box-toppers-retail-006-ito-kirby-s-comic-art",
+    "number": "006",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/box-toppers-retail/fb1b4f07-a39f-461b-a7e3-92fe886f87be.webp",
+    "artist": "ITO (KIRBY'S COMIC ART)",
+    "localizedName": "V — Exilé.e Corpo",
+    "printedRulesText": "{Go Solo}",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "b3fe1a4f-74da-4882-82a9-14aebd392be4",
@@ -12138,6 +13297,22 @@
     "treatments": []
   },
   {
+    "id": "b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
+    "sourceId": "b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
+    "sourceUrl": "https://cyberpunktcg.com/cards/johnny-silverhand-rocking-renegade?printing=b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
+    "cardId": "johnny-silverhand-rocking-renegade",
+    "setId": "edgerunner-open-s-1",
+    "variantKey": "edgerunner-open-s-1-031-divebound-studio",
+    "number": "031",
+    "rarity": "Nova Rare",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/edgerunner-open-s-1/b6f81fe8-d0ed-4dcb-b025-058559d0cf98.webp",
+    "artist": "DIVEBOUND STUDIO",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "e59f737b-83e1-45f2-a469-8bde0146b967",
     "sourceId": "e59f737b-83e1-45f2-a469-8bde0146b967",
     "sourceUrl": "https://cyberpunktcg.com/cards/royce-psycho-on-the-edge?printing=e59f737b-83e1-45f2-a469-8bde0146b967",
@@ -12494,6 +13669,22 @@
     ]
   },
   {
+    "id": "e6de94ff-ecf1-4a9f-9992-96ed71100b95",
+    "sourceId": "e6de94ff-ecf1-4a9f-9992-96ed71100b95",
+    "sourceUrl": "https://cyberpunktcg.com/cards/sasha-yakovleva-won-t-let-you-down?printing=e6de94ff-ecf1-4a9f-9992-96ed71100b95",
+    "cardId": "sasha-yakovleva-won-t-let-you-down",
+    "setId": "edgerunner-open-s-1",
+    "variantKey": "edgerunner-open-s-1-052-divebound-studio",
+    "number": "052",
+    "rarity": "Nova Rare",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/edgerunner-open-s-1/e6de94ff-ecf1-4a9f-9992-96ed71100b95.webp",
+    "artist": "DIVEBOUND STUDIO",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "848e3de6-3a3e-462e-8186-0a214ff03b79",
     "sourceId": "848e3de6-3a3e-462e-8186-0a214ff03b79",
     "sourceUrl": "https://cyberpunktcg.com/cards/v-corporate-exile?printing=848e3de6-3a3e-462e-8186-0a214ff03b79",
@@ -12510,6 +13701,22 @@
     "treatments": [
       "Serialized"
     ]
+  },
+  {
+    "id": "ad5146fa-964c-436a-84ab-75bf288dd28a",
+    "sourceId": "ad5146fa-964c-436a-84ab-75bf288dd28a",
+    "sourceUrl": "https://cyberpunktcg.com/cards/wakako-okada-peace-and-harmony?printing=ad5146fa-964c-436a-84ab-75bf288dd28a",
+    "cardId": "wakako-okada-peace-and-harmony",
+    "setId": "edgerunner-open-s-1",
+    "variantKey": "edgerunner-open-s-1-054-pandart-studio",
+    "number": "054",
+    "rarity": "Nova Rare",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/edgerunner-open-s-1/ad5146fa-964c-436a-84ab-75bf288dd28a.webp",
+    "artist": "PANDART STUDIO",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "d2e8c1c2-6cd4-4d2e-94fa-21b96daaea6b",
@@ -12531,6 +13738,24 @@
     ]
   },
   {
+    "id": "e1be086c-78ca-472a-927f-1c145e87646b",
+    "sourceId": "e1be086c-78ca-472a-927f-1c145e87646b",
+    "sourceUrl": "https://cyberpunktcg.com/cards/kerry-eurodyne-the-last-rockerboy?printing=e1be086c-78ca-472a-927f-1c145e87646b",
+    "cardId": "kerry-eurodyne-the-last-rockerboy",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-001-bogna-gawronska",
+    "number": "001",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/e1be086c-78ca-472a-927f-1c145e87646b.webp",
+    "artist": "BOGNA GAWROŃSKA",
+    "localizedName": "Kerry Eurodyne — Le Dernier Rockerboy",
+    "printedRulesText": "{Spend} Si vous contrôlez un Gig de valeur 8+, piochez 2.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "a4271ab1-4688-4f98-b000-a186aadd7fee",
     "sourceId": "a4271ab1-4688-4f98-b000-a186aadd7fee",
     "sourceUrl": "https://cyberpunktcg.com/cards/minotaur?printing=a4271ab1-4688-4f98-b000-a186aadd7fee",
@@ -12548,6 +13773,24 @@
       "Full Art",
       "Iconic Frame"
     ]
+  },
+  {
+    "id": "71cad350-657b-4a55-bd07-aada806def8e",
+    "sourceId": "71cad350-657b-4a55-bd07-aada806def8e",
+    "sourceUrl": "https://cyberpunktcg.com/cards/minotaur?printing=71cad350-657b-4a55-bd07-aada806def8e",
+    "cardId": "minotaur",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-002-cd-projekt-red",
+    "number": "002",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/71cad350-657b-4a55-bd07-aada806def8e.webp",
+    "artist": "CD PROJEKT RED",
+    "localizedName": "Minotaure",
+    "printedRulesText": "{Play} Si vous avez plus de ☆ (Street Cred) qu'un Rival, éliminez une Unité rivale de Power 5 ou moins.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "c0a913fe-d3fc-4558-a35f-cfa34d4023c3",
@@ -12569,6 +13812,24 @@
     ]
   },
   {
+    "id": "86665027-3400-4183-a246-a4df93b83c83",
+    "sourceId": "86665027-3400-4183-a246-a4df93b83c83",
+    "sourceUrl": "https://cyberpunktcg.com/cards/satori-sword-of-saburo?printing=86665027-3400-4183-a246-a4df93b83c83",
+    "cardId": "satori-sword-of-saburo",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-003-ivan-shavrin",
+    "number": "003",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/86665027-3400-4183-a246-a4df93b83c83.webp",
+    "artist": "IVAN SHAVRIN",
+    "localizedName": "Satori — Lame De Saburo",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.) \nLorsque cette Unité gagne un combat contre une Unité rivale, piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "5b855c9c-bdf3-4743-9653-d6eb6ce3f6f5",
     "sourceId": "5b855c9c-bdf3-4743-9653-d6eb6ce3f6f5",
     "sourceUrl": "https://cyberpunktcg.com/cards/jackie-welles-ride-or-die-choom?printing=5b855c9c-bdf3-4743-9653-d6eb6ce3f6f5",
@@ -12586,6 +13847,24 @@
       "Full Art",
       "Iconic Frame"
     ]
+  },
+  {
+    "id": "9fd08b9f-ba4c-44b4-9005-f8007ff7b107",
+    "sourceId": "9fd08b9f-ba4c-44b4-9005-f8007ff7b107",
+    "sourceUrl": "https://cyberpunktcg.com/cards/jackie-welles-ride-or-die-choom?printing=9fd08b9f-ba4c-44b4-9005-f8007ff7b107",
+    "cardId": "jackie-welles-ride-or-die-choom",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-004-ilya-kuvshinov",
+    "number": "004",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/9fd08b9f-ba4c-44b4-9005-f8007ff7b107.webp",
+    "artist": "ILYA KUVSHINOV",
+    "localizedName": "Jackie Welles — Marche ou Crève",
+    "printedRulesText": "{Attack} Donnez à cette Unité +2 Power ce tour-ci pour chaque Gig allié de valeur paire. \n{Defeated} Piochez 1 pour chaque Gig allié de valeur impaire.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "a78c25bb-94ce-4833-bcc4-be6dce72ecb1",
@@ -12607,6 +13886,24 @@
     ]
   },
   {
+    "id": "648a99cd-d25d-4e9e-a45d-14b47ed7f854",
+    "sourceId": "648a99cd-d25d-4e9e-a45d-14b47ed7f854",
+    "sourceUrl": "https://cyberpunktcg.com/cards/secondhand-bombus?printing=648a99cd-d25d-4e9e-a45d-14b47ed7f854",
+    "cardId": "secondhand-bombus",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-005-luca-claretti",
+    "number": "005",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/648a99cd-d25d-4e9e-a45d-14b47ed7f854.webp",
+    "artist": "LUCA CLARETTI",
+    "localizedName": "Bombus d'Occasion",
+    "printedRulesText": "{Blocker} (Vous pouvez épuiser cette Unité pour rediriger vers elle l'attaque d'une Unité rivale.) \n(Les Unités de Power 0 ne volent pas de Gig.)",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "d16f9b63-cc98-4b88-981e-258d1940aa04",
     "sourceId": "d16f9b63-cc98-4b88-981e-258d1940aa04",
     "sourceUrl": "https://cyberpunktcg.com/cards/mandibular-upgrade?printing=d16f9b63-cc98-4b88-981e-258d1940aa04",
@@ -12624,6 +13921,24 @@
       "Full Art",
       "Iconic Frame"
     ]
+  },
+  {
+    "id": "aa8dd968-405c-4e82-a6f5-722e1f00c490",
+    "sourceId": "aa8dd968-405c-4e82-a6f5-722e1f00c490",
+    "sourceUrl": "https://cyberpunktcg.com/cards/mandibular-upgrade?printing=aa8dd968-405c-4e82-a6f5-722e1f00c490",
+    "cardId": "mandibular-upgrade",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-006-lea-leonowicz",
+    "number": "006",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/aa8dd968-405c-4e82-a6f5-722e1f00c490.webp",
+    "artist": "LEA LEONOWICZ",
+    "localizedName": "Amélioration Mandibulaire",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\t\n{Blocker} (Vous pouvez épuiser cette Unité pour rediriger vers elle l'attaque d'une Unité rivale.)",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "f997c534-5208-4c37-8aff-4f6587e606c2",
@@ -12645,6 +13960,24 @@
     ]
   },
   {
+    "id": "bf92e29e-162b-47b5-a416-f2ba389fc912",
+    "sourceId": "bf92e29e-162b-47b5-a416-f2ba389fc912",
+    "sourceUrl": "https://cyberpunktcg.com/cards/bootleg-black-sapphire-show?printing=bf92e29e-162b-47b5-a416-f2ba389fc912",
+    "cardId": "bootleg-black-sapphire-show",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-007-adia",
+    "number": "007",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/bf92e29e-162b-47b5-a416-f2ba389fc912.webp",
+    "artist": "ADIA",
+    "localizedName": "Bootleg du Show au Black Sapphire",
+    "printedRulesText": "Vendez la carte du dessus de votre deck. \nSi vous contrôlez un Gig avec une valeur paire et un Gig avec une valeur impaire, piochez 2.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "88002e9c-429e-4434-8564-e1b22625ce4e",
     "sourceId": "88002e9c-429e-4434-8564-e1b22625ce4e",
     "sourceUrl": "https://cyberpunktcg.com/cards/cyberpsychosis?printing=88002e9c-429e-4434-8564-e1b22625ce4e",
@@ -12664,6 +13997,24 @@
     ]
   },
   {
+    "id": "3f8a1c0a-ebb1-46a7-a6d6-4331f0cee098",
+    "sourceId": "3f8a1c0a-ebb1-46a7-a6d6-4331f0cee098",
+    "sourceUrl": "https://cyberpunktcg.com/cards/cyberpsychosis?printing=3f8a1c0a-ebb1-46a7-a6d6-4331f0cee098",
+    "cardId": "cyberpsychosis",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-008-michal-ivan",
+    "number": "008",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/3f8a1c0a-ebb1-46a7-a6d6-4331f0cee098.webp",
+    "artist": "MICHAL IVAN",
+    "localizedName": "Cyberpsychose",
+    "printedRulesText": "{Quick} Donnez à une Unité équipée +3 Power ce tour-ci pour chacun de ses Gears équipés. Si cette Unité vole ou combat, éliminez-la à la fin du tour.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "6b574386-2893-4236-86a4-68c48222ae9e",
     "sourceId": "6b574386-2893-4236-86a4-68c48222ae9e",
     "sourceUrl": "https://cyberpunktcg.com/cards/corpo-security?printing=6b574386-2893-4236-86a4-68c48222ae9e",
@@ -12675,12 +14026,32 @@
     "language": "EN",
     "finish": "Foil",
     "imageUrl": "/cards/night-city-brawl-s-1/6b574386-2893-4236-86a4-68c48222ae9e.webp",
-    "artist": "DANIEL VALAISIS",
+    "artist": "CD PROJEKT RED",
+    "printedArtist": "DANIEL VALAISIS",
     "status": "active",
     "treatments": [
       "Full Art",
       "Iconic Frame"
     ]
+  },
+  {
+    "id": "5f456afc-0bf1-4675-bee5-1d4bfb72034b",
+    "sourceId": "5f456afc-0bf1-4675-bee5-1d4bfb72034b",
+    "sourceUrl": "https://cyberpunktcg.com/cards/corpo-security?printing=5f456afc-0bf1-4675-bee5-1d4bfb72034b",
+    "cardId": "corpo-security",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-009-daniel-valaisis",
+    "number": "009",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/5f456afc-0bf1-4675-bee5-1d4bfb72034b.webp",
+    "artist": "CD PROJEKT RED",
+    "printedArtist": "DANIEL VALAISIS",
+    "localizedName": "Sécurité Corpo",
+    "printedRulesText": "Cette Unité ne peut pas attaquer. \n{Blocker} (Vous pouvez épuiser cette Unité pour rediriger vers elle l'attaque d'une Unité rivale.)",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "f77b20fd-8792-41bb-a634-06030fd2eb6d",
@@ -12702,6 +14073,24 @@
     ]
   },
   {
+    "id": "c740f0b7-858c-4792-862d-7dd54372cfff",
+    "sourceId": "c740f0b7-858c-4792-862d-7dd54372cfff",
+    "sourceUrl": "https://cyberpunktcg.com/cards/maxtac-squadron?printing=c740f0b7-858c-4792-862d-7dd54372cfff",
+    "cardId": "maxtac-squadron",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-010-olgierd-ciszak",
+    "number": "010",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/c740f0b7-858c-4792-862d-7dd54372cfff.webp",
+    "artist": "OLGIERD CISZAK",
+    "localizedName": "Escadron de la MaxTac",
+    "printedRulesText": "À la fin de votre tour, si cette Unité est épuisée, préparez une Légende alliée face visible.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "7757b045-4ccf-432b-b412-c82a44ee3adc",
     "sourceId": "7757b045-4ccf-432b-b412-c82a44ee3adc",
     "sourceUrl": "https://cyberpunktcg.com/cards/wraith-marauders?printing=7757b045-4ccf-432b-b412-c82a44ee3adc",
@@ -12719,6 +14108,24 @@
       "Full Art",
       "Iconic Frame"
     ]
+  },
+  {
+    "id": "221a8a1f-77bc-42f4-b044-a3fb09965805",
+    "sourceId": "221a8a1f-77bc-42f4-b044-a3fb09965805",
+    "sourceUrl": "https://cyberpunktcg.com/cards/wraith-marauders?printing=221a8a1f-77bc-42f4-b044-a3fb09965805",
+    "cardId": "wraith-marauders",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-011-daniel-valaisis",
+    "number": "011",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/221a8a1f-77bc-42f4-b044-a3fb09965805.webp",
+    "artist": "DANIEL VALAISIS",
+    "localizedName": "Maraudeurs des Wraiths",
+    "printedRulesText": "Quand cette Unité vole un Gig, préparez une autre Unité alliée de Power égal à la valeur de ce Gig.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "bd897ed7-a74b-4993-9da5-16f820c3502d",
@@ -12740,6 +14147,24 @@
     ]
   },
   {
+    "id": "bb84e7b0-0a5d-41c5-b60c-56d670777fc6",
+    "sourceId": "bb84e7b0-0a5d-41c5-b60c-56d670777fc6",
+    "sourceUrl": "https://cyberpunktcg.com/cards/don-t-fear-the-reaper?printing=bb84e7b0-0a5d-41c5-b60c-56d670777fc6",
+    "cardId": "don-t-fear-the-reaper",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-012-alex-eckman-lawn",
+    "number": "012",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/bb84e7b0-0a5d-41c5-b60c-56d670777fc6.webp",
+    "artist": "ALEX ECKMAN-LAWN",
+    "localizedName": "(Don't Fear) The Reaper",
+    "printedRulesText": "Épuisez toutes les Unités rivales. Puis, éliminez une Unité épuisée.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "3a3900be-bbee-4218-8b58-0e5fa445ee46",
     "sourceId": "3a3900be-bbee-4218-8b58-0e5fa445ee46",
     "sourceUrl": "https://cyberpunktcg.com/cards/we-gotta-live-together?printing=3a3900be-bbee-4218-8b58-0e5fa445ee46",
@@ -12757,6 +14182,24 @@
       "Full Art",
       "Iconic Frame"
     ]
+  },
+  {
+    "id": "1b15e610-8f48-46f0-8708-5104134e966b",
+    "sourceId": "1b15e610-8f48-46f0-8708-5104134e966b",
+    "sourceUrl": "https://cyberpunktcg.com/cards/we-gotta-live-together?printing=1b15e610-8f48-46f0-8708-5104134e966b",
+    "cardId": "we-gotta-live-together",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-013-olgierd-ciszak",
+    "number": "013",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/1b15e610-8f48-46f0-8708-5104134e966b.webp",
+    "artist": "OLGIERD CISZAK",
+    "localizedName": "We Gotta Live Together",
+    "printedRulesText": "Si un Rival contrôle au moins 2 Gigs de plus que vous, jouez ce Programme pour 3 €$. \nJouez gratuitement jusqu'à 2 Unités de coût 3 ou moins de votre défausse.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "e03952c1-9f8c-4ecb-8258-ab753ef9c9a7",
@@ -12778,6 +14221,24 @@
     ]
   },
   {
+    "id": "6728f922-a514-4f15-991b-27ba0e17951f",
+    "sourceId": "6728f922-a514-4f15-991b-27ba0e17951f",
+    "sourceUrl": "https://cyberpunktcg.com/cards/delamain-cab?printing=6728f922-a514-4f15-991b-27ba0e17951f",
+    "cardId": "delamain-cab",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-014-daniel-valaisis",
+    "number": "014",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/6728f922-a514-4f15-991b-27ba0e17951f.webp",
+    "artist": "DANIEL VALAISIS",
+    "localizedName": "Taxi Delamain",
+    "printedRulesText": "À la fin de votre tour, si cette Unité a volé au moins un Gig ce tour-ci, préparez 1 Eddie.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "a1c75317-6fa9-48f8-b296-cfe6a336f12a",
     "sourceId": "a1c75317-6fa9-48f8-b296-cfe6a336f12a",
     "sourceUrl": "https://cyberpunktcg.com/cards/maman-brigitte-spirit-of-death?printing=a1c75317-6fa9-48f8-b296-cfe6a336f12a",
@@ -12795,6 +14256,24 @@
       "Full Art",
       "Iconic Frame"
     ]
+  },
+  {
+    "id": "c0a8e28f-7f0c-4631-ad73-2219ab851160",
+    "sourceId": "c0a8e28f-7f0c-4631-ad73-2219ab851160",
+    "sourceUrl": "https://cyberpunktcg.com/cards/maman-brigitte-spirit-of-death?printing=c0a8e28f-7f0c-4631-ad73-2219ab851160",
+    "cardId": "maman-brigitte-spirit-of-death",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-015-topdog-entertainment",
+    "number": "015",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/c0a8e28f-7f0c-4631-ad73-2219ab851160.webp",
+    "artist": "TOPDOG ENTERTAINMENT",
+    "localizedName": "Maman Brigitte — Esprit de la Mort",
+    "printedRulesText": "{Play} Vous pouvez défausser 2 Programmes. Si vous le faites, archivez une Unité rivale non équipée.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "70ef0b79-d569-4a62-bdbc-e02c616f8b98",
@@ -12816,6 +14295,24 @@
     ]
   },
   {
+    "id": "a96d4bb7-b498-4371-9558-e423be933064",
+    "sourceId": "a96d4bb7-b498-4371-9558-e423be933064",
+    "sourceUrl": "https://cyberpunktcg.com/cards/dying-night-v-s-pistol?printing=a96d4bb7-b498-4371-9558-e423be933064",
+    "cardId": "dying-night-v-s-pistol",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-016-ivan-shavrin",
+    "number": "016",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/a96d4bb7-b498-4371-9558-e423be933064.webp",
+    "artist": "IVAN SHAVRIN",
+    "localizedName": "Nuit Moribonde — Le Pistolet de V",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.) \n{Attack} Diminuez un Gig jusqu'à -2. À la fin de votre tour, si cette Unité est nommée « V », préparez 2 Eddies.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "f8098004-7b14-4d5a-8398-85c5660e1d8f",
     "sourceId": "f8098004-7b14-4d5a-8398-85c5660e1d8f",
     "sourceUrl": "https://cyberpunktcg.com/cards/netwatch-netdriver?printing=f8098004-7b14-4d5a-8398-85c5660e1d8f",
@@ -12835,6 +14332,24 @@
     ]
   },
   {
+    "id": "fc2e2d9b-f9ad-4017-b570-9775285dcaed",
+    "sourceId": "fc2e2d9b-f9ad-4017-b570-9775285dcaed",
+    "sourceUrl": "https://cyberpunktcg.com/cards/netwatch-netdriver?printing=fc2e2d9b-f9ad-4017-b570-9775285dcaed",
+    "cardId": "netwatch-netdriver",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-017-mooncolony",
+    "number": "017",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/fc2e2d9b-f9ad-4017-b570-9775285dcaed.webp",
+    "artist": "MOONCOLONY",
+    "localizedName": "NetWatch Netdriver",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.) \nQuand cette Unité ou Légende est épuisée, piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "2267884a-40c8-49ff-952b-90ec1b977179",
     "sourceId": "2267884a-40c8-49ff-952b-90ec1b977179",
     "sourceUrl": "https://cyberpunktcg.com/cards/floor-it?printing=2267884a-40c8-49ff-952b-90ec1b977179",
@@ -12852,6 +14367,24 @@
       "Full Art",
       "Iconic Frame"
     ]
+  },
+  {
+    "id": "d8b393db-c317-4cb0-bec4-2d5327ce3e37",
+    "sourceId": "d8b393db-c317-4cb0-bec4-2d5327ce3e37",
+    "sourceUrl": "https://cyberpunktcg.com/cards/floor-it?printing=d8b393db-c317-4cb0-bec4-2d5327ce3e37",
+    "cardId": "floor-it",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-018-dofresh",
+    "number": "018",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/d8b393db-c317-4cb0-bec4-2d5327ce3e37.webp",
+    "artist": "DOFRESH",
+    "localizedName": "Pleins Gaz",
+    "printedRulesText": "{Quick} Donnez à une Unité rivale -1 Power ce tour-ci. Piochez 1.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "c51e7c71-6305-4330-a107-a197af5eeeb2",
@@ -12874,6 +14407,24 @@
     ]
   },
   {
+    "id": "77189cf1-2e1e-44a6-8190-9175789c8c8d",
+    "sourceId": "77189cf1-2e1e-44a6-8190-9175789c8c8d",
+    "sourceUrl": "https://cyberpunktcg.com/cards/kerry-eurodyne-the-last-rockerboy?printing=77189cf1-2e1e-44a6-8190-9175789c8c8d",
+    "cardId": "kerry-eurodyne-the-last-rockerboy",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-019-bogna-gawronska",
+    "number": "019",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/77189cf1-2e1e-44a6-8190-9175789c8c8d.webp",
+    "artist": "BOGNA GAWROŃSKA",
+    "localizedName": "Kerry Eurodyne — Le Dernier Rockerboy",
+    "printedRulesText": "{Spend} Si vous contrôlez un Gig de valeur 8+, piochez 2.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "bd6fe2cf-bfcd-4de2-bc78-ffc215d39603",
     "sourceId": "bd6fe2cf-bfcd-4de2-bc78-ffc215d39603",
     "sourceUrl": "https://cyberpunktcg.com/cards/minotaur?printing=bd6fe2cf-bfcd-4de2-bc78-ffc215d39603",
@@ -12892,6 +14443,24 @@
       "Iconic Frame",
       "Stamped"
     ]
+  },
+  {
+    "id": "e5207a33-75fe-460c-8476-872cd746c6a6",
+    "sourceId": "e5207a33-75fe-460c-8476-872cd746c6a6",
+    "sourceUrl": "https://cyberpunktcg.com/cards/minotaur?printing=e5207a33-75fe-460c-8476-872cd746c6a6",
+    "cardId": "minotaur",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-020-cd-projekt-red",
+    "number": "020",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/e5207a33-75fe-460c-8476-872cd746c6a6.webp",
+    "artist": "CD PROJEKT RED",
+    "localizedName": "Minotaure",
+    "printedRulesText": "{Play} Si vous avez plus de ☆ (Street Cred) qu'un Rival, éliminez une Unité rivale de Power 5 ou moins.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "922e0824-cef0-4062-bb6f-5e30f4814f40",
@@ -12914,6 +14483,24 @@
     ]
   },
   {
+    "id": "b142d928-a4fe-4f0a-84f7-860baf5a787f",
+    "sourceId": "b142d928-a4fe-4f0a-84f7-860baf5a787f",
+    "sourceUrl": "https://cyberpunktcg.com/cards/satori-sword-of-saburo?printing=b142d928-a4fe-4f0a-84f7-860baf5a787f",
+    "cardId": "satori-sword-of-saburo",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-021-ivan-shavrin",
+    "number": "021",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/b142d928-a4fe-4f0a-84f7-860baf5a787f.webp",
+    "artist": "IVAN SHAVRIN",
+    "localizedName": "Satori — Lame De Saburo",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.) \nLorsque cette Unité gagne un combat contre une Unité rivale, piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "adf78727-f462-424c-8689-0b759794ee3c",
     "sourceId": "adf78727-f462-424c-8689-0b759794ee3c",
     "sourceUrl": "https://cyberpunktcg.com/cards/jackie-welles-ride-or-die-choom?printing=adf78727-f462-424c-8689-0b759794ee3c",
@@ -12932,6 +14519,24 @@
       "Iconic Frame",
       "Stamped"
     ]
+  },
+  {
+    "id": "ca3dbf6e-ead5-4948-b704-e325a6297fd7",
+    "sourceId": "ca3dbf6e-ead5-4948-b704-e325a6297fd7",
+    "sourceUrl": "https://cyberpunktcg.com/cards/jackie-welles-ride-or-die-choom?printing=ca3dbf6e-ead5-4948-b704-e325a6297fd7",
+    "cardId": "jackie-welles-ride-or-die-choom",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-022-ilya-kuvshinov",
+    "number": "022",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/ca3dbf6e-ead5-4948-b704-e325a6297fd7.webp",
+    "artist": "ILYA KUVSHINOV",
+    "localizedName": "Jackie Welles — Marche ou Crève",
+    "printedRulesText": "{Attack} Donnez à cette Unité +2 Power ce tour-ci pour chaque Gig allié de valeur paire.\n{Defeated} Piochez 1 pour chaque Gig allié de valeur impaire.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "9f7b3df5-721c-410f-8dec-5ce3bc4377c0",
@@ -12954,6 +14559,24 @@
     ]
   },
   {
+    "id": "eb96776d-e7ab-4312-85a8-fe2957f22094",
+    "sourceId": "eb96776d-e7ab-4312-85a8-fe2957f22094",
+    "sourceUrl": "https://cyberpunktcg.com/cards/secondhand-bombus?printing=eb96776d-e7ab-4312-85a8-fe2957f22094",
+    "cardId": "secondhand-bombus",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-023-luca-claretti",
+    "number": "023",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/eb96776d-e7ab-4312-85a8-fe2957f22094.webp",
+    "artist": "LUCA CLARETTI",
+    "localizedName": "Bombus d'Occasion",
+    "printedRulesText": "{Blocker} (Vous pouvez épuiser cette Unité pour rediriger vers elle l'attaque d'une Unité rivale.) \n(Les Unités de Power 0 ne volent pas de Gig.)",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "34dd1e1b-5022-4858-91bc-1243ea7f4615",
     "sourceId": "34dd1e1b-5022-4858-91bc-1243ea7f4615",
     "sourceUrl": "https://cyberpunktcg.com/cards/mandibular-upgrade?printing=34dd1e1b-5022-4858-91bc-1243ea7f4615",
@@ -12972,6 +14595,24 @@
       "Iconic Frame",
       "Stamped"
     ]
+  },
+  {
+    "id": "4706864a-1946-4f13-a433-65add75ad6ca",
+    "sourceId": "4706864a-1946-4f13-a433-65add75ad6ca",
+    "sourceUrl": "https://cyberpunktcg.com/cards/mandibular-upgrade?printing=4706864a-1946-4f13-a433-65add75ad6ca",
+    "cardId": "mandibular-upgrade",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-024-lea-leonowicz",
+    "number": "024",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/4706864a-1946-4f13-a433-65add75ad6ca.webp",
+    "artist": "LEA LEONOWICZ",
+    "localizedName": "Amélioration Mandibulaire",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.)\t\n{Blocker} (Vous pouvez épuiser cette Unité pour rediriger vers elle l'attaque d'une Unité rivale.)",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "86bc6f96-41d3-4639-b75b-25ae58202b3d",
@@ -12994,6 +14635,24 @@
     ]
   },
   {
+    "id": "e8882cc2-86a2-49d1-aaf9-a7c315842510",
+    "sourceId": "e8882cc2-86a2-49d1-aaf9-a7c315842510",
+    "sourceUrl": "https://cyberpunktcg.com/cards/bootleg-black-sapphire-show?printing=e8882cc2-86a2-49d1-aaf9-a7c315842510",
+    "cardId": "bootleg-black-sapphire-show",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-025-adia",
+    "number": "025",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/e8882cc2-86a2-49d1-aaf9-a7c315842510.webp",
+    "artist": "ADIA",
+    "localizedName": "Bootleg du Show au Black Sapphire",
+    "printedRulesText": "Vendez la carte du dessus de votre deck. \nSi vous contrôlez un Gig avec une valeur paire et un Gig avec une valeur impaire, piochez 2.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "968eff55-5775-44c1-b5e0-7b1b9293763e",
     "sourceId": "968eff55-5775-44c1-b5e0-7b1b9293763e",
     "sourceUrl": "https://cyberpunktcg.com/cards/cyberpsychosis?printing=968eff55-5775-44c1-b5e0-7b1b9293763e",
@@ -13014,6 +14673,24 @@
     ]
   },
   {
+    "id": "c9fbad01-853c-4f3f-a550-45951847a04c",
+    "sourceId": "c9fbad01-853c-4f3f-a550-45951847a04c",
+    "sourceUrl": "https://cyberpunktcg.com/cards/cyberpsychosis?printing=c9fbad01-853c-4f3f-a550-45951847a04c",
+    "cardId": "cyberpsychosis",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-026-michal-ivan",
+    "number": "026",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/c9fbad01-853c-4f3f-a550-45951847a04c.webp",
+    "artist": "MICHAL IVAN",
+    "localizedName": "Cyberpsychose",
+    "printedRulesText": "{Quick} Donnez à une Unité équipée +3 Power ce tour-ci pour chacun de ses Gears équipés. Si cette Unité vole ou combat, éliminez-la à la fin du tour.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "8c0cd775-71b6-43f9-af49-1d41386eb1ee",
     "sourceId": "8c0cd775-71b6-43f9-af49-1d41386eb1ee",
     "sourceUrl": "https://cyberpunktcg.com/cards/corpo-security?printing=8c0cd775-71b6-43f9-af49-1d41386eb1ee",
@@ -13025,13 +14702,33 @@
     "language": "EN",
     "finish": "Foil",
     "imageUrl": "/cards/night-city-brawl-s-1/8c0cd775-71b6-43f9-af49-1d41386eb1ee.webp",
-    "artist": "DANIEL VALAISIS",
+    "artist": "CD PROJEKT RED",
+    "printedArtist": "DANIEL VALAISIS",
     "status": "active",
     "treatments": [
       "Full Art",
       "Iconic Frame",
       "Stamped"
     ]
+  },
+  {
+    "id": "2ba670a8-030e-494c-aeaf-0503926e6eac",
+    "sourceId": "2ba670a8-030e-494c-aeaf-0503926e6eac",
+    "sourceUrl": "https://cyberpunktcg.com/cards/corpo-security?printing=2ba670a8-030e-494c-aeaf-0503926e6eac",
+    "cardId": "corpo-security",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-027-daniel-valaisis",
+    "number": "027",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/2ba670a8-030e-494c-aeaf-0503926e6eac.webp",
+    "artist": "CD PROJEKT RED",
+    "printedArtist": "DANIEL VALAISIS",
+    "localizedName": "Sécurité Corpo",
+    "printedRulesText": "Cette Unité ne peut pas attaquer. \n{Blocker} (Vous pouvez épuiser cette Unité pour rediriger vers elle l'attaque d'une Unité rivale.)",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "c89b85cb-aa23-4fa6-b093-aad81bde74a4",
@@ -13054,6 +14751,24 @@
     ]
   },
   {
+    "id": "627659e9-5298-466f-8cc2-97caaed5ab48",
+    "sourceId": "627659e9-5298-466f-8cc2-97caaed5ab48",
+    "sourceUrl": "https://cyberpunktcg.com/cards/maxtac-squadron?printing=627659e9-5298-466f-8cc2-97caaed5ab48",
+    "cardId": "maxtac-squadron",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-028-olgierd-ciszak",
+    "number": "028",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/627659e9-5298-466f-8cc2-97caaed5ab48.webp",
+    "artist": "OLGIERD CISZAK",
+    "localizedName": "Escadron de la MaxTac",
+    "printedRulesText": "À la fin de votre tour, si cette Unité est épuisée, préparez une Légende alliée face visible.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "36d849b2-3d3a-4113-bc69-214a8a91e6d6",
     "sourceId": "36d849b2-3d3a-4113-bc69-214a8a91e6d6",
     "sourceUrl": "https://cyberpunktcg.com/cards/wraith-marauders?printing=36d849b2-3d3a-4113-bc69-214a8a91e6d6",
@@ -13072,6 +14787,24 @@
       "Iconic Frame",
       "Stamped"
     ]
+  },
+  {
+    "id": "20d5d227-d18b-4039-9834-6ad5bc324557",
+    "sourceId": "20d5d227-d18b-4039-9834-6ad5bc324557",
+    "sourceUrl": "https://cyberpunktcg.com/cards/wraith-marauders?printing=20d5d227-d18b-4039-9834-6ad5bc324557",
+    "cardId": "wraith-marauders",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-029-daniel-valaisis",
+    "number": "029",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/20d5d227-d18b-4039-9834-6ad5bc324557.webp",
+    "artist": "DANIEL VALAISIS",
+    "localizedName": "Maraudeurs des Wraiths",
+    "printedRulesText": "Quand cette Unité vole un Gig, préparez une autre Unité alliée de Power égal à la valeur de ce Gig.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "6121b4c1-b899-4c69-a7d6-674bb6889e29",
@@ -13094,6 +14827,24 @@
     ]
   },
   {
+    "id": "2c63f11a-7ff6-4460-ad2f-a002405dc555",
+    "sourceId": "2c63f11a-7ff6-4460-ad2f-a002405dc555",
+    "sourceUrl": "https://cyberpunktcg.com/cards/don-t-fear-the-reaper?printing=2c63f11a-7ff6-4460-ad2f-a002405dc555",
+    "cardId": "don-t-fear-the-reaper",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-030-alex-eckman-lawn",
+    "number": "030",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/2c63f11a-7ff6-4460-ad2f-a002405dc555.webp",
+    "artist": "ALEX ECKMAN-LAWN",
+    "localizedName": "(Don't Fear) The Reaper",
+    "printedRulesText": "Épuisez toutes les Unités rivales. Puis, éliminez une Unité épuisée.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "aea6c98e-6bc5-4912-b7d8-a6558fde5eaf",
     "sourceId": "aea6c98e-6bc5-4912-b7d8-a6558fde5eaf",
     "sourceUrl": "https://cyberpunktcg.com/cards/we-gotta-live-together?printing=aea6c98e-6bc5-4912-b7d8-a6558fde5eaf",
@@ -13112,6 +14863,24 @@
       "Iconic Frame",
       "Stamped"
     ]
+  },
+  {
+    "id": "c95ba50a-07d9-4c10-a3e5-4dc5f25a30ef",
+    "sourceId": "c95ba50a-07d9-4c10-a3e5-4dc5f25a30ef",
+    "sourceUrl": "https://cyberpunktcg.com/cards/we-gotta-live-together?printing=c95ba50a-07d9-4c10-a3e5-4dc5f25a30ef",
+    "cardId": "we-gotta-live-together",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-031-olgierd-ciszak",
+    "number": "031",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/c95ba50a-07d9-4c10-a3e5-4dc5f25a30ef.webp",
+    "artist": "OLGIERD CISZAK",
+    "localizedName": "We Gotta Live Together",
+    "printedRulesText": "Si un Rival contrôle au moins 2 Gigs de plus que vous, jouez ce Programme pour 3 €$. \nJouez gratuitement jusqu'à 2 Unités de coût 3 ou moins de votre défausse.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "1f3e50a4-54ea-4e77-9ef3-0ceeb38d0278",
@@ -13134,6 +14903,24 @@
     ]
   },
   {
+    "id": "65e81385-8e38-4d8c-b0a7-09226fb72823",
+    "sourceId": "65e81385-8e38-4d8c-b0a7-09226fb72823",
+    "sourceUrl": "https://cyberpunktcg.com/cards/delamain-cab?printing=65e81385-8e38-4d8c-b0a7-09226fb72823",
+    "cardId": "delamain-cab",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-032-daniel-valaisis",
+    "number": "032",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/65e81385-8e38-4d8c-b0a7-09226fb72823.webp",
+    "artist": "DANIEL VALAISIS",
+    "localizedName": "Taxi Delamain",
+    "printedRulesText": "À la fin de votre tour, si cette Unité a volé au moins un Gig ce tour-ci, préparez 1 Eddie.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "317331e6-55bd-4c4d-9f50-700601f53db2",
     "sourceId": "317331e6-55bd-4c4d-9f50-700601f53db2",
     "sourceUrl": "https://cyberpunktcg.com/cards/maman-brigitte-spirit-of-death?printing=317331e6-55bd-4c4d-9f50-700601f53db2",
@@ -13152,6 +14939,24 @@
       "Iconic Frame",
       "Stamped"
     ]
+  },
+  {
+    "id": "5d923604-b3a1-4632-b5df-14dadb95caa5",
+    "sourceId": "5d923604-b3a1-4632-b5df-14dadb95caa5",
+    "sourceUrl": "https://cyberpunktcg.com/cards/maman-brigitte-spirit-of-death?printing=5d923604-b3a1-4632-b5df-14dadb95caa5",
+    "cardId": "maman-brigitte-spirit-of-death",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-033-topdog-entertainment",
+    "number": "033",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/5d923604-b3a1-4632-b5df-14dadb95caa5.webp",
+    "artist": "TOPDOG ENTERTAINMENT",
+    "localizedName": "Maman Brigitte — Esprit de la Mort",
+    "printedRulesText": "{Play} Vous pouvez défausser 2 Programmes. Si vous le faites, archivez une Unité rivale non équipée.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "779c63a5-cec1-47b0-a96e-51369a0ba186",
@@ -13174,6 +14979,24 @@
     ]
   },
   {
+    "id": "d378d160-5c3b-4e45-b9c0-2f5715f01ba0",
+    "sourceId": "d378d160-5c3b-4e45-b9c0-2f5715f01ba0",
+    "sourceUrl": "https://cyberpunktcg.com/cards/dying-night-v-s-pistol?printing=d378d160-5c3b-4e45-b9c0-2f5715f01ba0",
+    "cardId": "dying-night-v-s-pistol",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-034-ivan-shavrin",
+    "number": "034",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/d378d160-5c3b-4e45-b9c0-2f5715f01ba0.webp",
+    "artist": "IVAN SHAVRIN",
+    "localizedName": "Nuit Moribonde — Le Pistolet de V",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.) \n{Attack} Diminuez un Gig jusqu'à -2. À la fin de votre tour, si cette Unité est nommée « V », préparez 2 Eddies.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "fbe9274d-e4c4-415f-9914-0fbd5985c0b3",
     "sourceId": "fbe9274d-e4c4-415f-9914-0fbd5985c0b3",
     "sourceUrl": "https://cyberpunktcg.com/cards/netwatch-netdriver?printing=fbe9274d-e4c4-415f-9914-0fbd5985c0b3",
@@ -13192,6 +15015,24 @@
       "Iconic Frame",
       "Stamped"
     ]
+  },
+  {
+    "id": "5dea5d8a-4fc5-4598-8e3c-b21d0ef9d85d",
+    "sourceId": "5dea5d8a-4fc5-4598-8e3c-b21d0ef9d85d",
+    "sourceUrl": "https://cyberpunktcg.com/cards/netwatch-netdriver?printing=5dea5d8a-4fc5-4598-8e3c-b21d0ef9d85d",
+    "cardId": "netwatch-netdriver",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-035-mooncolony",
+    "number": "035",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/5dea5d8a-4fc5-4598-8e3c-b21d0ef9d85d.webp",
+    "artist": "MOONCOLONY",
+    "localizedName": "NetWatch Netdriver",
+    "printedRulesText": "(Équipez à une Unité alliée ou une Légende alliée face visible.) \nQuand cette Unité ou Légende est épuisée, piochez 1.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "575138c0-4eae-4d61-abf7-028557a884c8",
@@ -13214,6 +15055,24 @@
     ]
   },
   {
+    "id": "d7682383-70b5-4caa-9822-5a6cd46d02af",
+    "sourceId": "d7682383-70b5-4caa-9822-5a6cd46d02af",
+    "sourceUrl": "https://cyberpunktcg.com/cards/floor-it?printing=d7682383-70b5-4caa-9822-5a6cd46d02af",
+    "cardId": "floor-it",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-036-dofresh",
+    "number": "036",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/d7682383-70b5-4caa-9822-5a6cd46d02af.webp",
+    "artist": "DOFRESH",
+    "localizedName": "Pleins Gaz",
+    "printedRulesText": "{Quick} Donnez à une Unité rivale -1 Power ce tour-ci. Piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "5cc2112c-10b6-4491-963d-8b517244aaee",
     "sourceId": "5cc2112c-10b6-4491-963d-8b517244aaee",
     "sourceUrl": "https://cyberpunktcg.com/cards/maman-brigitte-spirit-of-death?printing=5cc2112c-10b6-4491-963d-8b517244aaee",
@@ -13232,6 +15091,24 @@
       "Iconic Frame",
       "Stamped"
     ]
+  },
+  {
+    "id": "0bb3e3d1-accf-4e8f-9e93-2d4c5c86168e",
+    "sourceId": "0bb3e3d1-accf-4e8f-9e93-2d4c5c86168e",
+    "sourceUrl": "https://cyberpunktcg.com/cards/maman-brigitte-spirit-of-death?printing=0bb3e3d1-accf-4e8f-9e93-2d4c5c86168e",
+    "cardId": "maman-brigitte-spirit-of-death",
+    "setId": "night-city-brawl-s-1",
+    "variantKey": "night-city-brawl-s-1-037-topdog-entertainment",
+    "number": "037",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/night-city-brawl-s-1/0bb3e3d1-accf-4e8f-9e93-2d4c5c86168e.webp",
+    "artist": "TOPDOG ENTERTAINMENT",
+    "localizedName": "Maman Brigitte — Esprit de la Mort",
+    "printedRulesText": "{Play} Vous pouvez défausser 2 Programmes. Si vous le faites, archivez une Unité rivale non équipée.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "10ca370b-deb7-4c58-a9f9-faf4f9708f6d",
@@ -13452,6 +15329,24 @@
     ]
   },
   {
+    "id": "595437cd-5180-4aef-b110-61950f738d8e",
+    "sourceId": "595437cd-5180-4aef-b110-61950f738d8e",
+    "sourceUrl": "https://cyberpunktcg.com/cards/adam-smasher-ender-of-legends?printing=595437cd-5180-4aef-b110-61950f738d8e",
+    "cardId": "adam-smasher-ender-of-legends",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-001-micha-dziekan",
+    "number": "001",
+    "rarity": "Epic",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/595437cd-5180-4aef-b110-61950f738d8e.webp",
+    "artist": "MICHAŁ DZIEKAN",
+    "localizedName": "Adam Smasher — Acheveur De Légendes",
+    "printedRulesText": "{Go Solo} (Payez le coût de cette Légende pour la jouer comme une Unité préparée. Elle peut attaquer ce tour-ci. Si elle quitte le terrain, retirez-la de la partie.)\n{Play} Éliminez une Unité rivale.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "352acc48-3842-4e10-b9b8-157f8a5f7286",
     "sourceId": "352acc48-3842-4e10-b9b8-157f8a5f7286",
     "sourceUrl": "https://cyberpunktcg.com/cards/dexter-deshawn-off-the-grid?printing=352acc48-3842-4e10-b9b8-157f8a5f7286",
@@ -13468,6 +15363,24 @@
     "treatments": [
       "Stamped"
     ]
+  },
+  {
+    "id": "00280859-865f-43ec-a87f-5a2c0f447d4e",
+    "sourceId": "00280859-865f-43ec-a87f-5a2c0f447d4e",
+    "sourceUrl": "https://cyberpunktcg.com/cards/dexter-deshawn-off-the-grid?printing=00280859-865f-43ec-a87f-5a2c0f447d4e",
+    "cardId": "dexter-deshawn-off-the-grid",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-002-envar",
+    "number": "002",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/00280859-865f-43ec-a87f-5a2c0f447d4e.webp",
+    "artist": "ENVAR",
+    "localizedName": "Dexter DeShawn — Indétectable",
+    "printedRulesText": "{Call} Choisissez un effet.\nDonnez +2 Power à une Unité alliée ce tour-ci. // Piochez 1.\n{Spend} Augmentez un Gig jusqu'à +2.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "c89f2af6-dab2-40fe-a29e-6e98c0322f5d",
@@ -13488,6 +15401,24 @@
     ]
   },
   {
+    "id": "5f758458-2eb7-4286-8649-15195a3b92a3",
+    "sourceId": "5f758458-2eb7-4286-8649-15195a3b92a3",
+    "sourceUrl": "https://cyberpunktcg.com/cards/royce-psycho-on-the-edge?printing=5f758458-2eb7-4286-8649-15195a3b92a3",
+    "cardId": "royce-psycho-on-the-edge",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-003-michal-ivan",
+    "number": "003",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/5f758458-2eb7-4286-8649-15195a3b92a3.webp",
+    "artist": "MICHAL IVAN",
+    "localizedName": "Royce — Psychoverdose",
+    "printedRulesText": "{Go Solo} (Payez le coût de cette Légende pour la jouer comme une Unité préparée. Elle peut attaquer ce tour-ci. Si elle quitte le terrain, retirez-la de la partie.)\nPendant votre tour, cette Légende a +2 Power pour chacun de ses Gears équipés.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "3282ec42-006b-4214-a6c9-7c09f1278b26",
     "sourceId": "3282ec42-006b-4214-a6c9-7c09f1278b26",
     "sourceUrl": "https://cyberpunktcg.com/cards/dum-dum-maelstrom-triggerman?printing=3282ec42-006b-4214-a6c9-7c09f1278b26",
@@ -13504,6 +15435,24 @@
     "treatments": [
       "Stamped"
     ]
+  },
+  {
+    "id": "de9ec3eb-8d07-4379-a481-f6a1aaa51347",
+    "sourceId": "de9ec3eb-8d07-4379-a481-f6a1aaa51347",
+    "sourceUrl": "https://cyberpunktcg.com/cards/dum-dum-maelstrom-triggerman?printing=de9ec3eb-8d07-4379-a481-f6a1aaa51347",
+    "cardId": "dum-dum-maelstrom-triggerman",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-004-ukasz-poller",
+    "number": "004",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/de9ec3eb-8d07-4379-a481-f6a1aaa51347.webp",
+    "artist": "ŁUKASZ POLLER",
+    "localizedName": "Dum Dum — As de la Gâchette du Maelstrom",
+    "printedRulesText": "{Call} Vous pouvez éliminer un Gear allié. Si vous le faites, piochez 2. Sinon, piochez 1.\n{Quick} 1 €$, {Spend} Donnez à une Unité alliée +1 Power ce tour-ci pour chacun de ses Gears équipés.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "80efc8c5-c352-4d3a-b713-bfcf593a7f2a",
@@ -13524,6 +15473,24 @@
     ]
   },
   {
+    "id": "76c9d33b-bb78-40f6-803b-007f45e5de9b",
+    "sourceId": "76c9d33b-bb78-40f6-803b-007f45e5de9b",
+    "sourceUrl": "https://cyberpunktcg.com/cards/muamar-reyes-el-capita-n?printing=76c9d33b-bb78-40f6-803b-007f45e5de9b",
+    "cardId": "muamar-reyes-el-capita-n",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-005-mooncolony",
+    "number": "005",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/76c9d33b-bb78-40f6-803b-007f45e5de9b.webp",
+    "artist": "MOONCOLONY",
+    "localizedName": "Muamar Reyes — El Capitán",
+    "printedRulesText": "{Call} Choisissez un effet.\nUne Unité alliée ne peut pas être éliminée au combat ce tour-ci. // Piochez 1.\n{Spend} Ajustez un Gig jusqu'à +1 ou -1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "ce3dacce-fb10-488c-9001-95fe7f3329a4",
     "sourceId": "ce3dacce-fb10-488c-9001-95fe7f3329a4",
     "sourceUrl": "https://cyberpunktcg.com/cards/rogue-amendiares-preem-solo?printing=ce3dacce-fb10-488c-9001-95fe7f3329a4",
@@ -13540,6 +15507,24 @@
     "treatments": [
       "Stamped"
     ]
+  },
+  {
+    "id": "4054ccb4-9fc8-4588-8277-fb7c3dccc279",
+    "sourceId": "4054ccb4-9fc8-4588-8277-fb7c3dccc279",
+    "sourceUrl": "https://cyberpunktcg.com/cards/rogue-amendiares-preem-solo?printing=4054ccb4-9fc8-4588-8277-fb7c3dccc279",
+    "cardId": "rogue-amendiares-preem-solo",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-006-olgierd-ciszak",
+    "number": "006",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/4054ccb4-9fc8-4588-8277-fb7c3dccc279.webp",
+    "artist": "OLGIERD CISZAK",
+    "localizedName": "Rogue Amendiares — Solo Premios",
+    "printedRulesText": "{Go Solo} (Payez le coût de cette Légende pour la jouer comme une Unité préparée. Elle peut attaquer ce tour-ci. Si elle quitte le terrain, retirez-la de la partie.)\nQuand une Légende alliée vole un Gig, si sa valeur est paire, piochez 1. Si sa valeur est impaire, un Rival défausse 1.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "34436540-0422-4a92-8757-c15dded67ea9",
@@ -13560,6 +15545,24 @@
     ]
   },
   {
+    "id": "7f38f6ab-10b1-4aaf-b295-53e703921874",
+    "sourceId": "7f38f6ab-10b1-4aaf-b295-53e703921874",
+    "sourceUrl": "https://cyberpunktcg.com/cards/goro-takemura-vengeful-bodyguard?printing=7f38f6ab-10b1-4aaf-b295-53e703921874",
+    "cardId": "goro-takemura-vengeful-bodyguard",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-007-daniel-valaisis",
+    "number": "007",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/7f38f6ab-10b1-4aaf-b295-53e703921874.webp",
+    "artist": "DANIEL VALAISIS",
+    "localizedName": "Goro Takemura — Garde du Corps Vindicatif",
+    "printedRulesText": "{Quick} 1 €$, {Spend} Donnez {Blocker} à une Unité alliée de coût 4 ou moins ce tour-ci. Si vous contrôlez au moins une paire de Gigs de même valeur, donnez-lui aussi +1 Power ce tour-ci.\nQuand une Unité alliée utilise {Blocker}, vous pouvez défausser 1. Si vous le faites, piochez 1.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "c12c4516-264b-4f7a-9d99-de7bc3ebb0fb",
     "sourceId": "c12c4516-264b-4f7a-9d99-de7bc3ebb0fb",
     "sourceUrl": "https://cyberpunktcg.com/cards/padre-man-of-the-cross?printing=c12c4516-264b-4f7a-9d99-de7bc3ebb0fb",
@@ -13576,6 +15579,24 @@
     "treatments": [
       "Stamped"
     ]
+  },
+  {
+    "id": "71a05ddb-312c-4976-bdfd-06d9f6feffed",
+    "sourceId": "71a05ddb-312c-4976-bdfd-06d9f6feffed",
+    "sourceUrl": "https://cyberpunktcg.com/cards/padre-man-of-the-cross?printing=71a05ddb-312c-4976-bdfd-06d9f6feffed",
+    "cardId": "padre-man-of-the-cross",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-008-mooncolony",
+    "number": "008",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/71a05ddb-312c-4976-bdfd-06d9f6feffed.webp",
+    "artist": "MOONCOLONY",
+    "localizedName": "Padre — Arborant sa Croix",
+    "printedRulesText": "{Call} Choisissez un effet.\nÉpuisez une Unité rivale. // Piochez 1.\n{Spend} Définissez la valeur du Gig d'un joueur à la valeur du Gig d'un autre joueur.",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "e2b7ca4a-ebb6-48d4-b0b7-59865c6c85f0",
@@ -13596,6 +15617,24 @@
     ]
   },
   {
+    "id": "99db9a1f-e9ec-4998-9125-b7bcb79c5054",
+    "sourceId": "99db9a1f-e9ec-4998-9125-b7bcb79c5054",
+    "sourceUrl": "https://cyberpunktcg.com/cards/alt-cunningham-soulkiller-architect?printing=99db9a1f-e9ec-4998-9125-b7bcb79c5054",
+    "cardId": "alt-cunningham-soulkiller-architect",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-009-daniel-valaisis",
+    "number": "009",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/99db9a1f-e9ec-4998-9125-b7bcb79c5054.webp",
+    "artist": "DANIEL VALAISIS",
+    "localizedName": "Alt Cunningham — Conceptrice du Tueur d'Âmes",
+    "printedRulesText": "{Spend} Ce tour-ci, votre prochain Programme coûte -1 €$ par Gig allié à son minimum, jusqu'à un minimum de 1 €$.\n1 €$, {Spend} Jouez un Programme de votre défausse. Archivez-le après l'avoir joué. (Vous payez toujours son coût.)",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "ecfd2d86-f9dc-47c4-a4ec-4a1155217dc7",
     "sourceId": "ecfd2d86-f9dc-47c4-a4ec-4a1155217dc7",
     "sourceUrl": "https://cyberpunktcg.com/cards/wakako-okada-peace-and-harmony?printing=ecfd2d86-f9dc-47c4-a4ec-4a1155217dc7",
@@ -13614,6 +15653,24 @@
     ]
   },
   {
+    "id": "bbbd9bd0-71d3-4a39-8e2d-3d3f10aee23a",
+    "sourceId": "bbbd9bd0-71d3-4a39-8e2d-3d3f10aee23a",
+    "sourceUrl": "https://cyberpunktcg.com/cards/wakako-okada-peace-and-harmony?printing=bbbd9bd0-71d3-4a39-8e2d-3d3f10aee23a",
+    "cardId": "wakako-okada-peace-and-harmony",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-010-mooncolony",
+    "number": "010",
+    "rarity": "Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/bbbd9bd0-71d3-4a39-8e2d-3d3f10aee23a.webp",
+    "artist": "MOONCOLONY",
+    "localizedName": "Wakako Okada — Paix et Harmonie",
+    "printedRulesText": "{Call} Choisissez un effet.\nDonnez -2 Power à une Unité rivale ce tour-ci. // Piochez 1.\n{Spend} Diminuez un Gig jusqu'à -2.",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "e6663f3c-5668-4bab-ba3c-6e2b78636f2c",
     "sourceId": "e6663f3c-5668-4bab-ba3c-6e2b78636f2c",
     "sourceUrl": "https://cyberpunktcg.com/cards/gorilla-arms?printing=e6663f3c-5668-4bab-ba3c-6e2b78636f2c",
@@ -13630,6 +15687,56 @@
     "treatments": [
       "Stamped"
     ]
+  },
+  {
+    "id": "68e56b4e-9c21-4d09-a270-9b3cc355fa30",
+    "sourceId": "68e56b4e-9c21-4d09-a270-9b3cc355fa30",
+    "sourceUrl": "https://cyberpunktcg.com/cards/gorilla-arms?printing=68e56b4e-9c21-4d09-a270-9b3cc355fa30",
+    "cardId": "gorilla-arms",
+    "setId": "pre-release-retail",
+    "variantKey": "pre-release-retail-011-topdog-entertainment",
+    "number": "011",
+    "rarity": "Nova Rare",
+    "language": "FR",
+    "finish": "Foil",
+    "imageUrl": "/cards/pre-release-retail/68e56b4e-9c21-4d09-a270-9b3cc355fa30.webp",
+    "artist": "TOPDOG ENTERTAINMENT",
+    "localizedName": "Bras de Gorille",
+    "printedRulesText": "La première fois que cette Unité vole au moins un Gig chaque tour, volez un Gig rival ayant une valeur différente des Gigs alliés.",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "9b4231da-b5e9-44ee-9de9-75ba6a6e6de6",
+    "sourceId": "9b4231da-b5e9-44ee-9de9-75ba6a6e6de6",
+    "sourceUrl": "https://cyberpunktcg.com/cards/lucyna-kushinada-fresh-beginnings?printing=9b4231da-b5e9-44ee-9de9-75ba6a6e6de6",
+    "cardId": "lucyna-kushinada-fresh-beginnings",
+    "setId": "set-1-promos",
+    "variantKey": "set-1-promos-004a-pandart-studio",
+    "number": "004a",
+    "rarity": "Nova Rare",
+    "language": "EN",
+    "finish": "Standard",
+    "imageUrl": "/cards/set-1-promos/9b4231da-b5e9-44ee-9de9-75ba6a6e6de6.webp",
+    "artist": "PANDART STUDIO",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "0cf807a8-4131-426a-a67d-4d03e372b05e",
+    "sourceId": "0cf807a8-4131-426a-a67d-4d03e372b05e",
+    "sourceUrl": "https://cyberpunktcg.com/cards/lucyna-kushinada-fresh-beginnings?printing=0cf807a8-4131-426a-a67d-4d03e372b05e",
+    "cardId": "lucyna-kushinada-fresh-beginnings",
+    "setId": "set-1-promos",
+    "variantKey": "set-1-promos-004b-pandart-studio",
+    "number": "004b",
+    "rarity": "Nova Rare",
+    "language": "EN",
+    "finish": "Standard",
+    "imageUrl": "/cards/set-1-promos/0cf807a8-4131-426a-a67d-4d03e372b05e.webp",
+    "artist": "PANDART STUDIO",
+    "status": "active",
+    "treatments": []
   },
   {
     "id": "71a35836-e604-4d98-ab56-58bfb4581033",

@@ -1740,6 +1740,21 @@
     "eddiable": true
   },
   {
+    "id": "lucyna-kushinada-fresh-beginnings",
+    "name": "LUCYNA KUSHINADA",
+    "subtitle": "Fresh Beginnings",
+    "color": "Blue",
+    "cardType": "Legend",
+    "ram": 2,
+    "rulesText": "{Call}: Draw 1. If you control 2 or more min Gigs, draw 2 instead.",
+    "classifications": [
+      "Maine's Crew",
+      "Merc",
+      "Netrunner"
+    ],
+    "eddiable": true
+  },
+  {
     "id": "wakako-okada-peace-and-harmony",
     "name": "WAKAKO OKADA",
     "subtitle": "Peace and Harmony",

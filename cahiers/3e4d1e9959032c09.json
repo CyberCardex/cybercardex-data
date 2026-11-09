@@ -1,0 +1,331 @@
+{
+  "base": "3e4d1e9959032c09",
+  "revision": 1,
+  "variantOrder": [
+    "edgerunner-open-s-1-031-divebound-studio",
+    "set-1-promos-004a-pandart-studio",
+    "set-1-promos-004b-pandart-studio",
+    "welcome-to-night-city-retail-168-divebound"
+  ],
+  "printings": [
+    {
+      "id": "cb12d8c4-64b1-4e53-898e-8fd46aeac6bf",
+      "sourceId": "cb12d8c4-64b1-4e53-898e-8fd46aeac6bf",
+      "sourceUrl": "https://cyberpunktcg.com/cards/johnny-silverhand-rocking-renegade?printing=cb12d8c4-64b1-4e53-898e-8fd46aeac6bf",
+      "cardId": "johnny-silverhand-rocking-renegade",
+      "setId": "welcome-to-night-city-retail",
+      "variantKey": "welcome-to-night-city-retail-168-divebound",
+      "number": "168",
+      "rarity": "Iconic Secret",
+      "language": "EN",
+      "finish": "Foil",
+      "imageUrl": "/cards/welcome-to-night-city-retail/cb12d8c4-64b1-4e53-898e-8fd46aeac6bf.webp",
+      "artist": "DIVEBOUND",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "7d1960a6-2d90-4278-937c-1e6905a3a396",
+      "sourceId": "7d1960a6-2d90-4278-937c-1e6905a3a396",
+      "sourceUrl": "https://cyberpunktcg.com/cards/johnny-silverhand-rocking-renegade?printing=7d1960a6-2d90-4278-937c-1e6905a3a396",
+      "cardId": "johnny-silverhand-rocking-renegade",
+      "setId": "welcome-to-night-city-retail",
+      "variantKey": "welcome-to-night-city-retail-168-divebound",
+      "number": "168",
+      "rarity": "Iconic Secret",
+      "language": "FR",
+      "finish": "Foil",
+      "imageUrl": "/cards/welcome-to-night-city-retail/7d1960a6-2d90-4278-937c-1e6905a3a396.webp",
+      "artist": "DIVEBOUND",
+      "localizedName": "Johnny Silverhand — Rock'n'Rebelle",
+      "printedRulesText": "2 €$, {Spend} Une Unité alliée peut attaquer une Unité rivale épuisée le tour où elle est jouée. Si c'est une Unité ROCKER, donnez-lui aussi +2 Power ce tour-ci. Cet effet coûte -1 €$ par Gig allié de valeur 8+.",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
+      "sourceId": "b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
+      "sourceUrl": "https://cyberpunktcg.com/cards/johnny-silverhand-rocking-renegade?printing=b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
+      "cardId": "johnny-silverhand-rocking-renegade",
+      "setId": "edgerunner-open-s-1",
+      "variantKey": "edgerunner-open-s-1-031-divebound-studio",
+      "number": "031",
+      "rarity": "Nova Rare",
+      "language": "EN",
+      "finish": "Foil",
+      "imageUrl": "/cards/edgerunner-open-s-1/b6f81fe8-d0ed-4dcb-b025-058559d0cf98.webp",
+      "artist": "DIVEBOUND STUDIO",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "9b4231da-b5e9-44ee-9de9-75ba6a6e6de6",
+      "sourceId": "9b4231da-b5e9-44ee-9de9-75ba6a6e6de6",
+      "sourceUrl": "https://cyberpunktcg.com/cards/lucyna-kushinada-fresh-beginnings?printing=9b4231da-b5e9-44ee-9de9-75ba6a6e6de6",
+      "cardId": "lucyna-kushinada-fresh-beginnings",
+      "setId": "set-1-promos",
+      "variantKey": "set-1-promos-004a-pandart-studio",
+      "number": "004a",
+      "rarity": "Nova Rare",
+      "language": "EN",
+      "finish": "Standard",
+      "imageUrl": "/cards/set-1-promos/9b4231da-b5e9-44ee-9de9-75ba6a6e6de6.webp",
+      "artist": "PANDART STUDIO",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "0cf807a8-4131-426a-a67d-4d03e372b05e",
+      "sourceId": "0cf807a8-4131-426a-a67d-4d03e372b05e",
+      "sourceUrl": "https://cyberpunktcg.com/cards/lucyna-kushinada-fresh-beginnings?printing=0cf807a8-4131-426a-a67d-4d03e372b05e",
+      "cardId": "lucyna-kushinada-fresh-beginnings",
+      "setId": "set-1-promos",
+      "variantKey": "set-1-promos-004b-pandart-studio",
+      "number": "004b",
+      "rarity": "Nova Rare",
+      "language": "EN",
+      "finish": "Standard",
+      "imageUrl": "/cards/set-1-promos/0cf807a8-4131-426a-a67d-4d03e372b05e.webp",
+      "artist": "PANDART STUDIO",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "dfd5d1df-2b47-4ddd-9d6a-35430a892cfc",
+      "sourceId": "dfd5d1df-2b47-4ddd-9d6a-35430a892cfc",
+      "sourceUrl": "https://cyberpunktcg.com/cards/nocturne-op55-n1?printing=dfd5d1df-2b47-4ddd-9d6a-35430a892cfc",
+      "cardId": "nocturne-op55-n1",
+      "setId": "welcome-to-night-city-beta",
+      "variantKey": "welcome-to-night-city-beta-beta134-micha-dziekan",
+      "number": "β134",
+      "rarity": "Rare",
+      "language": "EN",
+      "finish": "Foil",
+      "imageUrl": "/cards/welcome-to-night-city-beta/dfd5d1df-2b47-4ddd-9d6a-35430a892cfc.webp",
+      "artist": "DANIEL VALAISIS",
+      "printedArtist": "MICHAŁ DZIEKAN",
+      "status": "active",
+      "treatments": [
+        "Beta Symbol"
+      ]
+    },
+    {
+      "id": "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+      "sourceId": "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+      "sourceUrl": "https://cyberpunktcg.com/cards/nocturne-op55-n1?printing=70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+      "cardId": "nocturne-op55-n1",
+      "setId": "welcome-to-night-city-retail",
+      "variantKey": "welcome-to-night-city-retail-134-micha-dziekan",
+      "number": "134",
+      "rarity": "Rare",
+      "language": "EN",
+      "finish": "Standard",
+      "imageUrl": "/cards/welcome-to-night-city-retail/70c7f11e-e41d-44f2-b5cd-e8568915d6ac.webp",
+      "artist": "DANIEL VALAISIS",
+      "printedArtist": "MICHAŁ DZIEKAN",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "1563fec7-3eaa-41af-be1f-514f4e86d692",
+      "sourceId": "1563fec7-3eaa-41af-be1f-514f4e86d692",
+      "sourceUrl": "https://cyberpunktcg.com/cards/nocturne-op55-n1?printing=1563fec7-3eaa-41af-be1f-514f4e86d692",
+      "cardId": "nocturne-op55-n1",
+      "setId": "welcome-to-night-city-retail",
+      "variantKey": "welcome-to-night-city-retail-134-micha-dziekan",
+      "number": "134",
+      "rarity": "Rare",
+      "language": "FR",
+      "finish": "Standard",
+      "imageUrl": "/cards/welcome-to-night-city-retail/1563fec7-3eaa-41af-be1f-514f4e86d692.webp",
+      "artist": "DANIEL VALAISIS",
+      "printedArtist": "MICHAŁ DZIEKAN",
+      "localizedName": "Nocturne OP55 N1",
+      "printedRulesText": "Si votre zone Fixer est vide, jouez ce Programme pour 1 €$. Choisissez un effet.\nPiochez 2. // Une Unité ne peut pas attaquer jusqu'à votre prochain tour. // Une Légende alliée peut utiliser {Go Solo} pour -2 €$ ce tour-ci, jusqu'à un minimum de 1 €$.",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "98b18e2d-a955-43c7-880c-6233166c673a",
+      "sourceId": "98b18e2d-a955-43c7-880c-6233166c673a",
+      "sourceUrl": "https://cyberpunktcg.com/cards/judy-a-lvarez-nothing-to-doubt?printing=98b18e2d-a955-43c7-880c-6233166c673a",
+      "cardId": "judy-a-lvarez-nothing-to-doubt",
+      "setId": "welcome-to-night-city-beta",
+      "variantKey": "welcome-to-night-city-beta-beta116-ilya-kuvshinov",
+      "number": "β116",
+      "rarity": "Secret",
+      "language": "EN",
+      "finish": "Foil",
+      "imageUrl": "/cards/welcome-to-night-city-beta/98b18e2d-a955-43c7-880c-6233166c673a.webp",
+      "artist": "ILYA KUVSHINOV",
+      "printedArtist": "ILYA KUSHINOV",
+      "status": "active",
+      "treatments": [
+        "Beta Symbol"
+      ]
+    },
+    {
+      "id": "dcfe8370-9abf-4395-b50b-efea505609ba",
+      "sourceId": "dcfe8370-9abf-4395-b50b-efea505609ba",
+      "sourceUrl": "https://cyberpunktcg.com/cards/judy-a-lvarez-nothing-to-doubt?printing=dcfe8370-9abf-4395-b50b-efea505609ba",
+      "cardId": "judy-a-lvarez-nothing-to-doubt",
+      "setId": "welcome-to-night-city-retail",
+      "variantKey": "welcome-to-night-city-retail-116-ilya-kuvshinov",
+      "number": "116",
+      "rarity": "Secret",
+      "language": "EN",
+      "finish": "Standard",
+      "imageUrl": "/cards/welcome-to-night-city-retail/dcfe8370-9abf-4395-b50b-efea505609ba.webp",
+      "artist": "ILYA KUVSHINOV",
+      "printedArtist": "ILYA KUSHINOV",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "ebae29cb-45b3-4f85-8903-67d98da06b00",
+      "sourceId": "ebae29cb-45b3-4f85-8903-67d98da06b00",
+      "sourceUrl": "https://cyberpunktcg.com/cards/judy-a-lvarez-nothing-to-doubt?printing=ebae29cb-45b3-4f85-8903-67d98da06b00",
+      "cardId": "judy-a-lvarez-nothing-to-doubt",
+      "setId": "welcome-to-night-city-retail",
+      "variantKey": "welcome-to-night-city-retail-116-ilya-kuvshinov",
+      "number": "116",
+      "rarity": "Secret",
+      "language": "FR",
+      "finish": "Standard",
+      "imageUrl": "/cards/welcome-to-night-city-retail/ebae29cb-45b3-4f85-8903-67d98da06b00.webp",
+      "artist": "ILYA KUVSHINOV",
+      "printedArtist": "ILYA KUSHINOV",
+      "localizedName": "Judy Álvarez — Pas l'Ombre d'un Doute",
+      "printedRulesText": "1 €$, {Spend} Révélez la carte du dessus de votre deck. Vous pouvez la jouer gratuitement. Sinon, ajoutez-la à votre main.",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "12337d92-713c-4c7c-8a16-595a7b4717f1",
+      "sourceId": "12337d92-713c-4c7c-8a16-595a7b4717f1",
+      "sourceUrl": "https://cyberpunktcg.com/cards/yorinobu-arasaka-embracing-destruction?printing=12337d92-713c-4c7c-8a16-595a7b4717f1",
+      "cardId": "yorinobu-arasaka-embracing-destruction",
+      "setId": "box-toppers-beta",
+      "variantKey": "box-toppers-beta-beta001-vincenzo-riccardi",
+      "number": "β001",
+      "rarity": "Nova Rare",
+      "language": "EN",
+      "finish": "Foil",
+      "imageUrl": "/cards/box-toppers-beta/12337d92-713c-4c7c-8a16-595a7b4717f1.webp",
+      "artist": "VINCENZO RICCARDI",
+      "printedArtist": "VINCENZO RACCARDI",
+      "status": "active",
+      "treatments": [
+        "Alt Art",
+        "Beta Symbol"
+      ]
+    }
+  ],
+  "corrections": {
+    "sets": [],
+    "cards": [],
+    "printings": [
+      "dfd5d1df-2b47-4ddd-9d6a-35430a892cfc",
+      "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+      "1563fec7-3eaa-41af-be1f-514f4e86d692",
+      "98b18e2d-a955-43c7-880c-6233166c673a",
+      "dcfe8370-9abf-4395-b50b-efea505609ba",
+      "ebae29cb-45b3-4f85-8903-67d98da06b00",
+      "12337d92-713c-4c7c-8a16-595a7b4717f1"
+    ]
+  },
+  "cards": [
+    {
+      "id": "lucyna-kushinada-fresh-beginnings",
+      "name": "LUCYNA KUSHINADA",
+      "subtitle": "Fresh Beginnings",
+      "color": "Blue",
+      "cardType": "Legend",
+      "ram": 2,
+      "rulesText": "{Call}: Draw 1. If you control 2 or more min Gigs, draw 2 instead.",
+      "classifications": [
+        "Maine's Crew",
+        "Merc",
+        "Netrunner"
+      ],
+      "eddiable": true
+    }
+  ],
+  "sets": [],
+  "scan": [
+    [
+      "98b18e2d-a955-43c7-880c-6233166c673a",
+      "2tnZ3dja29vl3hcM8SkB3+EB2tnZ9efl9OXs5tzm3uT13uPs3trd3NjY3Obp4h0H8Bwc4/Uo/vLuLiYlIhQW/uvx49/z3dvl3trb29jS2+Hb3+/q6jMG9QkXLSYdQUFIQkBGKyEk7Ov73Nvl39vj3NjT29rS2eLY5RvtHx4VNzs8P0RXLzA2PDU3HRQR393b3tvf3djV3djS2drQ5vTdNzY3PkNKGwsKDggDJBkUKxwW5eDg3dre3tjW5Nnc2NfN4N3REvvzQTcuJxYYGRgdPDo/LiEa3tvh3Nrc3NjT7tvp2tfO8+vjKR0YQTwwREZMRkhSSEVLEQcH3trl3dri29rY6drj6dvgCwH4PTo1PjMnREA+RUlTREFECwIL3trl+xsn1dLX1t3U1c3I1tDS3RIj2dfd1+zq7h4WKQ8NDvcC2dXi2tLX2M3IDCQEUUhMPjAv8uno2dnh4s3SEf/tY1ZNY1hW5Nrf2d3r487cHgT6Vi0nRzk32tLX8v3+8O/yMUVTA+7iAO/r0dDT7fn37+/xAv79Ew0EFQgD9vv4Ah4PCyc0AQ0QDxUKDxADDUVc"
+    ],
+    [
+      "dfd5d1df-2b47-4ddd-9d6a-35430a892cfc",
+      "2ucA1Nvd0dXLFBEFMzkeOVFQNjwtDAQN/fcS/PcX9fwm5+4M2uT209ve29zYPTw6P1hwNTRGRU1ABPsHCf8NIxQnFAkiAv0U2d3a3Oz5APkDRTQ4S0RVSDtBRzMgMTE28/H4A/oANycuGQ411N7c2ury9PIEEAkQLhsvOTInPDQdCP/8APv57+jvKiQWPDoj0tjS1d7b3ejw/fYMFwkIPSL9JigTICAS9vT66ePwHioqNkQj0tjQ0tnS09rT3N/gHxLuJB/7PFUyExoN5+Hq4t/k5eTv5OHo0tfP0tfP09jR3t/cQGpXITYqCR4l5uTk497i5N7j4NvX3NrX0NPF0NPG0NTI397a4d3Q3djP3drX2dfR4dvZ4drX3tjQ29jRBTFj7er3Egn/CPDj8PgW4hNA5PELCOrXdmcvUC0DLgP9BeHk2c/U/OLeWy0FUy/wD+ndSkUk2dLY2sLAPDL6EwPo8MfJ5tni2+0EIEZrK0hpCAgYDg0c1rqu2e8G5+//7fH98fP95d/l08LB3foS7QAS4Oz58wf2MFvv19nj9BEF6gsn4wAa9BIf6v4B5PEE"
+    ],
+    [
+      "dcfe8370-9abf-4395-b50b-efea505609ba",
+      "2tnZ3dja29vl3hYM8SkB3+EB2tnZ9efl9OXs5tzm3uT13uPs3trd3NjY3Obp4h0H8Bwc4/Uo/vLuLiYlIhQW/uvx49/z3dvl3trb29jS2+Hb3+7q6jMG9QkXLSYdQUJIQkFHKyEk7Ov73Nvl39vj3NjT29rS2uLY5RvtHx4UNzs8P0RXMDA2PDU3HRQR393b3tvf3djV3djS2drQ5vTdNzY3PkNKGwsKDQgDJBoVKxwW5eDg3dre3tjW5Nnc2NfN4N3REfvzQTcuJxYYGRgdPDs/LiEa3tvh3Nrc3NjT7tvp2tfO9OvjKR0YQTwwREZMRkhSSEVLEQcH3trl3dri29rY6drj6NrgCwH3PTo1PjMnREA+RUlTREFDCwIL3trm+xsn1dLX1t3T1c3I1tDS3BIj2dfd1+zq7R4WKQ8NDvcC2dXi2tLX2M3IDCQEUUdMPjAv8uno2dnh4s3SEf/tYlZMY1dW5Nrf2d3r487cHQT6Vi0nRzk32tLW8v3+8O/yMUVTA+7iAO/r0dDT7fn37+/xAv79EwwEFQgD9vv4ByMQCyc0AQwPDxUKDxADDUVc"
+    ],
+    [
+      "ebae29cb-45b3-4f85-8903-67d98da06b00",
+      "29ra3tnb2tvm2hQL6yX62uEC29na9+fk9uTt5t3n3eT23uPt3tre3dnZ2ubq3RsF6xcV3e8l//LsLickJBQVAery4d/23Nzn4Nrc3dnT3OHc3e/q5C/+8wcVLSUaQUJLQUJJLCAj6+v829zo39vk3tjT3NrS2uPZ4RnnHh4QNjw8PkZbMTE4PDY3HxMO4N3d3tvg39nV3tjT29rR5/TcNzc4PURNHAsHDwgCJRkTLBwT5uHh3dvg4NnX5djb29jO4t7RE/nuQDgsJxUVGxgcOzxBLyEY3tzj3Nvd3tjT8Nrp3NjO9eviKR0WQD0vREhPRUlWRkZOEQgG3dvo3Nvk3NrZ69nj6trgDAH1PDs0PTQkQ0E/REpWQ0JFCwIL3dvo+xgn1NLW1t3S1s3G1tDR3Q8l2Nje1Ovq5RkOKg8NDvYC19Xi2tLX2c3HCCQAUEpQPjIv8+nn2djh48vREv/pYVlQYVta5Nng2Nzs483bHwT4VSwiRzw52dLY8P3/8PDzKTxOFAT5Ae/q0dHT7vj57evtBf//Fg8EFAP89/v5CSYS/REeBxIWGCEYERECDEJd"
+    ],
+    [
+      "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+      "2uf/1Nvd0dXLFBEFNDgdOVFQNjwsDAQN/fcR/PcX9fwm5+4M2+T209ve293ZPTw5P1hwNTRGRU1ABPsHCf8OJBQnFAkiAv0U2d3Z3Oz5APkERTQ3S0RVSDtBRzMgMTE38/H4A/oANyctGQ411N7c2urz9PIFDwkPLhsvOTIoPDQdCP/8Afv67+jwKSMWPDoj0tjS1d7b3ejw/fcNGAkJPSL9JicSIB8S9vT56ePvHioqN0Qk0tjQ0tnS09rT3N/gHxLtJB/6PFUzExoN5+Hq4t/l5eTv5OHp0tfP0dfP0tjQ3t/cQGpXITYqCR4m5uTk497h5N7j4NvX3NrX0NPF0NPG0NTI397a4d3R3djP3drX2dfR4dvZ4drX3tjQ29jRBTFi7er3Egn+CfDj8PgV4hNA5PALCOrWdmYuUCwDLQP9BeHl2M/U++LfWi0FUy/xD+jeSkUk2NHY2sK/PDL6EwPn78fJ5tni2+0EIEVrK0hqCAcXDgwc1rqu2e4H5u//7fH98fL85d/k0sLB3foT7QAT4Oz58wf2L1vw19ni+hkH6gsn4gAa9BIe6v0B4/EE"
+    ],
+    [
+      "1563fec7-3eaa-41af-be1f-514f4e86d692",
+      "2uf+1Nvc0dXLFBEFNDgdOVFRNjwtDAQN/fcS/PcW9fwm5+4M2uT209vd293YPTw5P1hxNTRGRU1ABfsHCf8NIxQnFAkiAf0U2t3a3Oz5APkDRTQ4S0RVSDtBRzMgMTE28/H4A/oANyctGA011N7c2ury9PIFDwkPLhswOTIpPDQdCP/9APz67+jvKSMWPDoj0tjS1d7b3ejx/fYMFwkHPSL9JygTICAR9vT56ePvHyorN0Qj0tjR0tnS09rS3N/gHxLuJB/7PFUzExoN5+Hp4d/k5eTv5OHo0tfP0tfQ09jR3t/cQGpXITYpCR4m5uTk497i5N7k4NvX3NrX0NPF0NPG0NTI397a4d3R3djP3drX2dfR4dvZ4drX3tjR29jRBjRg7er3Ewv/CvHl8voV4hU+5fIJCevYd2otUS8DLwX9BuLm2dDV/OPgXDAEVDLwEOnfS0gi2dLY28LBPTX6FATo8cfK59nj3O4EIUlpLEtnCQoYDw4c17qx5QIc5+/+8fYC6ubt28/R08LC3/wUBSQ87QAQ8ggbFDbu4ef18xD54fwU3fcN5fwC4vLz1+Du"
+    ],
+    [
+      "cb12d8c4-64b1-4e53-898e-8fd46aeac6bf",
+      "4NDZ+Nbf5cjJ4ej66O4CC/wbLAorLRAzGvsSCt7jAt3jAtje5dLd9dHY+dPb6QQOzwIG3gAID+XtKOfrJebpIOXpGuTqEeHnH+HoB9LY+NLY2gYBxUFJ0D1H2zQ/7wYOKPj0RSALPQ/4LO/lJOHlB9HU5+Dbxyks02Rn2kNIEldYtPLyJQ4GVyX9QAPtJObmKeLkDNTV6NvezB0dzEhE1VNH8Dc/6RINOwb4SxX7QPvrJ+foN+rkHdXR+Ort4/v0vBgT0FhXyh8l2urZKhIAOOzuMeruJufsK+XoC8vL9N/g2Q8JzOHY4GZr5kZWv/Ps/wrwIiQgOe7yK+ntJ+bp+snE3//70OTa2Q0B5CUa7kU6tuPZ2wX3CTQoFFxUHgMB67nFBNbi8dff/eHuHfobEcXMHtTc+eDq3gEFNwsgMuPiH93ePNzb8+jjzHB06jQ3dDobR/fiP9vY+eTZ3TEp5jE0LRgLMuzoJNfW2vz14EdE5SYo3SkH9zsZEAse1+0F+Ro3BzY45R8O6EQv7g8l9/cN8/0N1gYK+hoqvvDcLv7nFur/0tbSv+zWyNe5MdjY"
+    ],
+    [
+      "7d1960a6-2d90-4278-937c-1e6905a3a396",
+      "4dHa+dff5snL0dbe5On59+PzLg8zJwMgHfgMCt/kAt3kAtnf5dPe9dLZ+dTb6gUOzwIG3gEJEObuKefsJefrIebqG+XrEuLoH+LpB9PZ+dPZ2gYCxkFL0D1I2zVA7wcPKPn1RSAMPhD5LPDlJOLmB9LV6OHcyCkt1GRo20RJEldZtfPyJQ4HVyX+QATuJOfnKePlDdXW6NvfzR0ezUhG1lNI8ThA6hMPOwb5SxX8QPzsJ+jpN+vlHdbT+evv5Pz2vRgU0VhZyx8m2+vaKhMBOO3vMuvuJ+jtK+bpDMzM9eDh2Q8LzOLY4WVs50ZYv/Tu/wrwIyUhOu/zK+nuKOfq+srF3wD80OXa2Q0C5CUc70Y7t+Tb3AX5CTUoFFxVHgQD6bnDAtXg79be/ODtHfoYEMTMHtTa7dLU1vn3MgUSM+LhH93dPtza8+fiyW5v6TM0eDkYSfbhQdvX+OPZ2zAn5DAvLhcJM+vnJNbW1/z030VA4yUk2igE9joVDwsc1O0F+ho4AjEs5yEQ6kYw8A8l9/ME/QoozwUGAyRD2Q4aJPPWFef54+z4u+vUxNe7MdfW"
+    ],
+    [
+      "12337d92-713c-4c7c-8a16-595a7b4717f1",
+      "wq6wxsLAChwe9gUE2ubl0NzeAfoFEfYEDv8K7drezq+s27Kr48jU8fn+Jzg2HA4L3tjOzsnO4NLV+Ov28Ovt5NDPw7az3MKvK/ELExgc9Pv2LTIuDQT+09rzB/LkB9bmLwABKPLlGdDQ98i7JRAiJxweOBcBBAL0Ni0n2eoLAPHpCNHcS/DzRicbKhgE/xEIGhsdIx8kJBsRVUQoT0dH4OXhDQ8T4uTjPvcF9jMi+jsc+B4BLw4TVkxBHAwLSEQt9vf00ens1xMm5hkl+UMr5RgJ09/g6/n9HQEIRyEaHyAjAAD9/P4BqrSvxwUY5y1E4RAI6QICFjhH8AIGEQv0DwAG6A4b+gMMCyImrby7q7qz0P8G6ig64Rw2IlNqMkkz8KO45+fuz+Ll5fL43tLW96u389fnIzEw+AADDvcFAPL1w7aySy4/UD0tICgyHQEHWjsu6gT2NA4QJh8a9xAR0iAt/DA1DS8yJBn64AsXw+v6rtjgATBEEjAVEPsM7xUkCwwcsMHKBfoEKTMh1t/3+w0YLTg9DhYGFBzz+frXGPTVJgkK6urc1dK+v8u5M8fG"
+    ],
+    [
+      "b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
+      "5tHbBNjh78nN5ur+7vEHE/8fNw0uNhM0Jv8UF+LnDN/nCdrh49Lc9dDZ+tPb6wYPzwMJ3wIKEubtK+frJ+bqIubpHOXrEuHnHeHnBdHY99HX2QUBxEFJzz1G2TQ/7gUPJvfyQiALOw73Ku/kIuDkBdDT5t/bxyks0WRm2UNHEFdXs/LwIw0FVCT8PQPrIeblJ+HkCtPU59rdyxwcy0hD1FNH7zc/5xINOAX4SRX6PfrqJefoNOnjG9XQ9urt4vv1uxgTzlhXyh4k2unZKBH+NuvtL+rtJOfrKeToCcrL897f1w8Jy+HW32Zr5UZWvfPs/QnuICQeN+3xKOjsJeXp+MjD3f/7z+PY1wwB4yQa7UU5teLY2gT2BjQmElxTHAMB4bK6JdzsGt/uJur7NwIlGsTHF8/T89vk2f8DMQkcLuDeG9nZMNbT6uPcw2904jI2ZjcYO/LaM9XQ797S1C4m3C0wIhQFJ+bgGdHQ0ffx2ERC3SQj1CUB7jkVBgod0OgB8Rc3ADc43R4K4UYs8BYs+vQL9f0M1QwN+yAuvvXhPQLpNe8A7dzg1g0L3OPHLdfV"
+    ],
+    [
+      "9b4231da-b5e9-44ee-9de9-75ba6a6e6de6",
+      "x/L//AYPGxIWLTo7MkVDOEpJNVFUIjs+HERGEDAxCR4a6xAb0fL7AR4iCwMGGAoGOEA/MTUzGx0fGCkq9xEUGT068vn2GQ4OIRsaMDAxNzk1MzM1D/cCBeLkMiIeHA4KAQT9+RQWCg4M7PDuEBIUHxgYQEhDQ0ZGKwQADtvVRUtGLCQaBeHg/Pv55ff4zd7bGhQaGA8THAICDwIA5c3MHPLtNyQeMRcFIBMR/Pf1z+nrx9XR0dfb9PT5//n+EgcR+fT+0MS9Iv72LhIMB/X0HxUWzN/ayNjYzMvO0tPX2NXaEw0Q79jT0MfEGw4MCgwKvsLC1c7Ow9HNyuHfwry/xr+/0MjG6eDh9d3Y4NPV19DVu8LHrb2/x83Nw8nJvtTSnNLnDjM5Nk9SMklMAyszxxMpDCAnMyoqPDg2Lzg2EiIfDhIUFw0POysrJfDtPR4SBvj31+Df0MrO/+vv+d3cFf/969vcytXS9M7S98vNFunq0L7D2tbYz9zWNS8sPz46DePgCOTc3c3Ny83HJyoACQ8RCxQRJyMlAwAC0dDRz/nq2O3y4Nne9evkDx0VyhIj"
+    ],
+    [
+      "0cf807a8-4131-426a-a67d-4d03e372b05e",
+      "x/L//AYPGxIWLTo7MkVDOEpJNVFUIjs+HERGEDAxCR4a6xAb0fL7AR4iCwMGGAoGOEA/MTUzGx0fGCkq9xEUGT068vn2GQ4OIRsaMDAxNzk1MzM1D/cCBeLkMiIeHA4KAQT9+RQWCg4M7PDuEBIUHxgYQEhDQ0ZGKwQADtvVRUtGLCQaBeHg/Pv55ff4zd7bGhQaGA8THAICDwIA5c3MHPLtNyQeMRcFIBMR/Pf1z+nrx9XR0dfb9PT5//n+EgcR+fT+0MS9Iv72LhIMB/X0HxUWzN/ayNjYzMvO0tPX2NXaEw0Q79jT0MfEGw4MCgwKvsLC1c7Ow9HNyuHfwry/xr+/0MjG6eDh9d3Y4NPV19DVu8LHrb2/x83Nw8nJvtTSnNLnDjM5Nk9SMklMAyszxxMpDCAnMyoqPDg2Lzg2EiIfDhIUFw0POysrJfDtPR4SBvj31+Df0MrO/+vv+d3cFf/969vcytXS9M7S98vNFunq0L7D2tbYz9zWNS8sPz46DePgCOTc3c3Ny83HJyoACQ8RCxQRJyMlAwAC0dDRz/nq2O3y39ne9evkDx0VyhIj"
+    ]
+  ],
+  "sources": {
+    "cards/welcome-to-night-city-retail/cb12d8c4-64b1-4e53-898e-8fd46aeac6bf.webp": "aa5d4acf306efe06c7b1fe6d947f61bbc7fe91cfb96bd64afb9cd481e4b29015",
+    "thumbs/welcome-to-night-city-retail/cb12d8c4-64b1-4e53-898e-8fd46aeac6bf.webp": "dd740cdc7d515eb899ea3f2a51bd686844380a5c9eacc8de912bf1e68764e44e",
+    "cards/welcome-to-night-city-retail/7d1960a6-2d90-4278-937c-1e6905a3a396.webp": "961cea1b06378deb93ea66086de3b7ebf460cf8dac0e15133feda155af88f843",
+    "thumbs/welcome-to-night-city-retail/7d1960a6-2d90-4278-937c-1e6905a3a396.webp": "c0e69553b3f8676431f7cdda754709f9cd783d41671671e084a56d771417007d",
+    "cards/edgerunner-open-s-1/b6f81fe8-d0ed-4dcb-b025-058559d0cf98.webp": "956eb4d87dfe68ce3ea35d25dca19436cd64de3e9fe2a95467f6df791bb1fcc7",
+    "thumbs/edgerunner-open-s-1/b6f81fe8-d0ed-4dcb-b025-058559d0cf98.webp": "17be38ad7d99d28b146ad27f1d2b82e27e5503e109cef8c97811603c2c20d020",
+    "cards/set-1-promos/9b4231da-b5e9-44ee-9de9-75ba6a6e6de6.webp": "2568cf0ed7726840c1f8f07b763605613adff5b330bab094e5357fbe43b402af",
+    "thumbs/set-1-promos/9b4231da-b5e9-44ee-9de9-75ba6a6e6de6.webp": "857925d431cbe871696f368614f5010ae11b1d20f3bdb20ffb25ab4dc11f9dbb",
+    "cards/set-1-promos/0cf807a8-4131-426a-a67d-4d03e372b05e.webp": "3ffc23effde44303bfe297a1f5d0845323b4ab5dc0d653947d47fd4d262bb9c1",
+    "thumbs/set-1-promos/0cf807a8-4131-426a-a67d-4d03e372b05e.webp": "5bd42a319ebd82aeb54dd3ad48dcdbddd74a0ba37bdc7ab00c33bb4406bb0bcf",
+    "cards/welcome-to-night-city-beta/dfd5d1df-2b47-4ddd-9d6a-35430a892cfc.webp": "c19fb633c38f855fb69e0947a23be68f235433f02817c4b7cc940cb03cd9b5b2",
+    "thumbs/welcome-to-night-city-beta/dfd5d1df-2b47-4ddd-9d6a-35430a892cfc.webp": "5b73317dcd99acb84b59372843ccf033e404dece89df95845e416cef7d62df45",
+    "cards/welcome-to-night-city-retail/70c7f11e-e41d-44f2-b5cd-e8568915d6ac.webp": "928e291e877b5609fadd2c3f475d06d03b516e82aa0c69ca46a13a992238da9d",
+    "thumbs/welcome-to-night-city-retail/70c7f11e-e41d-44f2-b5cd-e8568915d6ac.webp": "8a0285ac7f4ce9c450ac54496fd004bfc163889735fd03051d55bb684240a2af",
+    "cards/welcome-to-night-city-retail/1563fec7-3eaa-41af-be1f-514f4e86d692.webp": "c82536f911a078ae1c93bbc9bb90cccb808ba6010b8f8e90ff400ca8abd7b96c",
+    "thumbs/welcome-to-night-city-retail/1563fec7-3eaa-41af-be1f-514f4e86d692.webp": "5facc2adf23e49e724e5d3669ea53a2cde2f6964576a3d9840dc09ffc575e90a",
+    "cards/welcome-to-night-city-beta/98b18e2d-a955-43c7-880c-6233166c673a.webp": "df55feaed3594daaf9b252e3e8940fa56fbb635bffc0ba14247a665cf2296232",
+    "thumbs/welcome-to-night-city-beta/98b18e2d-a955-43c7-880c-6233166c673a.webp": "0b01e8aaba47f5a565c147c0d60665f7cf01418f8c85b26f379be6d396e912a5",
+    "cards/welcome-to-night-city-retail/dcfe8370-9abf-4395-b50b-efea505609ba.webp": "e1cbaf4ef61a50cfdb88db9d68a44af5936d65eff6890999f22ea20821364808",
+    "thumbs/welcome-to-night-city-retail/dcfe8370-9abf-4395-b50b-efea505609ba.webp": "6ac9b3a8be825a20a6722cd5a69b56a7f5cd54be80e558232bf67617809228c1",
+    "cards/welcome-to-night-city-retail/ebae29cb-45b3-4f85-8903-67d98da06b00.webp": "3165be878a09f2eb89e151eed38725ea5188f75d92921aa43b838d21519d159d",
+    "thumbs/welcome-to-night-city-retail/ebae29cb-45b3-4f85-8903-67d98da06b00.webp": "3c095707b089689e5adc791e821ed7aef2de7c1183f0762b735af3aeae911a5e",
+    "cards/box-toppers-beta/12337d92-713c-4c7c-8a16-595a7b4717f1.webp": "d6e41788baaab1ce7afeccac7cf6115eada19592c2699e6a2f858a12c16ecadb",
+    "thumbs/box-toppers-beta/12337d92-713c-4c7c-8a16-595a7b4717f1.webp": "d0e33a5c85c2963f42bb87d4579aace49c2d1feaf2f8188dc280f55c26249ce9"
+  }
+}

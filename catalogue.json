@@ -1,6 +1,6 @@
 {
   "format": 2,
-  "latestApp": 30000,
+  "latestApp": 30001,
   "notebooks": [
     {
       "base": "9349b2d23210f745",
@@ -50,6 +50,60 @@
         "Edgerunner Open S1 Event",
         "Judge Promos WNC"
       ]
+    },
+    {
+      "base": "3e4d1e9959032c09",
+      "revision": 1,
+      "minApp": 30001,
+      "title": {
+        "fr": "Johnny, Lucyna et corrections de crédits",
+        "en": "Johnny, Lucyna and credit fixes"
+      },
+      "file": "https://github.com/CyberCardex/cybercardex-data/releases/download/3e4d1e9959032c09-r1/3e4d1e9959032c09-r1.zip",
+      "size": 1249947,
+      "sha256": "812f165188e778bdedeba5c0dd283389d9e408caa4f64f92382c91fc6dd7bd24",
+      "unpacked": 1244563,
+      "changes": {
+        "added": 5,
+        "corrected": 7,
+        "updated": 0
+      },
+      "files": 25,
+      "printings": [
+        "cb12d8c4-64b1-4e53-898e-8fd46aeac6bf",
+        "7d1960a6-2d90-4278-937c-1e6905a3a396",
+        "b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
+        "9b4231da-b5e9-44ee-9de9-75ba6a6e6de6",
+        "0cf807a8-4131-426a-a67d-4d03e372b05e",
+        "dfd5d1df-2b47-4ddd-9d6a-35430a892cfc",
+        "70c7f11e-e41d-44f2-b5cd-e8568915d6ac",
+        "1563fec7-3eaa-41af-be1f-514f4e86d692",
+        "98b18e2d-a955-43c7-880c-6233166c673a",
+        "dcfe8370-9abf-4395-b50b-efea505609ba",
+        "ebae29cb-45b3-4f85-8903-67d98da06b00",
+        "12337d92-713c-4c7c-8a16-595a7b4717f1"
+      ],
+      "cardIds": [
+        "johnny-silverhand-rocking-renegade",
+        "johnny-silverhand-rocking-renegade",
+        "johnny-silverhand-rocking-renegade",
+        "lucyna-kushinada-fresh-beginnings",
+        "lucyna-kushinada-fresh-beginnings",
+        "nocturne-op55-n1",
+        "nocturne-op55-n1",
+        "nocturne-op55-n1",
+        "judy-a-lvarez-nothing-to-doubt",
+        "judy-a-lvarez-nothing-to-doubt",
+        "judy-a-lvarez-nothing-to-doubt",
+        "yorinobu-arasaka-embracing-destruction"
+      ],
+      "sets": [
+        "Welcome to Night City Retail",
+        "Edgerunner Open S1 Event",
+        "Set 1 Promos Promo",
+        "Welcome to Night City BETA",
+        "Box Toppers BETA"
+      ]
     }
   ],
   "withdrawnMessages": [
@@ -57,5 +111,5 @@
     "test-2026-10-19",
     "la-3-0-est-la-2026-10-27"
   ],
-  "updatedAt": "2026-10-27T02:03:24.480Z"
+  "updatedAt": "2026-11-09T15:31:55.436Z"
 }
