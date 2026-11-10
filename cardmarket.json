@@ -1356,16 +1356,6 @@
       "trend": 0.06,
       "low": 0.02
     },
-    "aedbd6fe-19d2-4185-b708-b6393e21da20": {
-      "id": 905261
-    },
-    "17517c74-9e61-423a-9d65-c7f4b56af29a": {
-      "id": 920528,
-      "trend": 0,
-      "low": 49.9,
-      "trendFoil": 33.34,
-      "lowFoil": 49.9
-    },
     "aaad5db8-fcd4-42f0-8ced-e7527dbccf79": {
       "id": 905000,
       "trend": 4.08,
@@ -1499,571 +1489,6 @@
       "id": 905028,
       "low": 0.1
     },
-    "7d539173-4022-402e-a9f4-100338935fd2": {
-      "id": 920399,
-      "trend": 0,
-      "low": 6.5,
-      "trendFoil": 7.5,
-      "lowFoil": 6.5
-    },
-    "e2f38541-ecc9-41dc-ae15-164171391bff": {
-      "id": 920400,
-      "trend": 9.95,
-      "low": 14.85
-    },
-    "364ef4ac-8b0c-48b1-8cf2-454477abc452": {
-      "id": 920401,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "1043d9b7-5dae-4fc5-852d-ec31daaaa88d": {
-      "id": 920402,
-      "trend": 0.2,
-      "low": 0.25
-    },
-    "b7d9313c-f2a4-40c0-85ed-81adb7653125": {
-      "id": 920403,
-      "trend": 0.3,
-      "low": 0.35
-    },
-    "46ddb436-ea2f-4c7f-b9b4-7987835c9cce": {
-      "id": 920404,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "aa9b8a2e-ffd6-4435-8bed-c4e64e1c32ac": {
-      "id": 920405,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "d13b8b15-8e31-448c-b28b-322bb498d0a7": {
-      "id": 920406,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "26b755e4-b754-48fc-b89b-ba8ce670d43b": {
-      "id": 920407,
-      "trend": 0.78,
-      "low": 0.7
-    },
-    "17db8555-a470-4c5b-9a24-4fac4bf04c4c": {
-      "id": 920408,
-      "trend": 0.2,
-      "low": 0.25
-    },
-    "a33d3324-fe48-4a9f-80a8-8545a0a4727f": {
-      "id": 920409,
-      "trend": 0,
-      "low": 9.85,
-      "trendFoil": 9.77,
-      "lowFoil": 9.85
-    },
-    "4a5591f9-743e-4186-8deb-560971bb3f82": {
-      "id": 920410,
-      "low": 7.8,
-      "lowFoil": 7.8
-    },
-    "8092ff00-bff0-4a33-98e1-1fa33adabb8d": {
-      "id": 920411,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "4b037f20-0cb8-4dfa-bd34-3a3b8381632b": {
-      "id": 920412,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "5f0d9dac-2547-4ecb-896e-0c603968422a": {
-      "id": 920413,
-      "trend": 9.95,
-      "low": 13.85
-    },
-    "b6295362-bd30-4b91-8755-738938cf839b": {
-      "id": 920414,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "4bb35017-9842-4178-99a6-34353a3de2d4": {
-      "id": 920415,
-      "trend": 0,
-      "low": 0.5,
-      "trendFoil": 0.5,
-      "lowFoil": 0.5
-    },
-    "39747fc8-20a0-4fbb-80d7-2a869b735ac9": {
-      "id": 920416,
-      "trend": 0.3,
-      "low": 0.3
-    },
-    "60255f42-3ddd-4865-9e4a-335963694be1": {
-      "id": 920417,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "270c2b70-35fb-4d47-b1c0-3df11141f880": {
-      "id": 920418,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "f70b75b5-aa2f-4c2d-b8c3-01fcb2a670ec": {
-      "id": 920425,
-      "low": 7.85,
-      "lowFoil": 7.85
-    },
-    "0aab2858-fa5e-42f6-997e-39797fefb669": {
-      "id": 920428,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "19587d4f-6d47-44fe-b4da-99743e2742f7": {
-      "id": 920430,
-      "trend": 9.95,
-      "low": 9.8
-    },
-    "c4806b05-6476-4c67-95a5-fc9c4ce2aaa2": {
-      "id": 920431,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "9ecace66-9724-4582-8a45-ae614ffc640f": {
-      "id": 920432,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "49c919ef-61d7-47d3-b855-1d4d7c0f783f": {
-      "id": 920433,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "087c30c2-1a7d-423e-b2f3-a7e1e8cfca12": {
-      "id": 920434,
-      "trend": 0.4,
-      "low": 0.4
-    },
-    "0e0e7e20-eaf3-4dea-a177-cb54e01ffec6": {
-      "id": 920435,
-      "trend": 0.7,
-      "low": 0.7
-    },
-    "301b47dd-eab3-4648-aece-bc071b87dcd1": {
-      "id": 920436,
-      "trend": 0.3,
-      "low": 0.3
-    },
-    "9e5a152e-6105-44a4-8db0-9cbf6cda2252": {
-      "id": 920437,
-      "trend": 0.3,
-      "low": 0.3
-    },
-    "b03a2e07-73a4-49c4-b4a3-761748a7b09e": {
-      "id": 920438,
-      "trend": 0,
-      "low": 0.4,
-      "trendFoil": 0.4,
-      "lowFoil": 0.4
-    },
-    "2ba68619-7050-44c5-b0ce-b32d48b8f40f": {
-      "id": 920439,
-      "low": 6.5,
-      "lowFoil": 6.5
-    },
-    "6ac7adce-01af-4b5b-956b-698eda0bed14": {
-      "id": 920441,
-      "low": 5.5,
-      "lowFoil": 5.5
-    },
-    "0ce87466-8869-484f-bd4c-5094fdfc6dbc": {
-      "id": 920443,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "b00202eb-35e5-4ae7-8079-34b70a143040": {
-      "id": 920444,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "377a3054-68e1-4843-8109-70e230592519": {
-      "id": 920445,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "42e03e7a-923d-4f2b-8d79-191e69873947": {
-      "id": 920446,
-      "trend": 9.85,
-      "low": 11.95
-    },
-    "3b69e0c7-418c-4000-b6f4-f9584bc541e3": {
-      "id": 920447,
-      "trend": 0.2,
-      "low": 0.2
-    },
-    "a4684963-6c44-4e6e-9466-56d987f86112": {
-      "id": 920450,
-      "trend": 0.4,
-      "low": 0.4
-    },
-    "8a13760d-050c-4a9c-bc44-f6b5796bb9f2": {
-      "id": 920451,
-      "low": 8.9
-    },
-    "dc7bb3cf-1005-4584-ad7a-447f0ccf07bf": {
-      "id": 920511,
-      "trend": 0,
-      "low": 9,
-      "trendFoil": 8.6,
-      "lowFoil": 9
-    },
-    "c9ceb0e7-c803-45d1-8da1-8c85c3b2e7e8": {
-      "id": 920512,
-      "trend": 0,
-      "low": 17,
-      "trendFoil": 15.09,
-      "lowFoil": 17
-    },
-    "1b6e44dd-d6e7-46eb-a5e5-24c38eed888b": {
-      "id": 920513,
-      "trend": 0,
-      "low": 11.98,
-      "trendFoil": 12.66,
-      "lowFoil": 11.98
-    },
-    "77e482f2-6090-47e9-9d03-be28417cb1cb": {
-      "id": 920514,
-      "trend": 0,
-      "low": 8,
-      "trendFoil": 9.88,
-      "lowFoil": 8
-    },
-    "e4e17d32-3ec4-4c74-927c-fd0911b86e72": {
-      "id": 920515,
-      "trend": 0,
-      "low": 19.99,
-      "trendFoil": 18.22,
-      "lowFoil": 19.99
-    },
-    "f509ebd8-c8b7-4a22-8922-2d71c6df0b6f": {
-      "id": 920516,
-      "trend": 0,
-      "low": 12,
-      "trendFoil": 15.1,
-      "lowFoil": 12
-    },
-    "3d5b7ebf-0378-401b-bfa2-32a02734c921": {
-      "id": 920517,
-      "trend": 0,
-      "low": 10,
-      "trendFoil": 10.46,
-      "lowFoil": 10
-    },
-    "352acc48-3842-4e10-b9b8-157f8a5f7286": {
-      "id": 920518,
-      "trend": 0,
-      "low": 10,
-      "trendFoil": 6.75,
-      "lowFoil": 10
-    },
-    "c89f2af6-dab2-40fe-a29e-6e98c0322f5d": {
-      "id": 920519,
-      "trend": 0,
-      "low": 12.5,
-      "trendFoil": 5.92,
-      "lowFoil": 12.5
-    },
-    "3282ec42-006b-4214-a6c9-7c09f1278b26": {
-      "id": 920520,
-      "trend": 0,
-      "low": 3.5,
-      "trendFoil": 6,
-      "lowFoil": 3.5
-    },
-    "80efc8c5-c352-4d3a-b713-bfcf593a7f2a": {
-      "id": 920521,
-      "trend": 0,
-      "low": 9.5,
-      "trendFoil": 5.84,
-      "lowFoil": 9.5
-    },
-    "ce3dacce-fb10-488c-9001-95fe7f3329a4": {
-      "id": 920522,
-      "trend": 0,
-      "low": 8.8,
-      "trendFoil": 7.66,
-      "lowFoil": 8.8
-    },
-    "34436540-0422-4a92-8757-c15dded67ea9": {
-      "id": 920523,
-      "trend": 0,
-      "low": 4,
-      "trendFoil": 6.97,
-      "lowFoil": 4
-    },
-    "c12c4516-264b-4f7a-9d99-de7bc3ebb0fb": {
-      "id": 920524,
-      "trend": 0,
-      "low": 9.8,
-      "trendFoil": 6.09,
-      "lowFoil": 9.8
-    },
-    "e2b7ca4a-ebb6-48d4-b0b7-59865c6c85f0": {
-      "id": 920525,
-      "trend": 0,
-      "low": 5.5,
-      "trendFoil": 3.98,
-      "lowFoil": 5.5
-    },
-    "ecfd2d86-f9dc-47c4-a4ec-4a1155217dc7": {
-      "id": 920526,
-      "trend": 0,
-      "low": 5.9,
-      "trendFoil": 5.42,
-      "lowFoil": 5.9
-    },
-    "e6663f3c-5668-4bab-ba3c-6e2b78636f2c": {
-      "id": 920527,
-      "trend": 0,
-      "low": 4.5,
-      "trendFoil": 7.22,
-      "lowFoil": 4.5
-    },
-    "534faf6c-78ff-4256-8c1b-a77438b7f979": {
-      "id": 922552
-    },
-    "fb9ce825-c8cd-41a5-83cf-9372c16e4172": {
-      "id": 922553
-    },
-    "6d3d7780-b1e1-4c7a-a085-6de0b94ac9e8": {
-      "id": 922554
-    },
-    "d2e8c1c2-6cd4-4d2e-94fa-21b96daaea6b": {
-      "id": 922559,
-      "trend": 0,
-      "low": 10,
-      "trendFoil": 8,
-      "lowFoil": 10
-    },
-    "c51e7c71-6305-4330-a107-a197af5eeeb2": {
-      "id": 922582,
-      "trend": 0,
-      "trendFoil": 55
-    },
-    "a4271ab1-4688-4f98-b000-a186aadd7fee": {
-      "id": 922561,
-      "trend": 0,
-      "low": 8,
-      "trendFoil": 8,
-      "lowFoil": 8
-    },
-    "bd6fe2cf-bfcd-4de2-bc78-ffc215d39603": {
-      "id": 922583,
-      "trend": 0,
-      "low": 25,
-      "trendFoil": 60,
-      "lowFoil": 25
-    },
-    "c0a913fe-d3fc-4558-a35f-cfa34d4023c3": {
-      "id": 922562,
-      "trend": 0,
-      "trendFoil": 8
-    },
-    "922e0824-cef0-4062-bb6f-5e30f4814f40": {
-      "id": 922584
-    },
-    "5b855c9c-bdf3-4743-9653-d6eb6ce3f6f5": {
-      "id": 922563,
-      "trend": 0,
-      "low": 15,
-      "trendFoil": 8,
-      "lowFoil": 15
-    },
-    "adf78727-f462-424c-8689-0b759794ee3c": {
-      "id": 922585,
-      "low": 1500,
-      "lowFoil": 1500
-    },
-    "a78c25bb-94ce-4833-bcc4-be6dce72ecb1": {
-      "id": 922565,
-      "trend": 0,
-      "low": 19.99,
-      "trendFoil": 8,
-      "lowFoil": 19.99
-    },
-    "9f7b3df5-721c-410f-8dec-5ce3bc4377c0": {
-      "id": 922586,
-      "trend": 0,
-      "trendFoil": 60
-    },
-    "d16f9b63-cc98-4b88-981e-258d1940aa04": {
-      "id": 922566,
-      "trend": 0,
-      "low": 8,
-      "trendFoil": 8,
-      "lowFoil": 8
-    },
-    "34dd1e1b-5022-4858-91bc-1243ea7f4615": {
-      "id": 922587,
-      "trend": 0,
-      "trendFoil": 60
-    },
-    "f997c534-5208-4c37-8aff-4f6587e606c2": {
-      "id": 922567,
-      "trend": 0,
-      "low": 20,
-      "trendFoil": 8,
-      "lowFoil": 20
-    },
-    "86bc6f96-41d3-4639-b75b-25ae58202b3d": {
-      "id": 922589,
-      "low": 100,
-      "lowFoil": 100
-    },
-    "88002e9c-429e-4434-8564-e1b22625ce4e": {
-      "id": 922568,
-      "trend": 0,
-      "low": 8,
-      "trendFoil": 8,
-      "lowFoil": 8
-    },
-    "968eff55-5775-44c1-b5e0-7b1b9293763e": {
-      "id": 922590
-    },
-    "6b574386-2893-4236-86a4-68c48222ae9e": {
-      "id": 922569,
-      "trend": 0,
-      "low": 5,
-      "trendFoil": 8,
-      "lowFoil": 5
-    },
-    "8c0cd775-71b6-43f9-af49-1d41386eb1ee": {
-      "id": 922591,
-      "trend": 0,
-      "trendFoil": 55
-    },
-    "f77b20fd-8792-41bb-a634-06030fd2eb6d": {
-      "id": 922570,
-      "trend": 0,
-      "low": 5,
-      "trendFoil": 8,
-      "lowFoil": 5
-    },
-    "c89b85cb-aa23-4fa6-b093-aad81bde74a4": {
-      "id": 922593
-    },
-    "7757b045-4ccf-432b-b412-c82a44ee3adc": {
-      "id": 922571,
-      "trend": 0,
-      "low": 6,
-      "trendFoil": 8,
-      "lowFoil": 6
-    },
-    "36d849b2-3d3a-4113-bc69-214a8a91e6d6": {
-      "id": 922594,
-      "trend": 0,
-      "low": 55,
-      "trendFoil": 55,
-      "lowFoil": 55
-    },
-    "bd897ed7-a74b-4993-9da5-16f820c3502d": {
-      "id": 922573,
-      "trend": 0,
-      "low": 8,
-      "trendFoil": 8,
-      "lowFoil": 8
-    },
-    "6121b4c1-b899-4c69-a7d6-674bb6889e29": {
-      "id": 922595,
-      "trend": 0,
-      "trendFoil": 60
-    },
-    "3a3900be-bbee-4218-8b58-0e5fa445ee46": {
-      "id": 922574,
-      "trend": 0,
-      "low": 8,
-      "trendFoil": 8,
-      "lowFoil": 8
-    },
-    "aea6c98e-6bc5-4912-b7d8-a6558fde5eaf": {
-      "id": 922596,
-      "trend": 0,
-      "trendFoil": 55
-    },
-    "e03952c1-9f8c-4ecb-8258-ab753ef9c9a7": {
-      "id": 922575,
-      "trend": 0,
-      "low": 8,
-      "trendFoil": 8,
-      "lowFoil": 8
-    },
-    "1f3e50a4-54ea-4e77-9ef3-0ceeb38d0278": {
-      "id": 922598,
-      "trend": 0,
-      "trendFoil": 55
-    },
-    "a1c75317-6fa9-48f8-b296-cfe6a336f12a": {
-      "id": 922577,
-      "trend": 0,
-      "low": 8,
-      "trendFoil": 8,
-      "lowFoil": 8
-    },
-    "317331e6-55bd-4c4d-9f50-700601f53db2": {
-      "id": 922599
-    },
-    "5cc2112c-10b6-4491-963d-8b517244aaee": {
-      "id": 922603,
-      "low": 22,
-      "lowFoil": 22
-    },
-    "70ef0b79-d569-4a62-bdbc-e02c616f8b98": {
-      "id": 922578,
-      "trend": 0,
-      "low": 8,
-      "trendFoil": 8,
-      "lowFoil": 8
-    },
-    "779c63a5-cec1-47b0-a96e-51369a0ba186": {
-      "id": 922600,
-      "trend": 0,
-      "trendFoil": 55
-    },
-    "f8098004-7b14-4d5a-8398-85c5660e1d8f": {
-      "id": 922579,
-      "trend": 0,
-      "low": 4.5,
-      "trendFoil": 8,
-      "lowFoil": 4.5
-    },
-    "fbe9274d-e4c4-415f-9914-0fbd5985c0b3": {
-      "id": 922601,
-      "trend": 0,
-      "trendFoil": 55
-    },
-    "2267884a-40c8-49ff-952b-90ec1b977179": {
-      "id": 922581,
-      "trend": 0,
-      "low": 8,
-      "trendFoil": 8,
-      "lowFoil": 8
-    },
-    "575138c0-4eae-4d61-abf7-028557a884c8": {
-      "id": 922602,
-      "trend": 0,
-      "trendFoil": 55
-    },
-    "a9eb38f2-fe64-47c5-9938-9b6ecb01c913": {
-      "id": 922604
-    },
-    "6f8d1015-dd5d-49c4-9620-6b3b0c7ee82a": {
-      "id": 922606
-    },
-    "36d42759-0199-47f0-835b-ee6616842e49": {
-      "id": 922609
-    },
-    "2a0fa3c6-f259-49ad-88a2-843713712ccd": {
-      "id": 922605
-    },
-    "b2d8aa5e-0d41-4c9e-b736-9d61e8153651": {
-      "id": 922608
-    },
     "a9c1137e-2e33-4293-9dcc-9351c9a0bbee": {
       "id": 920398,
       "trend": 0,
@@ -2119,6 +1544,34 @@
       "low": 30,
       "trendFoil": 33.47,
       "lowFoil": 30
+    },
+    "a8a7d286-0c66-4f01-aca7-45570474d9e4": {
+      "id": 920420,
+      "trend": 0,
+      "low": 17.99,
+      "trendFoil": 16.63,
+      "lowFoil": 17.99
+    },
+    "7f03795b-029a-4347-a685-d67dcd879a93": {
+      "id": 920420,
+      "trend": 0,
+      "low": 17.99,
+      "trendFoil": 16.63,
+      "lowFoil": 17.99
+    },
+    "cb12d8c4-64b1-4e53-898e-8fd46aeac6bf": {
+      "id": 920675,
+      "trend": 0,
+      "low": 399,
+      "trendFoil": 338.41,
+      "lowFoil": 399
+    },
+    "7d1960a6-2d90-4278-937c-1e6905a3a396": {
+      "id": 920675,
+      "trend": 0,
+      "low": 399,
+      "trendFoil": 338.41,
+      "lowFoil": 399
     },
     "3e2e228b-dbfb-484b-b82d-6972ff184aab": {
       "id": 920421,
@@ -2754,6 +2207,34 @@
       "trend": 0.08,
       "low": 0.02
     },
+    "7386d22f-1065-4043-a6c4-9cee6256fe8a": {
+      "id": 920484,
+      "trend": 0,
+      "low": 0.03,
+      "trendFoil": 0.14,
+      "lowFoil": 0.03
+    },
+    "3751ba00-e41e-4eb7-81a3-32c3351109c0": {
+      "id": 920484,
+      "trend": 0,
+      "low": 0.03,
+      "trendFoil": 0.14,
+      "lowFoil": 0.03
+    },
+    "1a13a5a8-c1d4-4d36-88be-7a6e3cb78c90": {
+      "id": 920669,
+      "trend": 0,
+      "low": 23,
+      "trendFoil": 23.74,
+      "lowFoil": 23
+    },
+    "fb1bc28c-21ac-4f41-855d-a0a4c63d5957": {
+      "id": 920669,
+      "trend": 0,
+      "low": 23,
+      "trendFoil": 23.74,
+      "lowFoil": 23
+    },
     "2fc5ac93-dae5-4af5-a813-77abc0cc8dfd": {
       "id": 920485,
       "trend": 0.16,
@@ -3250,6 +2731,34 @@
       "trend": 0.05,
       "low": 0.02
     },
+    "9231f9ff-1ba5-4c4f-bd78-70e0780b58e5": {
+      "id": 920592,
+      "trend": 0,
+      "low": 4.9,
+      "trendFoil": 6.06,
+      "lowFoil": 4.9
+    },
+    "56e9657c-6f2c-4a72-9d8e-8e9e332117b1": {
+      "id": 920592,
+      "trend": 0,
+      "low": 4.9,
+      "trendFoil": 6.06,
+      "lowFoil": 4.9
+    },
+    "5632d773-b6c8-402d-a162-364767d3d21e": {
+      "id": 920677,
+      "trend": 0,
+      "low": 370,
+      "trendFoil": 416.15,
+      "lowFoil": 370
+    },
+    "b073652b-8428-4aeb-9877-22b50a0110bc": {
+      "id": 920677,
+      "trend": 0,
+      "low": 370,
+      "trendFoil": 416.15,
+      "lowFoil": 370
+    },
     "0de81196-f1d3-4fd0-ae6a-062dae3f3f2c": {
       "id": 920593,
       "trend": 0.13,
@@ -3582,6 +3091,55 @@
       "trendFoil": 115.86,
       "lowFoil": 125
     },
+    "2647f881-5a7e-4ffb-b231-6574dc531f43": {
+      "id": 920616,
+      "trend": 0,
+      "low": 7,
+      "trendFoil": 7.48,
+      "lowFoil": 7
+    },
+    "f1e5930a-987d-4b9b-b2f6-7e428df3c302": {
+      "id": 920616,
+      "trend": 0,
+      "low": 7,
+      "trendFoil": 7.48,
+      "lowFoil": 7
+    },
+    "307de3c6-6bbd-4e44-8dde-07f4fac45db0": {
+      "id": 920676,
+      "trend": 0,
+      "low": 490,
+      "trendFoil": 409.99,
+      "lowFoil": 490
+    },
+    "e13a5895-c065-40ad-9f33-901e457e3766": {
+      "id": 920676,
+      "trend": 0,
+      "low": 490,
+      "trendFoil": 409.99,
+      "lowFoil": 490
+    },
+    "8f7a7d0b-5935-4732-a9ba-76b19467d5a0": {
+      "id": 920617,
+      "trend": 0,
+      "low": 0.02,
+      "trendFoil": 0.2,
+      "lowFoil": 0.02
+    },
+    "69380cd8-83e0-4802-bfe1-54e7d214d30d": {
+      "id": 920617,
+      "trend": 0,
+      "low": 0.02,
+      "trendFoil": 0.2,
+      "lowFoil": 0.02
+    },
+    "94a8e8c1-f953-4ca8-b124-99c7350663b4": {
+      "id": 920665,
+      "trend": 0,
+      "low": 34.9,
+      "trendFoil": 60,
+      "lowFoil": 34.9
+    },
     "c7eba3a0-63cb-4311-988e-d487a7c0841a": {
       "id": 920618,
       "trend": 0.12,
@@ -3631,6 +3189,34 @@
       "id": 920622,
       "trend": 0.07,
       "low": 0.02
+    },
+    "dcfe8370-9abf-4395-b50b-efea505609ba": {
+      "id": 920623,
+      "trend": 0,
+      "low": 6.4,
+      "trendFoil": 6.03,
+      "lowFoil": 6.4
+    },
+    "ebae29cb-45b3-4f85-8903-67d98da06b00": {
+      "id": 920623,
+      "trend": 0,
+      "low": 6.4,
+      "trendFoil": 6.03,
+      "lowFoil": 6.4
+    },
+    "fe26a4ff-1076-4371-8ab5-3f31d0319a3f": {
+      "id": 920678,
+      "trend": 0,
+      "low": 350,
+      "trendFoil": 315.72,
+      "lowFoil": 350
+    },
+    "9aceebe8-9977-4b7b-ad1d-7b75af879f1a": {
+      "id": 920678,
+      "trend": 0,
+      "low": 350,
+      "trendFoil": 315.72,
+      "lowFoil": 350
     },
     "7072a2d2-ec4f-4575-909e-15a107dfef79": {
       "id": 920624,
@@ -3733,6 +3319,34 @@
       "id": 920632,
       "trend": 0.08,
       "low": 0.02
+    },
+    "3193a6bd-3e99-4501-9c5c-8d5ea32c779c": {
+      "id": 920633,
+      "trend": 0,
+      "low": 0.15,
+      "trendFoil": 0.74,
+      "lowFoil": 0.15
+    },
+    "da689d07-a775-4c10-b3ae-5320feb56fea": {
+      "id": 920633,
+      "trend": 0,
+      "low": 0.15,
+      "trendFoil": 0.74,
+      "lowFoil": 0.15
+    },
+    "9f251692-ea15-45d9-8fa3-5833453502c6": {
+      "id": 920673,
+      "trend": 0,
+      "low": 8.99,
+      "trendFoil": 10.36,
+      "lowFoil": 8.99
+    },
+    "d97bfbb9-99ca-48bb-922a-367c79d2d689": {
+      "id": 920673,
+      "trend": 0,
+      "low": 8.99,
+      "trendFoil": 10.36,
+      "lowFoil": 8.99
     },
     "5801d086-7e87-4645-95e2-68239230098d": {
       "id": 920634,
@@ -3904,6 +3518,1127 @@
       "trend": 0.11,
       "low": 0.02
     },
+    "7d539173-4022-402e-a9f4-100338935fd2": {
+      "id": 920399,
+      "trend": 0,
+      "low": 6.5,
+      "trendFoil": 7.5,
+      "lowFoil": 6.5
+    },
+    "b243251d-b8a9-4af3-8d42-ce800c2b27b4": {
+      "id": 920399,
+      "trend": 0,
+      "low": 6.5,
+      "trendFoil": 7.5,
+      "lowFoil": 6.5
+    },
+    "e2f38541-ecc9-41dc-ae15-164171391bff": {
+      "id": 920400,
+      "trend": 9.95,
+      "low": 14.85
+    },
+    "e3b8a9e8-5bed-4449-9738-c824db504be7": {
+      "id": 920400,
+      "trend": 9.95,
+      "low": 14.85
+    },
+    "364ef4ac-8b0c-48b1-8cf2-454477abc452": {
+      "id": 920401,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "6af18183-f8ab-40c4-8724-8287619c6c5c": {
+      "id": 920401,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "1043d9b7-5dae-4fc5-852d-ec31daaaa88d": {
+      "id": 920402,
+      "trend": 0.2,
+      "low": 0.25
+    },
+    "064e6916-f284-4886-a4d5-380c8c4c81c3": {
+      "id": 920402,
+      "trend": 0.2,
+      "low": 0.25
+    },
+    "b7d9313c-f2a4-40c0-85ed-81adb7653125": {
+      "id": 920403,
+      "trend": 0.3,
+      "low": 0.35
+    },
+    "cb03d048-2691-421d-9654-e20ffed0592b": {
+      "id": 920403,
+      "trend": 0.3,
+      "low": 0.35
+    },
+    "46ddb436-ea2f-4c7f-b9b4-7987835c9cce": {
+      "id": 920404,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "46d374ee-5bf1-4244-b93a-411869e26dd9": {
+      "id": 920404,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "aa9b8a2e-ffd6-4435-8bed-c4e64e1c32ac": {
+      "id": 920405,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "ef40fd67-27e4-45b1-b492-7c40aa29aa23": {
+      "id": 920405,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "d13b8b15-8e31-448c-b28b-322bb498d0a7": {
+      "id": 920406,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "2f9b1516-302b-4a3f-b23a-aea7d5196066": {
+      "id": 920406,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "26b755e4-b754-48fc-b89b-ba8ce670d43b": {
+      "id": 920407,
+      "trend": 0.78,
+      "low": 0.7
+    },
+    "fb1687ac-3b22-4a0e-9f0d-44ef1e001c30": {
+      "id": 920407,
+      "trend": 0.78,
+      "low": 0.7
+    },
+    "17db8555-a470-4c5b-9a24-4fac4bf04c4c": {
+      "id": 920408,
+      "trend": 0.2,
+      "low": 0.25
+    },
+    "c61f50b6-fc6d-4a85-9d06-4d8825593469": {
+      "id": 920408,
+      "trend": 0.2,
+      "low": 0.25
+    },
+    "a33d3324-fe48-4a9f-80a8-8545a0a4727f": {
+      "id": 920409,
+      "trend": 0,
+      "low": 9.85,
+      "trendFoil": 9.77,
+      "lowFoil": 9.85
+    },
+    "1d5a2d7d-a372-409c-9e29-22124525f29a": {
+      "id": 920409,
+      "trend": 0,
+      "low": 9.85,
+      "trendFoil": 9.77,
+      "lowFoil": 9.85
+    },
+    "4a5591f9-743e-4186-8deb-560971bb3f82": {
+      "id": 920410,
+      "low": 7.8,
+      "lowFoil": 7.8
+    },
+    "98a296a5-1dac-4475-b401-ae3e0e18234a": {
+      "id": 920410,
+      "low": 7.8,
+      "lowFoil": 7.8
+    },
+    "8092ff00-bff0-4a33-98e1-1fa33adabb8d": {
+      "id": 920411,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "66eb5361-11f4-4880-b347-ca849aa28cb8": {
+      "id": 920411,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "4b037f20-0cb8-4dfa-bd34-3a3b8381632b": {
+      "id": 920412,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "431eaa98-5000-485a-8ac5-3e0c78213588": {
+      "id": 920412,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "5f0d9dac-2547-4ecb-896e-0c603968422a": {
+      "id": 920413,
+      "trend": 9.95,
+      "low": 13.85
+    },
+    "695a0906-3118-4ca5-a241-4eea0ed6f7cf": {
+      "id": 920413,
+      "trend": 9.95,
+      "low": 13.85
+    },
+    "b6295362-bd30-4b91-8755-738938cf839b": {
+      "id": 920414,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "bc347fa2-8428-44a7-b6e4-2b166b66447c": {
+      "id": 920414,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "4bb35017-9842-4178-99a6-34353a3de2d4": {
+      "id": 920415,
+      "trend": 0,
+      "low": 0.5,
+      "trendFoil": 0.5,
+      "lowFoil": 0.5
+    },
+    "a287a673-d258-4d60-bc7a-9093678fe5dd": {
+      "id": 920415,
+      "trend": 0,
+      "low": 0.5,
+      "trendFoil": 0.5,
+      "lowFoil": 0.5
+    },
+    "39747fc8-20a0-4fbb-80d7-2a869b735ac9": {
+      "id": 920416,
+      "trend": 0.3,
+      "low": 0.3
+    },
+    "0e3c8bcd-da77-408e-b8c6-7f384d569ac3": {
+      "id": 920416,
+      "trend": 0.3,
+      "low": 0.3
+    },
+    "60255f42-3ddd-4865-9e4a-335963694be1": {
+      "id": 920417,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "8efe08a5-0691-483d-817c-3aad5b73d28f": {
+      "id": 920417,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "270c2b70-35fb-4d47-b1c0-3df11141f880": {
+      "id": 920418,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "3558e145-19d6-4273-b4fd-9b0f160a3d8c": {
+      "id": 920418,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "f70b75b5-aa2f-4c2d-b8c3-01fcb2a670ec": {
+      "id": 920425,
+      "low": 7.85,
+      "lowFoil": 7.85
+    },
+    "926a067d-4148-4f04-8468-13f5d435040e": {
+      "id": 920425,
+      "low": 7.85,
+      "lowFoil": 7.85
+    },
+    "0aab2858-fa5e-42f6-997e-39797fefb669": {
+      "id": 920428,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "8af3ebb8-0007-4d24-acd2-0edc9b0e9a34": {
+      "id": 920428,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "19587d4f-6d47-44fe-b4da-99743e2742f7": {
+      "id": 920430,
+      "trend": 9.95,
+      "low": 9.8
+    },
+    "35c71811-34bb-4bdf-ad1e-eeff6a8030a6": {
+      "id": 920430,
+      "trend": 9.95,
+      "low": 9.8
+    },
+    "c4806b05-6476-4c67-95a5-fc9c4ce2aaa2": {
+      "id": 920431,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "dadab555-f412-425e-b700-e33fdfaf74e4": {
+      "id": 920431,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "9ecace66-9724-4582-8a45-ae614ffc640f": {
+      "id": 920432,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "6a6cf4b7-ebca-4ffd-8d9f-14983ab94fe4": {
+      "id": 920432,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "49c919ef-61d7-47d3-b855-1d4d7c0f783f": {
+      "id": 920433,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "d54b768a-bee0-4dd0-be7d-01aa1588183f": {
+      "id": 920433,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "087c30c2-1a7d-423e-b2f3-a7e1e8cfca12": {
+      "id": 920434,
+      "trend": 0.4,
+      "low": 0.4
+    },
+    "eb57cfca-7635-451c-8d4e-30d0067acbfe": {
+      "id": 920434,
+      "trend": 0.4,
+      "low": 0.4
+    },
+    "0e0e7e20-eaf3-4dea-a177-cb54e01ffec6": {
+      "id": 920435,
+      "trend": 0.7,
+      "low": 0.7
+    },
+    "7329d165-bd9e-41fd-aaac-38f81a629ec3": {
+      "id": 920435,
+      "trend": 0.7,
+      "low": 0.7
+    },
+    "301b47dd-eab3-4648-aece-bc071b87dcd1": {
+      "id": 920436,
+      "trend": 0.3,
+      "low": 0.3
+    },
+    "5eacc91e-1b36-473a-a8d9-b1dfbd3eec59": {
+      "id": 920436,
+      "trend": 0.3,
+      "low": 0.3
+    },
+    "9e5a152e-6105-44a4-8db0-9cbf6cda2252": {
+      "id": 920437,
+      "trend": 0.3,
+      "low": 0.3
+    },
+    "2c41626a-3fd6-4510-b75b-c42c6edd8f42": {
+      "id": 920437,
+      "trend": 0.3,
+      "low": 0.3
+    },
+    "b03a2e07-73a4-49c4-b4a3-761748a7b09e": {
+      "id": 920438,
+      "trend": 0,
+      "low": 0.4,
+      "trendFoil": 0.4,
+      "lowFoil": 0.4
+    },
+    "a393570d-e0a3-4c87-88bb-e3d93d1c041f": {
+      "id": 920438,
+      "trend": 0,
+      "low": 0.4,
+      "trendFoil": 0.4,
+      "lowFoil": 0.4
+    },
+    "2ba68619-7050-44c5-b0ce-b32d48b8f40f": {
+      "id": 920439,
+      "low": 6.5,
+      "lowFoil": 6.5
+    },
+    "6f154367-d0cb-4650-9d31-d87193f32bfc": {
+      "id": 920439,
+      "low": 6.5,
+      "lowFoil": 6.5
+    },
+    "6ac7adce-01af-4b5b-956b-698eda0bed14": {
+      "id": 920441,
+      "low": 5.5,
+      "lowFoil": 5.5
+    },
+    "c5376289-9470-4a11-9f67-def96fb5f6f5": {
+      "id": 920441,
+      "low": 5.5,
+      "lowFoil": 5.5
+    },
+    "0ce87466-8869-484f-bd4c-5094fdfc6dbc": {
+      "id": 920443,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "67c0d4ad-a044-4240-8941-4a90c8d5eeef": {
+      "id": 920443,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "b00202eb-35e5-4ae7-8079-34b70a143040": {
+      "id": 920444,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "72903660-69b5-4198-9bfb-cb58e0964a27": {
+      "id": 920444,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "377a3054-68e1-4843-8109-70e230592519": {
+      "id": 920445,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "e1064ff5-fa7b-4f06-977a-c288a5480c4b": {
+      "id": 920445,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "42e03e7a-923d-4f2b-8d79-191e69873947": {
+      "id": 920446,
+      "trend": 9.85,
+      "low": 11.95
+    },
+    "7f136179-5ad1-4990-872c-be989b77d61b": {
+      "id": 920446,
+      "trend": 9.85,
+      "low": 11.95
+    },
+    "3b69e0c7-418c-4000-b6f4-f9584bc541e3": {
+      "id": 920447,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "1684accd-b2bc-4a30-92cb-cc2d6d53429f": {
+      "id": 920447,
+      "trend": 0.2,
+      "low": 0.2
+    },
+    "a4684963-6c44-4e6e-9466-56d987f86112": {
+      "id": 920450,
+      "trend": 0.4,
+      "low": 0.4
+    },
+    "70d8df05-c5fc-4eaf-8e5b-c81ca96d02e3": {
+      "id": 920450,
+      "trend": 0.4,
+      "low": 0.4
+    },
+    "8a13760d-050c-4a9c-bc44-f6b5796bb9f2": {
+      "id": 920451,
+      "low": 8.9
+    },
+    "cc86f2ba-b196-4316-9476-7dd6ef2194d6": {
+      "id": 920451,
+      "low": 8.9
+    },
+    "dc7bb3cf-1005-4584-ad7a-447f0ccf07bf": {
+      "id": 920511,
+      "trend": 0,
+      "low": 9,
+      "trendFoil": 8.6,
+      "lowFoil": 9
+    },
+    "be95c7f4-4a0f-4a96-80d8-03db7c809f74": {
+      "id": 920511,
+      "trend": 0,
+      "low": 9,
+      "trendFoil": 8.6,
+      "lowFoil": 9
+    },
+    "c9ceb0e7-c803-45d1-8da1-8c85c3b2e7e8": {
+      "id": 920512,
+      "trend": 0,
+      "low": 17,
+      "trendFoil": 15.09,
+      "lowFoil": 17
+    },
+    "14eb3f3d-c53c-47ca-a222-40e3680edeea": {
+      "id": 920512,
+      "trend": 0,
+      "low": 17,
+      "trendFoil": 15.09,
+      "lowFoil": 17
+    },
+    "1b6e44dd-d6e7-46eb-a5e5-24c38eed888b": {
+      "id": 920513,
+      "trend": 0,
+      "low": 11.98,
+      "trendFoil": 12.66,
+      "lowFoil": 11.98
+    },
+    "e97ed28b-c4c7-4d21-a11e-057ae5cb43c1": {
+      "id": 920513,
+      "trend": 0,
+      "low": 11.98,
+      "trendFoil": 12.66,
+      "lowFoil": 11.98
+    },
+    "77e482f2-6090-47e9-9d03-be28417cb1cb": {
+      "id": 920514,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 9.88,
+      "lowFoil": 8
+    },
+    "497dca45-581d-4507-a780-4d3f97531df1": {
+      "id": 920514,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 9.88,
+      "lowFoil": 8
+    },
+    "e4e17d32-3ec4-4c74-927c-fd0911b86e72": {
+      "id": 920515,
+      "trend": 0,
+      "low": 19.99,
+      "trendFoil": 18.22,
+      "lowFoil": 19.99
+    },
+    "483be286-3715-4e5b-a9cb-6299a39ef2b5": {
+      "id": 920515,
+      "trend": 0,
+      "low": 19.99,
+      "trendFoil": 18.22,
+      "lowFoil": 19.99
+    },
+    "f509ebd8-c8b7-4a22-8922-2d71c6df0b6f": {
+      "id": 920516,
+      "trend": 0,
+      "low": 12,
+      "trendFoil": 15.1,
+      "lowFoil": 12
+    },
+    "fb1b4f07-a39f-461b-a7e3-92fe886f87be": {
+      "id": 920516,
+      "trend": 0,
+      "low": 12,
+      "trendFoil": 15.1,
+      "lowFoil": 12
+    },
+    "3d5b7ebf-0378-401b-bfa2-32a02734c921": {
+      "id": 920517,
+      "trend": 0,
+      "low": 10,
+      "trendFoil": 10.46,
+      "lowFoil": 10
+    },
+    "595437cd-5180-4aef-b110-61950f738d8e": {
+      "id": 920517,
+      "trend": 0,
+      "low": 10,
+      "trendFoil": 10.46,
+      "lowFoil": 10
+    },
+    "352acc48-3842-4e10-b9b8-157f8a5f7286": {
+      "id": 920518,
+      "trend": 0,
+      "low": 10,
+      "trendFoil": 6.75,
+      "lowFoil": 10
+    },
+    "00280859-865f-43ec-a87f-5a2c0f447d4e": {
+      "id": 920518,
+      "trend": 0,
+      "low": 10,
+      "trendFoil": 6.75,
+      "lowFoil": 10
+    },
+    "c89f2af6-dab2-40fe-a29e-6e98c0322f5d": {
+      "id": 920519,
+      "trend": 0,
+      "low": 12.5,
+      "trendFoil": 5.92,
+      "lowFoil": 12.5
+    },
+    "5f758458-2eb7-4286-8649-15195a3b92a3": {
+      "id": 920519,
+      "trend": 0,
+      "low": 12.5,
+      "trendFoil": 5.92,
+      "lowFoil": 12.5
+    },
+    "3282ec42-006b-4214-a6c9-7c09f1278b26": {
+      "id": 920520,
+      "trend": 0,
+      "low": 3.5,
+      "trendFoil": 6,
+      "lowFoil": 3.5
+    },
+    "de9ec3eb-8d07-4379-a481-f6a1aaa51347": {
+      "id": 920520,
+      "trend": 0,
+      "low": 3.5,
+      "trendFoil": 6,
+      "lowFoil": 3.5
+    },
+    "80efc8c5-c352-4d3a-b713-bfcf593a7f2a": {
+      "id": 920521,
+      "trend": 0,
+      "low": 9.5,
+      "trendFoil": 5.84,
+      "lowFoil": 9.5
+    },
+    "76c9d33b-bb78-40f6-803b-007f45e5de9b": {
+      "id": 920521,
+      "trend": 0,
+      "low": 9.5,
+      "trendFoil": 5.84,
+      "lowFoil": 9.5
+    },
+    "ce3dacce-fb10-488c-9001-95fe7f3329a4": {
+      "id": 920522,
+      "trend": 0,
+      "low": 8.8,
+      "trendFoil": 7.66,
+      "lowFoil": 8.8
+    },
+    "4054ccb4-9fc8-4588-8277-fb7c3dccc279": {
+      "id": 920522,
+      "trend": 0,
+      "low": 8.8,
+      "trendFoil": 7.66,
+      "lowFoil": 8.8
+    },
+    "34436540-0422-4a92-8757-c15dded67ea9": {
+      "id": 920523,
+      "trend": 0,
+      "low": 4,
+      "trendFoil": 6.97,
+      "lowFoil": 4
+    },
+    "7f38f6ab-10b1-4aaf-b295-53e703921874": {
+      "id": 920523,
+      "trend": 0,
+      "low": 4,
+      "trendFoil": 6.97,
+      "lowFoil": 4
+    },
+    "c12c4516-264b-4f7a-9d99-de7bc3ebb0fb": {
+      "id": 920524,
+      "trend": 0,
+      "low": 9.8,
+      "trendFoil": 6.09,
+      "lowFoil": 9.8
+    },
+    "71a05ddb-312c-4976-bdfd-06d9f6feffed": {
+      "id": 920524,
+      "trend": 0,
+      "low": 9.8,
+      "trendFoil": 6.09,
+      "lowFoil": 9.8
+    },
+    "e2b7ca4a-ebb6-48d4-b0b7-59865c6c85f0": {
+      "id": 920525,
+      "trend": 0,
+      "low": 5.5,
+      "trendFoil": 3.98,
+      "lowFoil": 5.5
+    },
+    "99db9a1f-e9ec-4998-9125-b7bcb79c5054": {
+      "id": 920525,
+      "trend": 0,
+      "low": 5.5,
+      "trendFoil": 3.98,
+      "lowFoil": 5.5
+    },
+    "ecfd2d86-f9dc-47c4-a4ec-4a1155217dc7": {
+      "id": 920526,
+      "trend": 0,
+      "low": 5.9,
+      "trendFoil": 5.42,
+      "lowFoil": 5.9
+    },
+    "bbbd9bd0-71d3-4a39-8e2d-3d3f10aee23a": {
+      "id": 920526,
+      "trend": 0,
+      "low": 5.9,
+      "trendFoil": 5.42,
+      "lowFoil": 5.9
+    },
+    "e6663f3c-5668-4bab-ba3c-6e2b78636f2c": {
+      "id": 920527,
+      "trend": 0,
+      "low": 4.5,
+      "trendFoil": 7.22,
+      "lowFoil": 4.5
+    },
+    "68e56b4e-9c21-4d09-a270-9b3cc355fa30": {
+      "id": 920527,
+      "trend": 0,
+      "low": 4.5,
+      "trendFoil": 7.22,
+      "lowFoil": 4.5
+    },
+    "534faf6c-78ff-4256-8c1b-a77438b7f979": {
+      "id": 922552
+    },
+    "fb9ce825-c8cd-41a5-83cf-9372c16e4172": {
+      "id": 922553
+    },
+    "6d3d7780-b1e1-4c7a-a085-6de0b94ac9e8": {
+      "id": 922554
+    },
+    "d2e8c1c2-6cd4-4d2e-94fa-21b96daaea6b": {
+      "id": 922559,
+      "trend": 0,
+      "low": 10,
+      "trendFoil": 8,
+      "lowFoil": 10
+    },
+    "e1be086c-78ca-472a-927f-1c145e87646b": {
+      "id": 922559,
+      "trend": 0,
+      "low": 10,
+      "trendFoil": 8,
+      "lowFoil": 10
+    },
+    "c51e7c71-6305-4330-a107-a197af5eeeb2": {
+      "id": 922582,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "77189cf1-2e1e-44a6-8190-9175789c8c8d": {
+      "id": 922582,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "a4271ab1-4688-4f98-b000-a186aadd7fee": {
+      "id": 922561,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "71cad350-657b-4a55-bd07-aada806def8e": {
+      "id": 922561,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "bd6fe2cf-bfcd-4de2-bc78-ffc215d39603": {
+      "id": 922583,
+      "trend": 0,
+      "low": 25,
+      "trendFoil": 60,
+      "lowFoil": 25
+    },
+    "e5207a33-75fe-460c-8476-872cd746c6a6": {
+      "id": 922583,
+      "trend": 0,
+      "low": 25,
+      "trendFoil": 60,
+      "lowFoil": 25
+    },
+    "c0a913fe-d3fc-4558-a35f-cfa34d4023c3": {
+      "id": 922562,
+      "trend": 0,
+      "trendFoil": 8
+    },
+    "86665027-3400-4183-a246-a4df93b83c83": {
+      "id": 922562,
+      "trend": 0,
+      "trendFoil": 8
+    },
+    "922e0824-cef0-4062-bb6f-5e30f4814f40": {
+      "id": 922584
+    },
+    "b142d928-a4fe-4f0a-84f7-860baf5a787f": {
+      "id": 922584
+    },
+    "5b855c9c-bdf3-4743-9653-d6eb6ce3f6f5": {
+      "id": 922563,
+      "trend": 0,
+      "low": 15,
+      "trendFoil": 8,
+      "lowFoil": 15
+    },
+    "9fd08b9f-ba4c-44b4-9005-f8007ff7b107": {
+      "id": 922563,
+      "trend": 0,
+      "low": 15,
+      "trendFoil": 8,
+      "lowFoil": 15
+    },
+    "adf78727-f462-424c-8689-0b759794ee3c": {
+      "id": 922585,
+      "low": 1500,
+      "lowFoil": 1500
+    },
+    "ca3dbf6e-ead5-4948-b704-e325a6297fd7": {
+      "id": 922585,
+      "low": 1500,
+      "lowFoil": 1500
+    },
+    "a78c25bb-94ce-4833-bcc4-be6dce72ecb1": {
+      "id": 922565,
+      "trend": 0,
+      "low": 19.99,
+      "trendFoil": 8,
+      "lowFoil": 19.99
+    },
+    "648a99cd-d25d-4e9e-a45d-14b47ed7f854": {
+      "id": 922565,
+      "trend": 0,
+      "low": 19.99,
+      "trendFoil": 8,
+      "lowFoil": 19.99
+    },
+    "9f7b3df5-721c-410f-8dec-5ce3bc4377c0": {
+      "id": 922586,
+      "trend": 0,
+      "trendFoil": 60
+    },
+    "eb96776d-e7ab-4312-85a8-fe2957f22094": {
+      "id": 922586,
+      "trend": 0,
+      "trendFoil": 60
+    },
+    "d16f9b63-cc98-4b88-981e-258d1940aa04": {
+      "id": 922566,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "aa8dd968-405c-4e82-a6f5-722e1f00c490": {
+      "id": 922566,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "34dd1e1b-5022-4858-91bc-1243ea7f4615": {
+      "id": 922587,
+      "trend": 0,
+      "trendFoil": 60
+    },
+    "4706864a-1946-4f13-a433-65add75ad6ca": {
+      "id": 922587,
+      "trend": 0,
+      "trendFoil": 60
+    },
+    "f997c534-5208-4c37-8aff-4f6587e606c2": {
+      "id": 922567,
+      "trend": 0,
+      "low": 20,
+      "trendFoil": 8,
+      "lowFoil": 20
+    },
+    "bf92e29e-162b-47b5-a416-f2ba389fc912": {
+      "id": 922567,
+      "trend": 0,
+      "low": 20,
+      "trendFoil": 8,
+      "lowFoil": 20
+    },
+    "86bc6f96-41d3-4639-b75b-25ae58202b3d": {
+      "id": 922589,
+      "low": 100,
+      "lowFoil": 100
+    },
+    "e8882cc2-86a2-49d1-aaf9-a7c315842510": {
+      "id": 922589,
+      "low": 100,
+      "lowFoil": 100
+    },
+    "88002e9c-429e-4434-8564-e1b22625ce4e": {
+      "id": 922568,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "3f8a1c0a-ebb1-46a7-a6d6-4331f0cee098": {
+      "id": 922568,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "968eff55-5775-44c1-b5e0-7b1b9293763e": {
+      "id": 922590
+    },
+    "c9fbad01-853c-4f3f-a550-45951847a04c": {
+      "id": 922590
+    },
+    "6b574386-2893-4236-86a4-68c48222ae9e": {
+      "id": 922569,
+      "trend": 0,
+      "low": 5,
+      "trendFoil": 8,
+      "lowFoil": 5
+    },
+    "5f456afc-0bf1-4675-bee5-1d4bfb72034b": {
+      "id": 922569,
+      "trend": 0,
+      "low": 5,
+      "trendFoil": 8,
+      "lowFoil": 5
+    },
+    "8c0cd775-71b6-43f9-af49-1d41386eb1ee": {
+      "id": 922591,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "2ba670a8-030e-494c-aeaf-0503926e6eac": {
+      "id": 922591,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "f77b20fd-8792-41bb-a634-06030fd2eb6d": {
+      "id": 922570,
+      "trend": 0,
+      "low": 5,
+      "trendFoil": 8,
+      "lowFoil": 5
+    },
+    "c740f0b7-858c-4792-862d-7dd54372cfff": {
+      "id": 922570,
+      "trend": 0,
+      "low": 5,
+      "trendFoil": 8,
+      "lowFoil": 5
+    },
+    "c89b85cb-aa23-4fa6-b093-aad81bde74a4": {
+      "id": 922593
+    },
+    "627659e9-5298-466f-8cc2-97caaed5ab48": {
+      "id": 922593
+    },
+    "7757b045-4ccf-432b-b412-c82a44ee3adc": {
+      "id": 922571,
+      "trend": 0,
+      "low": 6,
+      "trendFoil": 8,
+      "lowFoil": 6
+    },
+    "221a8a1f-77bc-42f4-b044-a3fb09965805": {
+      "id": 922571,
+      "trend": 0,
+      "low": 6,
+      "trendFoil": 8,
+      "lowFoil": 6
+    },
+    "36d849b2-3d3a-4113-bc69-214a8a91e6d6": {
+      "id": 922594,
+      "trend": 0,
+      "low": 55,
+      "trendFoil": 55,
+      "lowFoil": 55
+    },
+    "20d5d227-d18b-4039-9834-6ad5bc324557": {
+      "id": 922594,
+      "trend": 0,
+      "low": 55,
+      "trendFoil": 55,
+      "lowFoil": 55
+    },
+    "bd897ed7-a74b-4993-9da5-16f820c3502d": {
+      "id": 922573,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "bb84e7b0-0a5d-41c5-b60c-56d670777fc6": {
+      "id": 922573,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "6121b4c1-b899-4c69-a7d6-674bb6889e29": {
+      "id": 922595,
+      "trend": 0,
+      "trendFoil": 60
+    },
+    "2c63f11a-7ff6-4460-ad2f-a002405dc555": {
+      "id": 922595,
+      "trend": 0,
+      "trendFoil": 60
+    },
+    "3a3900be-bbee-4218-8b58-0e5fa445ee46": {
+      "id": 922574,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "1b15e610-8f48-46f0-8708-5104134e966b": {
+      "id": 922574,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "aea6c98e-6bc5-4912-b7d8-a6558fde5eaf": {
+      "id": 922596,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "c95ba50a-07d9-4c10-a3e5-4dc5f25a30ef": {
+      "id": 922596,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "e03952c1-9f8c-4ecb-8258-ab753ef9c9a7": {
+      "id": 922575,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "6728f922-a514-4f15-991b-27ba0e17951f": {
+      "id": 922575,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "1f3e50a4-54ea-4e77-9ef3-0ceeb38d0278": {
+      "id": 922598,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "65e81385-8e38-4d8c-b0a7-09226fb72823": {
+      "id": 922598,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "a1c75317-6fa9-48f8-b296-cfe6a336f12a": {
+      "id": 922577,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "c0a8e28f-7f0c-4631-ad73-2219ab851160": {
+      "id": 922577,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "317331e6-55bd-4c4d-9f50-700601f53db2": {
+      "id": 922599
+    },
+    "5d923604-b3a1-4632-b5df-14dadb95caa5": {
+      "id": 922599
+    },
+    "5cc2112c-10b6-4491-963d-8b517244aaee": {
+      "id": 922603,
+      "low": 22,
+      "lowFoil": 22
+    },
+    "0bb3e3d1-accf-4e8f-9e93-2d4c5c86168e": {
+      "id": 922603,
+      "low": 22,
+      "lowFoil": 22
+    },
+    "70ef0b79-d569-4a62-bdbc-e02c616f8b98": {
+      "id": 922578,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "a96d4bb7-b498-4371-9558-e423be933064": {
+      "id": 922578,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "779c63a5-cec1-47b0-a96e-51369a0ba186": {
+      "id": 922600,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "d378d160-5c3b-4e45-b9c0-2f5715f01ba0": {
+      "id": 922600,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "f8098004-7b14-4d5a-8398-85c5660e1d8f": {
+      "id": 922579,
+      "trend": 0,
+      "low": 4.5,
+      "trendFoil": 8,
+      "lowFoil": 4.5
+    },
+    "fc2e2d9b-f9ad-4017-b570-9775285dcaed": {
+      "id": 922579,
+      "trend": 0,
+      "low": 4.5,
+      "trendFoil": 8,
+      "lowFoil": 4.5
+    },
+    "fbe9274d-e4c4-415f-9914-0fbd5985c0b3": {
+      "id": 922601,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "5dea5d8a-4fc5-4598-8e3c-b21d0ef9d85d": {
+      "id": 922601,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "2267884a-40c8-49ff-952b-90ec1b977179": {
+      "id": 922581,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "d8b393db-c317-4cb0-bec4-2d5327ce3e37": {
+      "id": 922581,
+      "trend": 0,
+      "low": 8,
+      "trendFoil": 8,
+      "lowFoil": 8
+    },
+    "575138c0-4eae-4d61-abf7-028557a884c8": {
+      "id": 922602,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "d7682383-70b5-4caa-9822-5a6cd46d02af": {
+      "id": 922602,
+      "trend": 0,
+      "trendFoil": 55
+    },
+    "a9eb38f2-fe64-47c5-9938-9b6ecb01c913": {
+      "id": 922604
+    },
+    "4917aef2-61e8-4208-9ff3-f51903c09494": {
+      "id": 922604
+    },
+    "6f8d1015-dd5d-49c4-9620-6b3b0c7ee82a": {
+      "id": 922606
+    },
+    "57e0fbcf-59b2-405a-b35f-30b101e8e9a0": {
+      "id": 922606
+    },
+    "36d42759-0199-47f0-835b-ee6616842e49": {
+      "id": 922609
+    },
+    "4e8061a5-646b-46e5-be0d-f74af37259f1": {
+      "id": 922609
+    },
+    "2a0fa3c6-f259-49ad-88a2-843713712ccd": {
+      "id": 922605
+    },
+    "926893b9-9214-4db7-bf21-f6bfd7b59bdb": {
+      "id": 922605
+    },
+    "b2d8aa5e-0d41-4c9e-b736-9d61e8153651": {
+      "id": 922608
+    },
+    "b0d19195-416d-456e-9d6e-e9816aaad0b1": {
+      "id": 922608
+    },
     "alpha-001": {
       "id": 904915,
       "low": 1300
@@ -4038,6 +4773,16 @@
       "id": 904965,
       "trend": 0.1,
       "low": 300
+    },
+    "aedbd6fe-19d2-4185-b708-b6393e21da20": {
+      "id": 905261
+    },
+    "17517c74-9e61-423a-9d65-c7f4b56af29a": {
+      "id": 920528,
+      "trend": 0,
+      "low": 49.9,
+      "trendFoil": 33.34,
+      "lowFoil": 49.9
     },
     "71a35836-e604-4d98-ab56-58bfb4581033": {
       "id": 904772,
