@@ -13263,6 +13263,22 @@
     ]
   },
   {
+    "id": "b019beca-f6fb-4b00-9c11-82b885993069",
+    "sourceId": "b019beca-f6fb-4b00-9c11-82b885993069",
+    "sourceUrl": "https://cyberpunktcg.com/cards/lucyna-kushinada-fresh-beginnings?printing=b019beca-f6fb-4b00-9c11-82b885993069",
+    "cardId": "lucyna-kushinada-fresh-beginnings",
+    "setId": "edgerunner-open-s-1",
+    "variantKey": "edgerunner-open-s-1-028-kainonaut",
+    "number": "028",
+    "rarity": "Nova Rare",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/edgerunner-open-s-1/b019beca-f6fb-4b00-9c11-82b885993069.webp",
+    "artist": "KAINONAUT",
+    "status": "active",
+    "treatments": []
+  },
+  {
     "id": "4eebb315-5f75-404e-b82a-7840b64cae88",
     "sourceId": "4eebb315-5f75-404e-b82a-7840b64cae88",
     "sourceUrl": "https://cyberpunktcg.com/cards/adam-smasher-ender-of-legends?printing=4eebb315-5f75-404e-b82a-7840b64cae88",
@@ -13715,6 +13731,22 @@
     "finish": "Foil",
     "imageUrl": "/cards/edgerunner-open-s-1/ad5146fa-964c-436a-84ab-75bf288dd28a.webp",
     "artist": "PANDART STUDIO",
+    "status": "active",
+    "treatments": []
+  },
+  {
+    "id": "61455e31-431b-4da8-b974-03ce9c8f9d25",
+    "sourceId": "61455e31-431b-4da8-b974-03ce9c8f9d25",
+    "sourceUrl": "https://cyberpunktcg.com/cards/guts-rebecca-s-carnage?printing=61455e31-431b-4da8-b974-03ce9c8f9d25",
+    "cardId": "guts-rebecca-s-carnage",
+    "setId": "edgerunner-open-s-1",
+    "variantKey": "edgerunner-open-s-1-055-divebound-studio",
+    "number": "055",
+    "rarity": "Nova Rare",
+    "language": "EN",
+    "finish": "Foil",
+    "imageUrl": "/cards/edgerunner-open-s-1/61455e31-431b-4da8-b974-03ce9c8f9d25.webp",
+    "artist": "DIVEBOUND STUDIO",
     "status": "active",
     "treatments": []
   },

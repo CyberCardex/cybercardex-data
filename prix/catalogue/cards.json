@@ -407,6 +407,16 @@
     "eddiable": true
   },
   {
+    "id": "guts-rebecca-s-carnage",
+    "name": "GUTS",
+    "subtitle": "Rebecca's Carnage",
+    "color": "Red",
+    "cardType": "Gear",
+    "cost": 2,
+    "power": 2,
+    "eddiable": true
+  },
+  {
     "id": "satori-sword-of-saburo",
     "name": "SATORI",
     "subtitle": "Sword of Saburo",

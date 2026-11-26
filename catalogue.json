@@ -53,26 +53,28 @@
     },
     {
       "base": "3e4d1e9959032c09",
-      "revision": 2,
+      "revision": 3,
       "minApp": 30001,
       "title": {
-        "fr": "Corrections de finition (Foil)",
-        "en": "Finish corrections (Foil)"
+        "fr": "Guts et Lucyna, Edgerunner Open S1",
+        "en": "Guts and Lucyna, Edgerunner Open S1"
       },
-      "file": "https://github.com/CyberCardex/cybercardex-data/releases/download/3e4d1e9959032c09-r2/3e4d1e9959032c09-r2.zip",
-      "size": 12007608,
-      "sha256": "91ea5cbac0deaaedfa652749cd9fab1b80113b7d7a21437e0fb6dbca488d5e6c",
-      "unpacked": 11951588,
+      "file": "https://github.com/CyberCardex/cybercardex-data/releases/download/3e4d1e9959032c09-r3/3e4d1e9959032c09-r3.zip",
+      "size": 12234569,
+      "sha256": "1d7e89cf2850c9a6028f7907ee6f0f6e9a8eadef0f5d107938fb6d2388d6aa0e",
+      "unpacked": 12177705,
       "changes": {
-        "added": 0,
-        "corrected": 114,
+        "added": 2,
+        "corrected": 0,
         "updated": 0
       },
-      "files": 245,
+      "files": 249,
       "printings": [
         "cb12d8c4-64b1-4e53-898e-8fd46aeac6bf",
         "7d1960a6-2d90-4278-937c-1e6905a3a396",
+        "b019beca-f6fb-4b00-9c11-82b885993069",
         "b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
+        "61455e31-431b-4da8-b974-03ce9c8f9d25",
         "9b4231da-b5e9-44ee-9de9-75ba6a6e6de6",
         "0cf807a8-4131-426a-a67d-4d03e372b05e",
         "dfd5d1df-2b47-4ddd-9d6a-35430a892cfc",
@@ -196,7 +198,9 @@
       "cardIds": [
         "johnny-silverhand-rocking-renegade",
         "johnny-silverhand-rocking-renegade",
+        "lucyna-kushinada-fresh-beginnings",
         "johnny-silverhand-rocking-renegade",
+        "guts-rebecca-s-carnage",
         "lucyna-kushinada-fresh-beginnings",
         "lucyna-kushinada-fresh-beginnings",
         "nocturne-op55-n1",
@@ -321,8 +325,8 @@
         "Welcome to Night City Retail",
         "Edgerunner Open S1 Event",
         "Set 1 Promos Promo",
-        "Welcome to Night City BETA",
-        "Box Toppers BETA",
+        "Welcome to Night City Beta",
+        "Box Toppers Beta",
         "Embracing Power Retail Starter Deck",
         "The Heist Retail Starter Deck"
       ]
@@ -333,5 +337,5 @@
     "test-2026-10-19",
     "la-3-0-est-la-2026-10-27"
   ],
-  "updatedAt": "2026-11-12T13:05:56.890Z"
+  "updatedAt": "2026-11-26T23:01:23.647Z"
 }

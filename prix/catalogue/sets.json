@@ -11,7 +11,7 @@
     "id": "welcome-to-night-city-beta",
     "code": "WNC",
     "name": "Welcome to Night City",
-    "edition": "BETA",
+    "edition": "Beta",
     "releaseYear": 2026,
     "releaseType": "set"
   },
@@ -83,7 +83,7 @@
     "id": "box-toppers-beta",
     "code": "BT",
     "name": "Box Toppers",
-    "edition": "BETA",
+    "edition": "Beta",
     "releaseYear": 2026,
     "releaseType": "box-topper"
   },

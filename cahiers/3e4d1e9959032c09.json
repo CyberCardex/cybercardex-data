@@ -1,11 +1,13 @@
 {
   "base": "3e4d1e9959032c09",
-  "revision": 2,
+  "revision": 3,
   "variantOrder": [
     "edgerunner-open-s-1-031-divebound-studio",
     "set-1-promos-004a-pandart-studio",
     "set-1-promos-004b-pandart-studio",
-    "welcome-to-night-city-retail-168-divebound"
+    "welcome-to-night-city-retail-168-divebound",
+    "edgerunner-open-s-1-028-kainonaut",
+    "edgerunner-open-s-1-055-divebound-studio"
   ],
   "printings": [
     {
@@ -43,6 +45,22 @@
       "treatments": []
     },
     {
+      "id": "b019beca-f6fb-4b00-9c11-82b885993069",
+      "sourceId": "b019beca-f6fb-4b00-9c11-82b885993069",
+      "sourceUrl": "https://cyberpunktcg.com/cards/lucyna-kushinada-fresh-beginnings?printing=b019beca-f6fb-4b00-9c11-82b885993069",
+      "cardId": "lucyna-kushinada-fresh-beginnings",
+      "setId": "edgerunner-open-s-1",
+      "variantKey": "edgerunner-open-s-1-028-kainonaut",
+      "number": "028",
+      "rarity": "Nova Rare",
+      "language": "EN",
+      "finish": "Foil",
+      "imageUrl": "/cards/edgerunner-open-s-1/b019beca-f6fb-4b00-9c11-82b885993069.webp",
+      "artist": "KAINONAUT",
+      "status": "active",
+      "treatments": []
+    },
+    {
       "id": "b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
       "sourceId": "b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
       "sourceUrl": "https://cyberpunktcg.com/cards/johnny-silverhand-rocking-renegade?printing=b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
@@ -54,6 +72,22 @@
       "language": "EN",
       "finish": "Foil",
       "imageUrl": "/cards/edgerunner-open-s-1/b6f81fe8-d0ed-4dcb-b025-058559d0cf98.webp",
+      "artist": "DIVEBOUND STUDIO",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "61455e31-431b-4da8-b974-03ce9c8f9d25",
+      "sourceId": "61455e31-431b-4da8-b974-03ce9c8f9d25",
+      "sourceUrl": "https://cyberpunktcg.com/cards/guts-rebecca-s-carnage?printing=61455e31-431b-4da8-b974-03ce9c8f9d25",
+      "cardId": "guts-rebecca-s-carnage",
+      "setId": "edgerunner-open-s-1",
+      "variantKey": "edgerunner-open-s-1-055-divebound-studio",
+      "number": "055",
+      "rarity": "Nova Rare",
+      "language": "EN",
+      "finish": "Foil",
+      "imageUrl": "/cards/edgerunner-open-s-1/61455e31-431b-4da8-b974-03ce9c8f9d25.webp",
       "artist": "DIVEBOUND STUDIO",
       "status": "active",
       "treatments": []
@@ -2218,6 +2252,16 @@
   },
   "cards": [
     {
+      "id": "guts-rebecca-s-carnage",
+      "name": "GUTS",
+      "subtitle": "Rebecca's Carnage",
+      "color": "Red",
+      "cardType": "Gear",
+      "cost": 2,
+      "power": 2,
+      "eddiable": true
+    },
+    {
       "id": "lucyna-kushinada-fresh-beginnings",
       "name": "LUCYNA KUSHINADA",
       "subtitle": "Fresh Beginnings",
@@ -2712,8 +2756,16 @@
       "wq6wxsLAChwe9gUE2ubl0NzeAfoFEfYEDv8K7drezq+s27Kr48jU8fn+Jzg2HA4L3tjOzsnO4NLV+Ov28Ovt5NDPw7az3MKvK/ELExgc9Pv2LTIuDQT+09rzB/LkB9bmLwABKPLlGdDQ98i7JRAiJxweOBcBBAL0Ni0n2eoLAPHpCNHcS/DzRicbKhgE/xEIGhsdIx8kJBsRVUQoT0dH4OXhDQ8T4uTjPvcF9jMi+jsc+B4BLw4TVkxBHAwLSEQt9vf00ens1xMm5hkl+UMr5RgJ09/g6/n9HQEIRyEaHyAjAAD9/P4BqrSvxwUY5y1E4RAI6QICFjhH8AIGEQv0DwAG6A4b+gMMCyImrby7q7qz0P8G6ig64Rw2IlNqMkkz8KO45+fuz+Ll5fL43tLW96u389fnIzEw+AADDvcFAPL1w7aySy4/UD0tICgyHQEHWjsu6gT2NA4QJh8a9xAR0iAt/DA1DS8yJBn64AsXw+v6rtjgATBEEjAVEPsM7xUkCwwcsMHKBfoEKTMh1t/3+w0YLTg9DhYGFBzz+frXGPTVJgkK6urc1dK+v8u5M8fG"
     ],
     [
+      "b019beca-f6fb-4b00-9c11-82b885993069",
+      "y8zG0tbYxsbO5+foERUKBgoD+fjw9fDn6evkFCQi8fjxx8i7AAX4AAgI0NTd3uLmOCooYU5FKx4Y2M7K6PH5JDc29Pz1uru18vwD8v0DAfj7DAcFKQYUH/wLVjc4MBwe6vX+RVdL9/7zuLix9/34/QQCAAcT8/kFJg0aGQYXDen8MBEcEQ4TSVdQ6/Hptrix5t7bMSsfBg8pDhgmOUdKBwQP7Or95/UM+wkSFSMp5+7quLiwz8XC5+PhOkQ7Av4DOzw2PC4sFwsMCy4zByAF7AQJ4PTzx8vHwr+6A/z3QUg6AwMJJSEqKiYrAv8B/QsVRVAgARUc2t3bt7m1y8fE5+HdCBINM0A/+fcG8/IDNzc2JhgPCv3z88rL1c3Strex2dnUz9HP8PPv3t/f1NfS6ObUAAQB5Of0LyEoMyIgHy8xt7q78vT3AQIVJR40Hg4kMTs7trm9zMbMHhweKCAsHCcsFBoWvMDE29LYLzY0/fMDHxUh6ub1uLm7xsfJCgIF+foMA/4KISg0uLvF///i7PDyODw4Njs4LS8pAwoLAgHd9vfoJiwgLC8ZLS8ZKCP8"
+    ],
+    [
       "b6f81fe8-d0ed-4dcb-b025-058559d0cf98",
       "5tHbBNjh78nN5ur+7vEHE/8fNw0uNhM0Jv8UF+LnDN/nCdrh49Lc9dDZ+tPb6wYPzwMJ3wIKEubtK+frJ+bqIubpHOXrEuHnHeHnBdHY99HX2QUBxEFJzz1G2TQ/7gUPJvfyQiALOw73Ku/kIuDkBdDT5t/bxyks0WRm2UNHEFdXs/LwIw0FVCT8PQPrIeblJ+HkCtPU59rdyxwcy0hD1FNH7zc/5xINOAX4SRX6PfrqJefoNOnjG9XQ9urt4vv1uxgTzlhXyh4k2unZKBH+NuvtL+rtJOfrKeToCcrL897f1w8Jy+HW32Zr5UZWvfPs/QnuICQeN+3xKOjsJeXp+MjD3f/7z+PY1wwB4yQa7UU5teLY2gT2BjQmElxTHAMB4bK6JdzsGt/uJur7NwIlGsTHF8/T89vk2f8DMQkcLuDeG9nZMNbT6uPcw2904jI2ZjcYO/LaM9XQ797S1C4m3C0wIhQFJ+bgGdHQ0ffx2ERC3SQj1CUB7jkVBgod0OgB8Rc3ADc43R4K4UYs8BYs+vQL9f0M1QwN+yAuvvXhPQLpNe8A7dzg1g0L3OPHLdfV"
+    ],
+    [
+      "61455e31-431b-4da8-b974-03ce9c8f9d25",
+      "ybXM2tjx1tPy3uT82+MAKzHMPkK7DA3QUlSuQj+pTk2h2r7A09Ps6O4G5OIH8fcV8Psa6ugS6fcKDibdOzbAGhPFfH+SDQnNztn3/wkW0ensKQIUHCQuFhUp/AEgBwb+FAH+GRbnCwjk/vHT3fELFCElzNLX4c/U8QkNRSInHR0uIggjCPsbBvYV7+MBDwHd3vQIAxYmHS4xycHQuN3gLPQSHPoTHQ4nD/0fA+gT/N8M89oD2gsf9P0YAPsZPkw/0MPa2rnH+PH+IfsYMRcpGv4e/uYQ+df91PkX8BEoJ0ZBTGZPEjU00BIKtb/F2fLyBhgnPR8qDfIXFO0Nysrg7f4ZEx4uN0E+CAwWvt/c2fsHt6e3wPLr7x8nCfIX/eAHBwPW0c7f5N3TJh/AAvS28tjEy9v09QsfAxYhLDzxVl3K/Pva2vwT7ggLFhcRJRk0HRUnFg3z3iIzQlpT+S8l3/P/KjA+DPARqKW/3t0CGR8v2voFuujs/PUIopy23cjtDBU4Dw8v8ugF+uwMpqCxEgkWGP8lGQQpHfob+eoADhrhKycKPhUZG/76DOroMyLm"
     ],
     [
       "9b4231da-b5e9-44ee-9de9-75ba6a6e6de6",
@@ -2729,8 +2781,12 @@
     "thumbs/welcome-to-night-city-retail/cb12d8c4-64b1-4e53-898e-8fd46aeac6bf.webp": "dd740cdc7d515eb899ea3f2a51bd686844380a5c9eacc8de912bf1e68764e44e",
     "cards/welcome-to-night-city-retail/7d1960a6-2d90-4278-937c-1e6905a3a396.webp": "961cea1b06378deb93ea66086de3b7ebf460cf8dac0e15133feda155af88f843",
     "thumbs/welcome-to-night-city-retail/7d1960a6-2d90-4278-937c-1e6905a3a396.webp": "c0e69553b3f8676431f7cdda754709f9cd783d41671671e084a56d771417007d",
+    "cards/edgerunner-open-s-1/b019beca-f6fb-4b00-9c11-82b885993069.webp": "b0557daff3e44c3e3e9acdc3805e32d1c508d9ddfa7407f1611c3645338b3d4e",
+    "thumbs/edgerunner-open-s-1/b019beca-f6fb-4b00-9c11-82b885993069.webp": "50fb94339a0c599fa38537b6071f3c29ec6efc6fd02d07094c2c17f88bf410a7",
     "cards/edgerunner-open-s-1/b6f81fe8-d0ed-4dcb-b025-058559d0cf98.webp": "956eb4d87dfe68ce3ea35d25dca19436cd64de3e9fe2a95467f6df791bb1fcc7",
     "thumbs/edgerunner-open-s-1/b6f81fe8-d0ed-4dcb-b025-058559d0cf98.webp": "17be38ad7d99d28b146ad27f1d2b82e27e5503e109cef8c97811603c2c20d020",
+    "cards/edgerunner-open-s-1/61455e31-431b-4da8-b974-03ce9c8f9d25.webp": "396fbd1584cd7eb19baa063fd073f68c10ee3d65fdb766c84f3a822936ccd505",
+    "thumbs/edgerunner-open-s-1/61455e31-431b-4da8-b974-03ce9c8f9d25.webp": "8baef88b2b0ccf9c4ea844303ab906b8ddd3137bf0184cb802962688170d75b7",
     "cards/set-1-promos/9b4231da-b5e9-44ee-9de9-75ba6a6e6de6.webp": "2568cf0ed7726840c1f8f07b763605613adff5b330bab094e5357fbe43b402af",
     "thumbs/set-1-promos/9b4231da-b5e9-44ee-9de9-75ba6a6e6de6.webp": "857925d431cbe871696f368614f5010ae11b1d20f3bdb20ffb25ab4dc11f9dbb",
     "cards/set-1-promos/0cf807a8-4131-426a-a67d-4d03e372b05e.webp": "3ffc23effde44303bfe297a1f5d0845323b4ab5dc0d653947d47fd4d262bb9c1",
