@@ -330,6 +330,36 @@
         "Embracing Power Retail Starter Deck",
         "The Heist Retail Starter Deck"
       ]
+    },
+    {
+      "base": "5aa6f2bc82ff4689",
+      "revision": 1,
+      "minApp": 30002,
+      "title": {
+        "fr": "Guts et Lucyna, Edgerunner Open S1",
+        "en": "Guts and Lucyna, Edgerunner Open S1"
+      },
+      "file": "https://github.com/CyberCardex/cybercardex-data/releases/download/5aa6f2bc82ff4689-r1/5aa6f2bc82ff4689-r1.zip",
+      "size": 227380,
+      "sha256": "0f913f826236cb910065da6c9ca18c0b66d769a803ffbf53353a0b79b453c6e2",
+      "unpacked": 226420,
+      "changes": {
+        "added": 2,
+        "corrected": 0,
+        "updated": 0
+      },
+      "files": 5,
+      "printings": [
+        "b019beca-f6fb-4b00-9c11-82b885993069",
+        "61455e31-431b-4da8-b974-03ce9c8f9d25"
+      ],
+      "cardIds": [
+        "lucyna-kushinada-fresh-beginnings",
+        "guts-rebecca-s-carnage"
+      ],
+      "sets": [
+        "Edgerunner Open S1 Event"
+      ]
     }
   ],
   "withdrawnMessages": [
@@ -337,5 +367,5 @@
     "test-2026-10-19",
     "la-3-0-est-la-2026-10-27"
   ],
-  "updatedAt": "2026-11-26T23:01:23.647Z"
+  "updatedAt": "2026-11-27T00:36:16.240Z"
 }

@@ -1,0 +1,76 @@
+{
+  "base": "5aa6f2bc82ff4689",
+  "revision": 1,
+  "variantOrder": [
+    "edgerunner-open-s-1-028-kainonaut",
+    "edgerunner-open-s-1-055-divebound-studio"
+  ],
+  "printings": [
+    {
+      "id": "b019beca-f6fb-4b00-9c11-82b885993069",
+      "sourceId": "b019beca-f6fb-4b00-9c11-82b885993069",
+      "sourceUrl": "https://cyberpunktcg.com/cards/lucyna-kushinada-fresh-beginnings?printing=b019beca-f6fb-4b00-9c11-82b885993069",
+      "cardId": "lucyna-kushinada-fresh-beginnings",
+      "setId": "edgerunner-open-s-1",
+      "variantKey": "edgerunner-open-s-1-028-kainonaut",
+      "number": "028",
+      "rarity": "Nova Rare",
+      "language": "EN",
+      "finish": "Foil",
+      "imageUrl": "/cards/edgerunner-open-s-1/b019beca-f6fb-4b00-9c11-82b885993069.webp",
+      "artist": "KAINONAUT",
+      "status": "active",
+      "treatments": []
+    },
+    {
+      "id": "61455e31-431b-4da8-b974-03ce9c8f9d25",
+      "sourceId": "61455e31-431b-4da8-b974-03ce9c8f9d25",
+      "sourceUrl": "https://cyberpunktcg.com/cards/guts-rebecca-s-carnage?printing=61455e31-431b-4da8-b974-03ce9c8f9d25",
+      "cardId": "guts-rebecca-s-carnage",
+      "setId": "edgerunner-open-s-1",
+      "variantKey": "edgerunner-open-s-1-055-divebound-studio",
+      "number": "055",
+      "rarity": "Nova Rare",
+      "language": "EN",
+      "finish": "Foil",
+      "imageUrl": "/cards/edgerunner-open-s-1/61455e31-431b-4da8-b974-03ce9c8f9d25.webp",
+      "artist": "DIVEBOUND STUDIO",
+      "status": "active",
+      "treatments": []
+    }
+  ],
+  "corrections": {
+    "sets": [],
+    "cards": [],
+    "printings": []
+  },
+  "cards": [
+    {
+      "id": "guts-rebecca-s-carnage",
+      "name": "GUTS",
+      "subtitle": "Rebecca's Carnage",
+      "color": "Red",
+      "cardType": "Gear",
+      "cost": 2,
+      "power": 2,
+      "eddiable": true
+    }
+  ],
+  "sets": [],
+  "scan": [
+    [
+      "b019beca-f6fb-4b00-9c11-82b885993069",
+      "y8zG0tbYxsbO5+foERUKBgoD+fjw9fDn6evkFCQi8fjxx8i7AAX4AAgI0NTd3uLmOCooYU5FKx4Y2M7K6PH5JDc29Pz1uru18vwD8v0DAfj7DAcFKQYUH/wLVjc4MBwe6vX+RVdL9/7zuLix9/34/QQCAAcT8/kFJg0aGQYXDen8MBEcEQ4TSVdQ6/Hptrix5t7bMSsfBg8pDhgmOUdKBwQP7Or95/UM+wkSFSMp5+7quLiwz8XC5+PhOkQ7Av4DOzw2PC4sFwsMCy4zByAF7AQJ4PTzx8vHwr+6A/z3QUg6AwMJJSEqKiYrAv8B/QsVRVAgARUc2t3bt7m1y8fE5+HdCBINM0A/+fcG8/IDNzc2JhgPCv3z88rL1c3Strex2dnUz9HP8PPv3t/f1NfS6ObUAAQB5Of0LyEoMyIgHy8xt7q78vT3AQIVJR40Hg4kMTs7trm9zMbMHhweKCAsHCcsFBoWvMDE29LYLzY0/fMDHxUh6ub1uLm7xsfJCgIF+foMA/4KISg0uLvF///i7PDyODw4Njs4LS8pAwoLAgHd9vfoJiwgLC8ZLS8ZKCP8"
+    ],
+    [
+      "61455e31-431b-4da8-b974-03ce9c8f9d25",
+      "ybXM2tjx1tPy3uT82+MAKzHMPkK7DA3QUlSuQj+pTk2h2r7A09Ps6O4G5OIH8fcV8Psa6ugS6fcKDibdOzbAGhPFfH+SDQnNztn3/wkW0ensKQIUHCQuFhUp/AEgBwb+FAH+GRbnCwjk/vHT3fELFCElzNLX4c/U8QkNRSInHR0uIggjCPsbBvYV7+MBDwHd3vQIAxYmHS4xycHQuN3gLPQSHPoTHQ4nD/0fA+gT/N8M89oD2gsf9P0YAPsZPkw/0MPa2rnH+PH+IfsYMRcpGv4e/uYQ+df91PkX8BEoJ0ZBTGZPEjU00BIKtb/F2fLyBhgnPR8qDfIXFO0Nysrg7f4ZEx4uN0E+CAwWvt/c2fsHt6e3wPLr7x8nCfIX/eAHBwPW0c7f5N3TJh/AAvS28tjEy9v09QsfAxYhLDzxVl3K/Pva2vwT7ggLFhcRJRk0HRUnFg3z3iIzQlpT+S8l3/P/KjA+DPARqKW/3t0CGR8v2voFuujs/PUIopy23cjtDBU4Dw8v8ugF+uwMpqCxEgkWGP8lGQQpHfob+eoADhrhKycKPhUZG/76DOroMyLm"
+    ]
+  ],
+  "sources": {
+    "cards/edgerunner-open-s-1/b019beca-f6fb-4b00-9c11-82b885993069.webp": "b0557daff3e44c3e3e9acdc3805e32d1c508d9ddfa7407f1611c3645338b3d4e",
+    "thumbs/edgerunner-open-s-1/b019beca-f6fb-4b00-9c11-82b885993069.webp": "50fb94339a0c599fa38537b6071f3c29ec6efc6fd02d07094c2c17f88bf410a7",
+    "cards/edgerunner-open-s-1/61455e31-431b-4da8-b974-03ce9c8f9d25.webp": "396fbd1584cd7eb19baa063fd073f68c10ee3d65fdb766c84f3a822936ccd505",
+    "thumbs/edgerunner-open-s-1/61455e31-431b-4da8-b974-03ce9c8f9d25.webp": "8baef88b2b0ccf9c4ea844303ab906b8ddd3137bf0184cb802962688170d75b7"
+  }
+}
